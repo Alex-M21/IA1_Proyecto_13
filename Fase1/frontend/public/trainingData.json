@@ -1,0 +1,103 @@
+{
+    "intents": [
+      {
+        "intent": "greeting",
+        "examples": [
+          {"userText": "hola", "botResponse": "¡Hola! ¿En qué puedo ayudarte?"},
+          {"userText": "buenos días", "botResponse": "¡Buenos días! ¿Cómo te puedo ayudar?"},
+          {"userText": "qué tal", "botResponse": "¡Hola! ¿Cómo estás?"},
+          {"userText": "saludos", "botResponse": "¡Hola! ¿En qué te puedo asistir?"},
+          {"userText": "¡buenas!", "botResponse": "¡Buenas! ¿Cómo te va?"},
+          {"userText": "¿qué pasa?", "botResponse": "¡Hola! ¿En qué puedo ayudarte?"},
+          {"userText": "¿cómo estás?", "botResponse": "¡Estoy bien! ¿Y tú?"},
+          {"userText": "¡hey!", "botResponse": "¡Hola! ¿Qué tal?"}
+        ]
+      },
+      {
+        "intent": "farewell",
+        "examples": [
+          {"userText": "adiós", "botResponse": "¡Hasta luego!"},
+          {"userText": "nos vemos", "botResponse": "¡Hasta pronto!"},
+          {"userText": "chao", "botResponse": "¡Cuídate!"},
+          {"userText": "adiós, nos vemos luego", "botResponse": "¡Que tengas un buen día!"},
+          {"userText": "hasta luego", "botResponse": "¡Nos vemos pronto!"},
+          {"userText": "me voy", "botResponse": "¡Hasta la próxima!"},
+          {"userText": "que tengas buen día", "botResponse": "¡Gracias! Igualmente."},
+          {"userText": "hasta pronto", "botResponse": "¡Nos vemos pronto!"}
+        ]
+      },
+      {
+        "intent": "how_are_you",
+        "examples": [
+          {"userText": "¿cómo estás?", "botResponse": "¡Estoy bien! ¿Y tú?"},
+          {"userText": "¿qué tal?", "botResponse": "¡Todo bien! ¿Y tú cómo estás?"},
+          {"userText": "cómo te encuentras", "botResponse": "Estoy bien, gracias. ¿Y tú?"},
+          {"userText": "cómo va todo", "botResponse": "Todo bien, gracias por preguntar."},
+          {"userText": "¿cómo te va?", "botResponse": "Me va bien, ¿y a ti?"},
+          {"userText": "¿todo bien?", "botResponse": "Sí, todo perfecto. ¿Y tú?"},
+          {"userText": "¿cómo has estado?", "botResponse": "Todo en orden, gracias. ¿Y tú?"},
+          {"userText": "¿qué tal tu día?", "botResponse": "Va muy bien, gracias por preguntar."}
+        ]
+      },
+      {
+        "intent": "capabilities",
+        "examples": [
+          {"userText": "¿qué puedes hacer?", "botResponse": "Puedo ayudarte con varias cosas, como responder preguntas o darte información."},
+          {"userText": "¿cuál es tu función?", "botResponse": "Puedo ofrecer respuestas a tus preguntas y guiarte en lo que necesites."},
+          {"userText": "¿en qué me puedes ayudar?", "botResponse": "Estoy aquí para proporcionarte información o responder a tus preguntas."},
+          {"userText": "¿cómo puedes asistir?", "botResponse": "Puedo ayudarte con diversas tareas como obtener información o resolver dudas."},
+          {"userText": "¿qué tipo de ayuda ofreces?", "botResponse": "Puedo responder preguntas generales y ayudarte con varias tareas."},
+          {"userText": "¿puedes hacer búsquedas?", "botResponse": "No, pero puedo proporcionarte información basada en mis datos de entrenamiento."},
+          {"userText": "¿eres un robot?", "botResponse": "Sí, soy un asistente virtual diseñado para ayudarte con tus preguntas."},
+          {"userText": "¿puedes responder preguntas?", "botResponse": "Sí, puedo responder preguntas y ayudarte con lo que necesites."}
+        ]
+      },
+      {
+        "intent": "weather",
+        "examples": [
+          {"userText": "¿cómo está el clima?", "botResponse": "Lo siento, no puedo consultar el clima en este momento."},
+          {"userText": "¿qué temperatura hace?", "botResponse": "No tengo acceso a información en tiempo real sobre el clima."},
+          {"userText": "¿va a llover?", "botResponse": "No tengo datos actuales sobre las condiciones meteorológicas."},
+          {"userText": "¿cómo está el tiempo hoy?", "botResponse": "No puedo obtener información sobre el clima, pero te puedo ayudar con otras cosas."}
+        ]
+      },
+      {
+        "intent": "jokes",
+        "examples": [
+          {"userText": "cuéntame un chiste", "botResponse": "¿Por qué el libro de matemáticas está triste? Porque tiene demasiados problemas."},
+          {"userText": "hazme reír", "botResponse": "¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter."},
+          {"userText": "chiste", "botResponse": "¿Por qué el gato se puso a estudiar informática? Porque quería ser un programador."},
+          {"userText": "dime un chiste", "botResponse": "¿Sabías que los pájaros nunca usan Twitter? Ellos ya están en sus redes sociales."}
+        ]
+      },
+      {
+        "intent": "thanks",
+        "examples": [
+          {"userText": "gracias", "botResponse": "¡De nada! ¿En qué más te puedo ayudar?"},
+          {"userText": "muchas gracias", "botResponse": "¡Con gusto! ¡Que tengas un excelente día!"},
+          {"userText": "te agradezco", "botResponse": "¡No hay de qué! ¡Estoy aquí para ayudarte!"},
+          {"userText": "gracias por tu ayuda", "botResponse": "¡Es un placer ayudarte!"},
+          {"userText": "te lo agradezco mucho", "botResponse": "¡Es un placer! ¡Que tengas un buen día!"}
+        ]
+      },
+      {
+        "intent": "apology",
+        "examples": [
+          {"userText": "lo siento", "botResponse": "No hay problema, ¡todo está bien!"},
+          {"userText": "perdón", "botResponse": "¡No te preocupes! ¿En qué más te puedo ayudar?"},
+          {"userText": "disculpa", "botResponse": "¡No pasa nada! ¿Cómo puedo ayudarte?"},
+          {"userText": "perdona", "botResponse": "¡No hay problema! ¿Te puedo ayudar con algo más?"}
+        ]
+      },
+      {
+        "intent": "information_request",
+        "examples": [
+          {"userText": "¿dónde estás?", "botResponse": "Soy un asistente virtual, no tengo una ubicación física."},
+          {"userText": "¿qué eres?", "botResponse": "Soy un chatbot creado para ayudarte a responder preguntas y proporcionar información."},
+          {"userText": "¿quién te creó?", "botResponse": "Fui creado por un equipo de desarrollo de inteligencia artificial."},
+          {"userText": "¿qué sabes hacer?", "botResponse": "Puedo ayudarte con preguntas generales y proporcionarte respuestas sobre varios temas."}
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,162 @@
+/* Contenedor principal */
+.container {
+    display: flex;
+    justify-content: center; /* Centrado horizontal */
+    align-items: center; /* Centrado vertical */
+    height: 100vh;
+    font-family: 'Arial', sans-serif;
+    padding: 0 20px;
+  }
+  
+  /* Barra lateral (Menu Bar) */
+  .menuBar {
+    width: 80px;
+    background-color: #FF8C00; /* Naranja principal */
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    border-radius: 10px;
+    height: 100%;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Iconos de la barra lateral */
+  .menuItem {
+    margin-bottom: 20px;
+    font-size: 24px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .menuItem:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Contenedor del chat */
+  .chatContainer {
+    width: 100%;
+    max-width: 600px;
+    background-color: #E5DDD5; /* Fondo suave */
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    border-radius: 10px;
+    margin-left: 80px; /* Para no solaparse con la barra lateral */
+    padding: 10px;
+  }
+  
+  /* Cabecera del chat */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #FF8C00; /* Naranja */
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* Caja de chat */
+  .chatBox {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex-grow: 1;
+    padding: 20px;
+    overflow-y: auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Mensajes del usuario */
+  .userMessage {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  /* Mensajes del bot */
+  .botMessage {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  /* Burbuja del usuario */
+  .userBubble {
+    background-color: #FF7F32; /* Naranja más claro */
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    max-width: 80%;
+    font-size: 14px;
+    word-wrap: break-word;
+    line-height: 1.4;
+  }
+  
+  /* Burbuja del bot */
+  .botBubble {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 10px 15px;
+    border-radius: 20px;
+    max-width: 80%;
+    font-size: 14px;
+    word-wrap: break-word;
+    line-height: 1.4;
+  }
+  
+  /* Formulario de entrada */
+  .form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Espacio entre el input y el botón */
+    padding: 10px 20px;
+    background-color: #fff;
+    border-top: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  /* Input del usuario */
+  .input {
+    width: 85%;
+    padding: 12px;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.3s ease;
+  }
+  
+  /* Efecto al hacer foco en el input */
+  .input:focus {
+    border-color: #FF8C00; /* Naranja */
+    box-shadow: 0 0 8px rgba(255, 140, 0, 0.3);
+  }
+  
+  /* Botón de enviar */
+  .sendButton {
+    padding: 10px 15px;
+    background-color: #FF8C00; /* Naranja */
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  /* Efecto de hover en el botón */
+  .sendButton:hover {
+    background-color: #E67300; /* Naranja oscuro */
+  }
+  
+  /* Efecto de click en el botón */
+  .sendButton:active {
+    transform: scale(0.98);
+  }
+  
