@@ -8,6 +8,7 @@ const Chatbot = () => {
   const [inputText, setInputText] = useState("");
   const [chatHistory, setChatHistory] = useState([]);
   const [trainingData, setTrainingData] = useState([]);
+  const [isBotTyping, setIsBotTyping] = useState(false); // Nuevo estado para controlar el "escribiendo" del bot
 
   // Cargar el modelo USE
   useEffect(() => {
@@ -33,6 +34,9 @@ const Chatbot = () => {
       return;
     }
 
+    // Iniciar el estado de "escribiendo" antes de procesar
+    setIsBotTyping(true);
+
     const inputEmbedding = await model.embed([text]);
     const inputVector = inputEmbedding.arraySync()[0];
 
@@ -57,7 +61,15 @@ const Chatbot = () => {
 
     // Si no hay coincidencias cercanas, devolver una respuesta predeterminada
     const botResponse = bestMatch || "Lo siento, no entendí eso.";
-    setChatHistory((prev) => [...prev, { sender: "bot", message: botResponse }]);
+
+    // Actualizar el chat después de un pequeño retraso para simular la escritura
+    setTimeout(() => {
+      setChatHistory((prev) => [
+        ...prev,
+        { sender: "bot", message: botResponse },
+      ]);
+      setIsBotTyping(false); // El bot deja de escribir
+    }, 2000); // Retraso de 2 segundos para simular el tiempo de respuesta
   };
 
   // Manejar el envío del texto
@@ -68,42 +80,61 @@ const Chatbot = () => {
     // Registrar mensaje del usuario
     setChatHistory((prev) => [...prev, { sender: "user", message: inputText }]);
 
+    // Procesar la entrada y mostrar los tres puntos
     processInput(inputText);
     setInputText(""); // Limpiar campo de entrada
   };
 
   return (
     <div className="container">
-    <div className="chatContainer">
-      <h2 className="header">Chatbot Multilingüe</h2>
-      <div className="chatBox">
-        {chatHistory.map((entry, index) => (
-          <div
-            key={index}
-            className={entry.sender === "user" ? "userMessage" : "botMessage"}
-          >
-            <div className={entry.sender === "user" ? "userBubble" : "botBubble"}>
-              <strong>{entry.sender === "user" ? "Tú" : "Bot"}:</strong> {entry.message}
-            </div>
-          </div>
-        ))}
-      </div>
-      <form onSubmit={handleSubmit} className="form">
-      <input
-        type="text"
-        value={inputText}
-        onChange={(e) => setInputText(e.target.value)}
-        placeholder="Escribe algo..."
-        className="input"
-      />
-      <button type="submit" className="sendButton">
-        Enviar
-      </button>
-    </form>
-    </div>
+      {/* Título principal */}
+      <header className="mainHeader">
+        <h1>Chatbot Diciembre 2024 IA1</h1>
+      </header>
 
-   
-  </div>
+      {/* Contenedor del chat */}
+      <div className="chatContainer">
+        <h2 className="header">Chatbot Multilingüe</h2>
+        <div className="chatBox">
+          {chatHistory.map((entry, index) => (
+            <div
+              key={index}
+              className={entry.sender === "user" ? "userMessage" : "botMessage"}
+            >
+              <div
+                className={entry.sender === "user" ? "userBubble" : "botBubble"}
+              >
+                <strong>{entry.sender === "user" ? "Tú" : "Bot"}:</strong>{" "}
+                {entry.message}
+              </div>
+            </div>
+          ))}
+
+          {/* Mostrar los tres puntos cuando el bot está escribiendo */}
+          {isBotTyping && (
+            <div className="botMessage">
+              <div className="botBubble">
+                <strong>Bot:</strong> ...
+              </div>
+            </div>
+          )}
+        </div>
+
+        {/* Formulario de entrada */}
+        <form onSubmit={handleSubmit} className="form">
+          <input
+            type="text"
+            value={inputText}
+            onChange={(e) => setInputText(e.target.value)}
+            placeholder="Escribe algo..."
+            className="input"
+          />
+          <button type="submit" className="sendButton">
+            Enviar
+          </button>
+        </form>
+      </div>
+    </div>
   );
 };
 
