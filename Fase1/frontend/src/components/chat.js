@@ -19,7 +19,9 @@ const Chatbot = () => {
       console.log("Modelo cargado.");
 
       // Cargar datos de entrenamiento desde el archivo JSON
-      const trainingDataFromFile = await fetch("/trainingData.json").then(response => response.json());
+      const trainingDataFromFile = await fetch(`/IA1_Proyecto_13/trainingData.json`)
+  .then(response => response.json());
+
       setTrainingData(trainingDataFromFile.intents);  // Solo tomamos las intenciones
     };
 
