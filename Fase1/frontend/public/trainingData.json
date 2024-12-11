@@ -1,266 +1,1389 @@
 {
   "intents": [
-    {
-      "intent": "greeting",
-      "examples": [
-        {"userText": "hola", "botResponse": "¡Hola! ¿Cómo estás?"},
-        {"userText": "holaaa", "botResponse": "¡Hola! ¿Qué tal?"},
-        {"userText": "qué onda", "botResponse": "¡Hola! ¿Cómo te va?"},
-        {"userText": "buenos días", "botResponse": "¡Buenos días! ¿Cómo puedo ayudarte?"},
-        {"userText": "saludos", "botResponse": "¡Hola! ¿En qué puedo asistirte?"},
-        {"userText": "¿cómo estás?", "botResponse": "¡Estoy bien! ¿Y tú?"},
-        {"userText": "alo", "botResponse": "¡Hola! ¿Qué necesitas?"},
-        {"userText": "hi", "botResponse": "¡Hola! ¿Cómo puedo ayudarte?"}
-      ]
-    },
-    {
-      "intent": "farewell",
-      "examples": [
-        {"userText": "adiós", "botResponse": "¡Hasta luego!"},
-        {"userText": "chao", "botResponse": "¡Nos vemos!"},
-        {"userText": "bye", "botResponse": "¡Adiós! Cuídate."},
-        {"userText": "nos vemos", "botResponse": "¡Hasta pronto!"},
-        {"userText": "me voy", "botResponse": "¡Hasta la próxima!"}
-      ]
-    },
-    {
-      "intent": "emotions",
-      "examples": [
-        {"userText": "estoy triste", "botResponse": "Lamento escuchar eso. ¿Hay algo en lo que pueda ayudarte?"},
-        {"userText": "estoy feliz", "botResponse": "¡Me alegra saberlo! ¿Quieres compartir por qué?"},
-        {"userText": "me siento mal", "botResponse": "Lo siento. Espero que te sientas mejor pronto. ¿En qué te puedo ayudar?"},
-        {"userText": "estoy emocionado", "botResponse": "¡Eso es genial! ¿Qué te tiene tan emocionado?"}
-      ]
-    },
-    {
-      "intent": "technical_questions",
-      "examples": [
-        {"userText": "¿qué es un algoritmo?", "botResponse": "Un algoritmo es un conjunto de instrucciones definidas para realizar una tarea específica."},
-        {"userText": "¿qué es la inteligencia artificial?", "botResponse": "Es un campo de la informática que se centra en la creación de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana."},
-        {"userText": "¿cómo configuro un servidor?", "botResponse": "Configurar un servidor implica instalar un sistema operativo, configurar redes y servicios como bases de datos o servidores web."},
-        {"userText": "¿qué es un microservicio?", "botResponse": "Es un enfoque arquitectónico en el que una aplicación se divide en servicios pequeños, independientes y especializados."}
-      ]
-    },
-    {
-      "intent": "regionalisms",
-      "examples": [
-        {"userText": "¿qué tranza?", "botResponse": "¡Hola! ¿En qué puedo ayudarte? (Expresión común en México)"},
-        {"userText": "chévere", "botResponse": "¡Genial! ¿Cómo puedo asistirte? (Expresión común en Colombia)"},
-        {"userText": "bacán", "botResponse": "¡Fantástico! ¿Cómo puedo ayudarte? (Expresión común en Perú o Chile)"},
-        {"userText": "guay", "botResponse": "¡Perfecto! ¿En qué puedo ayudarte? (Expresión común en España)"}
-      ]
-    },
-    {
-      "intent": "social_media_jargon",
-      "examples": [
-        {"userText": "XD", "botResponse": "¡Eso es divertido! ¿Puedo ayudarte en algo más?"},
-        {"userText": "lol", "botResponse": "¡Qué gracioso! ¿Necesitas ayuda con algo más?"},
-        {"userText": "omg", "botResponse": "¿Qué pasó? ¿En qué te puedo ayudar?"},
-        {"userText": "tqm", "botResponse": "¡Qué lindo! ¿Puedo asistirte en algo más?"}
-      ]
-    },
-    {
-      "intent": "complex_requests",
-      "examples": [
-        {"userText": "¿Puedes explicarme cómo instalar PostgreSQL en Ubuntu paso a paso?", "botResponse": "Claro, aquí tienes los pasos: 1. Actualiza el sistema con 'sudo apt update'. 2. Instala PostgreSQL con 'sudo apt install postgresql'. 3. Verifica el estado del servicio con 'sudo systemctl status postgresql'. ¿Necesitas más detalles?"},
-        {"userText": "Explícame cómo funcionan los agujeros negros en palabras simples", "botResponse": "Un agujero negro es una región del espacio con una gravedad tan fuerte que nada puede escapar de él, ni siquiera la luz. Se forman cuando una estrella muy grande colapsa al final de su vida."},
-        {"userText": "¿Qué pasa si mezclo bicarbonato y vinagre?", "botResponse": "Se produce una reacción química que libera dióxido de carbono (CO2), creando burbujas y espuma. Es seguro si lo haces en pequeñas cantidades."}
-      ]
-    },
-    {
-      "intent": "apology",
-      "examples": [
-        {"userText": "perdón", "botResponse": "¡No te preocupes! ¿En qué puedo ayudarte?"},
-        {"userText": "disculpa", "botResponse": "No pasa nada. ¿Cómo puedo asistirte?"},
-        {"userText": "lo siento mucho", "botResponse": "Todo está bien, no te preocupes."},
-        {"userText": "perdón por molestarte", "botResponse": "¡No hay problema! Estoy aquí para ayudarte."},
-        {"userText": "me equivoqué", "botResponse": "¡No pasa nada! ¿Cómo puedo ayudarte ahora?"}
-      ]
-    },
-    {
-      "intent": "recommendations",
-      "examples": [
-        {"userText": "¿qué película me recomiendas?", "botResponse": "Depende de tus gustos. ¿Qué género prefieres?"},
-        {"userText": "recomiéndame un libro", "botResponse": "¿Te gustan las novelas, los libros de autoayuda o las historias de fantasía?"},
-        {"userText": "¿dónde puedo comer bien?", "botResponse": "Busca restaurantes cercanos en tu zona. ¿Quieres recomendaciones específicas?"},
-        {"userText": "¿algún lugar para visitar?", "botResponse": "Claro, depende de dónde estés. ¿Te interesan museos, parques o naturaleza?"}
-      ]
-    },
-    {
-      "intent": "learning",
-      "examples": [
-        {"userText": "enséñame algo nuevo", "botResponse": "¿Qué tema te interesa aprender? Podría ser ciencia, historia o incluso un dato curioso."},
-        {"userText": "quiero aprender programación", "botResponse": "¡Genial! Te sugiero empezar con Python, que es fácil y poderoso para principiantes."},
-        {"userText": "¿cómo aprendo inglés?", "botResponse": "Puedes practicar con aplicaciones como Duolingo, ver series en inglés y leer libros básicos."},
-        {"userText": "¿puedes explicarme la tabla periódica?", "botResponse": "Claro, es una forma de organizar los elementos químicos por su número atómico, propiedades y estructura electrónica."}
-      ]
-    },
-    {
-      "intent": "time_management",
-      "examples": [
-        {"userText": "¿qué hora es?", "botResponse": "No tengo acceso a la hora actual, pero puedes verla en tu dispositivo."},
-        {"userText": "ayúdame a organizar mi día", "botResponse": "Claro, divide tus tareas en prioritarias, importantes y opcionales. ¿Quieres ejemplos?"},
-        {"userText": "¿cuál es el mejor momento para estudiar?", "botResponse": "Depende de ti. Por la mañana tienes más energía, pero algunos prefieren estudiar por la noche."},
-        {"userText": "¿cómo administro mi tiempo?", "botResponse": "Usa técnicas como el método Pomodoro: trabaja 25 minutos y descansa 5. ¿Quieres más consejos?"}
-      ]
-    },
-    {
-      "intent": "general_knowledge",
-      "examples": [
-        {"userText": "¿cuántos planetas hay en el sistema solar?", "botResponse": "Actualmente hay 8 planetas en el sistema solar."},
-        {"userText": "¿quién pintó la Mona Lisa?", "botResponse": "La Mona Lisa fue pintada por Leonardo da Vinci."},
-        {"userText": "¿qué es la gravedad?", "botResponse": "Es la fuerza que atrae los objetos hacia el centro de la Tierra o cualquier masa grande."},
-        {"userText": "¿cuál es la capital de México?", "botResponse": "La capital de México es Ciudad de México."},
-        {"userText": "¿qué es el agua?", "botResponse": "El agua es un compuesto químico formado por dos átomos de hidrógeno y uno de oxígeno (H2O)."}
-      ]
-    },
-    {
-      "intent": "games",
-      "examples": [
-        {"userText": "juguemos algo", "botResponse": "¡Claro! ¿Qué tal un juego de adivinanzas? Dime 'empecemos' para comenzar."},
-        {"userText": "adivina un número", "botResponse": "Ok, estoy pensando en un número del 1 al 10. ¿Cuál crees que es?"},
-        {"userText": "¿sabes juegos?", "botResponse": "¡Sí! Puedo hacer adivinanzas, jugar piedra, papel o tijera, y más. ¿Cuál quieres probar?"},
-        {"userText": "juguemos piedra, papel o tijera", "botResponse": "¡De acuerdo! Cuenta hasta tres y dime tu elección: piedra, papel o tijera."}
-      ]
-    },
-    {
-      "intent": "problem_solving",
-      "examples": [
-        {"userText": "tengo un problema", "botResponse": "Dime más detalles, y trataré de ayudarte a resolverlo."},
-        {"userText": "no sé cómo hacer esto", "botResponse": "Está bien, explícame qué necesitas y busquemos una solución juntos."},
-        {"userText": "estoy atascado con una tarea", "botResponse": "¿Cuál es la tarea? Tal vez pueda ayudarte a encontrar un enfoque diferente."},
-        {"userText": "¿cómo resuelvo esto?", "botResponse": "Primero analiza el problema. ¿Cuál es el resultado que buscas? Podemos dividirlo en pasos más pequeños."}
-      ]
-    },
-    {
-      "intent": "language_support",
-      "examples": [
-        {"userText": "¿cómo se dice 'perro' en inglés?", "botResponse": "Se dice 'dog'."},
-        {"userText": "¿puedes traducir algo?", "botResponse": "Sí, dime qué necesitas traducir y a qué idioma."},
-        {"userText": "explícame gramática en español", "botResponse": "Claro, ¿qué parte de la gramática necesitas saber? ¿Verbos, tiempos, conjugaciones?"},
-        {"userText": "¿cómo conjugo el verbo 'correr'?", "botResponse": "En presente: yo corro, tú corres, él/ella corre, nosotros corremos, vosotros corréis, ellos corren."}
-      ]
-    },
-    {
-      "intent": "custom_requests",
-      "examples": [
-        {"userText": "¿puedes cantar?", "botResponse": "No puedo cantar, pero puedo compartir letras de canciones si quieres."},
-        {"userText": "dime algo inspirador", "botResponse": "Claro: 'El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.'"},
-        {"userText": "cuéntame algo interesante", "botResponse": "¿Sabías que el corazón humano late alrededor de 100,000 veces al día?"},
-        {"userText": "haz algo divertido", "botResponse": "¿Qué tal un chiste? ¿Por qué no puedes confiar en un átomo? Porque lo inventan todo."}
-      ]
-    },
-    {
-      "intent": "health_and_wellness",
-      "examples": [
-        {"userText": "me siento mal", "botResponse": "Lo siento. Si es algo grave, considera consultar con un médico."},
-        {"userText": "¿cómo puedo estar saludable?", "botResponse": "Mantén una dieta equilibrada, haz ejercicio regularmente y duerme bien."},
-        {"userText": "necesito motivación para hacer ejercicio", "botResponse": "Piensa en cómo te sentirás después. ¡Empieza con pequeños pasos hoy!"},
-        {"userText": "¿qué alimentos son buenos para la salud?", "botResponse": "Frutas, verduras, granos enteros y proteínas magras son excelentes opciones."},
-        {"userText": "tengo estrés", "botResponse": "Prueba técnicas de relajación como respirar profundamente o meditar."}
-      ]
-    },
-    {
-      "intent": "relationship_advice",
-      "examples": [
-        {"userText": "tengo problemas con mi pareja", "botResponse": "Hablar y escuchar es clave. ¿Has intentado comunicar cómo te sientes?"},
-        {"userText": "me siento solo", "botResponse": "Hablar con amigos o familiares puede ayudarte. También puedes buscar actividades que disfrutes."},
-        {"userText": "¿cómo mejoro mis amistades?", "botResponse": "Dedica tiempo a escuchar y compartir momentos con ellos."},
-        {"userText": "tengo un conflicto con un amigo", "botResponse": "Trata de hablar con calma y expresar cómo te sientes."},
-        {"userText": "¿cómo puedo ser más sociable?", "botResponse": "Empieza con conversaciones simples y encuentra intereses comunes con los demás."}
-      ]
-    },
-    {
-      "intent": "financial_advice",
-      "examples": [
-        {"userText": "quiero ahorrar dinero", "botResponse": "Haz un presupuesto mensual y evita gastos innecesarios."},
-        {"userText": "¿cómo administro mi dinero?", "botResponse": "Divide tus ingresos en necesidades, ahorros y gastos personales."},
-        {"userText": "¿debo invertir?", "botResponse": "Depende de tus metas financieras. Investiga bien antes de hacerlo."},
-        {"userText": "¿cómo salgo de deudas?", "botResponse": "Prioriza pagar deudas con intereses altos y establece un plan de pagos."},
-        {"userText": "necesito consejos financieros", "botResponse": "Empieza por llevar un control de tus ingresos y gastos. ¿Te gustaría un ejemplo?"}
-      ]
-    },
-    {
-      "intent": "fun_facts",
-      "examples": [
-        {"userText": "dime un dato curioso", "botResponse": "¿Sabías que las abejas tienen cinco ojos?"},
-        {"userText": "cuéntame algo interesante", "botResponse": "Los tiburones existen desde antes que los árboles."},
-        {"userText": "¿sabías algo raro?", "botResponse": "Las medusas no tienen cerebro, pero aún así pueden sobrevivir."},
-        {"userText": "cuéntame algo que no sepa", "botResponse": "El Monte Everest crece aproximadamente 4 mm cada año."},
-        {"userText": "dime algo divertido", "botResponse": "Un pulpo tiene tres corazones, pero solo uno funciona mientras nada."}
-      ]
-    },
-    {
-      "intent": "travel_and_geography",
-      "examples": [
-        {"userText": "¿cuál es el país más grande del mundo?", "botResponse": "El país más grande por área es Rusia."},
-        {"userText": "¿cuál es el río más largo?", "botResponse": "El río Amazonas es el más largo del mundo."},
-        {"userText": "¿qué lugares turísticos puedo visitar?", "botResponse": "Depende de dónde estés. ¿Te gustan las playas, montañas o ciudades históricas?"},
-        {"userText": "quiero viajar", "botResponse": "¡Genial! ¿Tienes algún destino en mente?"},
-        {"userText": "¿cuántos países hay?", "botResponse": "Hay 195 países reconocidos en el mundo actualmente."}
-      ]
-    },
-    {
-      "intent": "tech_support",
-      "examples": [
-        {"userText": "mi computadora no enciende", "botResponse": "¿Has revisado el cable de alimentación o intentado reiniciar?"},
-        {"userText": "no puedo acceder a internet", "botResponse": "Intenta reiniciar tu router o verifica la conexión de tu dispositivo."},
-        {"userText": "mi teléfono está lento", "botResponse": "Prueba cerrar aplicaciones en segundo plano o reiniciarlo."},
-        {"userText": "¿cómo libero espacio en mi dispositivo?", "botResponse": "Elimina archivos innecesarios o aplicaciones que no usas."},
-        {"userText": "necesito ayuda con mi correo", "botResponse": "¿Es un problema de acceso o configuración? Puedo darte pasos generales."}
-      ]
-    },
-    {
-      "intent": "entertainment",
-      "examples": [
-        {"userText": "recomiéndame algo para ver", "botResponse": "¿Qué tal una serie o una película? ¿Qué género te gusta?"},
-        {"userText": "¿qué música escucho?", "botResponse": "Prueba con algo nuevo, como jazz o música indie. ¿Tienes algún artista favorito?"},
-        {"userText": "quiero ver algo gracioso", "botResponse": "Busca comedias como 'Friends' o películas de humor ligero."},
-        {"userText": "¿qué series están de moda?", "botResponse": "Series como 'Stranger Things' o 'The Crown' suelen ser populares."},
-        {"userText": "¿puedes cantar?", "botResponse": "No puedo cantar, pero puedo buscar letras de canciones si quieres."}
-      ]
-    },
-    {
-      "intent": "personal_development",
-      "examples": [
-        {"userText": "quiero ser mejor persona", "botResponse": "Empieza por reflexionar sobre tus acciones y cómo impactan a otros."},
-        {"userText": "¿cómo mejoro mis habilidades?", "botResponse": "Dedica tiempo a practicar y aprender algo nuevo cada día."},
-        {"userText": "quiero ser más disciplinado", "botResponse": "Establece metas pequeñas y cúmplelas de forma constante."},
-        {"userText": "¿cómo aumento mi confianza?", "botResponse": "Céntrate en tus fortalezas y celebra tus logros, por pequeños que sean."},
-        {"userText": "¿cómo mantengo una mentalidad positiva?", "botResponse": "Piensa en lo que puedes controlar y busca algo bueno en cada situación."}
-      ]
-    },
-    {
-      "intent": "food_and_cooking",
-      "examples": [
-        {"userText": "¿qué puedo cocinar con pollo?", "botResponse": "Puedes hacer pollo al horno, a la parrilla, en sopa o en ensalada."},
-        {"userText": "¿cómo hago una pizza casera?", "botResponse": "Necesitas masa, salsa de tomate, queso y tus ingredientes favoritos. ¿Quieres la receta detallada?"},
-        {"userText": "¿qué postre puedo preparar?", "botResponse": "Prueba con brownies, galletas o un pastel sencillo. ¿Tienes algún antojo en particular?"},
-        {"userText": "¿cómo hago un smoothie saludable?", "botResponse": "Mezcla frutas, verduras, yogur y hielo en una licuadora. ¿Quieres una receta específica?"},
-        {"userText": "¿qué desayuno es rápido y nutritivo?", "botResponse": "Puedes hacer avena, yogur con frutas o un batido de proteínas."}
-      ]
-    },
-    {
-      "intent": "sports_and_fitness",
-      "examples": [
-        {"userText": "¿qué deporte me recomiendas?", "botResponse": "Depende de tus gustos. ¿Te gustan los deportes de equipo, individuales o al aire libre?"},
-        {"userText": "¿cómo empiezo a hacer ejercicio?", "botResponse": "Empieza con actividades simples como caminar, correr o hacer ejercicios en casa."},
-        {"userText": "¿qué rutina de ejercicios es buena para principiantes?", "botResponse": "Prueba con ejercicios básicos como sentadillas, flexiones y abdominales."},
-        {"userText": "¿cómo mejoro mi resistencia?", "botResponse": "Haz ejercicio regularmente, come bien y descansa lo suficiente."},
-        {"userText": "¿qué deporte es bueno para perder peso?", "botResponse": "Deportes como correr, nadar o ciclismo son excelentes para quemar calorías."}
-      ]
-    },
-    {
-      "intent": "shopping_and_fashion",
-      "examples": [
-        {"userText": "¿dónde puedo comprar ropa?", "botResponse": "Puedes comprar en tiendas físicas o en línea. ¿Buscas algo en particular?"},
-        {"userText": "¿qué ropa está de moda?", "botResponse": "Depende de la temporada y tu estilo. ¿Te gustan las tendencias actuales?"},
-        {"userText": "¿cómo elijo la ropa adecuada?", "botResponse": "Elige prendas que te hagan sentir cómodo y reflejen tu personalidad."},
-        {"userText": "¿cómo combino colores en mi ropa?", "botResponse": "Combina colores neutros con tonos más llamativos o usa la regla del color complementario."},
-        {"userText": "¿cómo encuentro mi estilo?", "botResponse": "Prueba diferentes estilos y prendas hasta encontrar lo que te haga sentir bien."}
-      ]
-    }
-    
-
+      {
+          "intent": "greeting",
+          "examples": [
+              {
+                "userText": "holap",
+                "botResponse": "¡Hola! ¿Cómo estás?"
+              },
+              {
+                "userText": "wuenos dias",
+                "botResponse": "¡Buenos días! ¿En qué puedo ayudarte?"
+              },
+              {
+                "userText": "ola k ase?",
+                "botResponse": "¡Hola! ¿Qué tal? ¿En qué puedo asistirte?"
+              },
+              {
+                "userText": "hello!",
+                "botResponse": "¡Hola! ¿Cómo estás?"
+              },
+              {
+                "userText": "hi there",
+                "botResponse": "¡Hola! ¿Qué tal?"
+              },
+              {
+                "userText": "buendia",
+                "botResponse": "¡Buenos días! ¿Cómo puedo ayudarte?"
+              },
+              {
+                  "userText": "hola",
+                  "botResponse": "¡Hola! ¿Cómo estás?"
+              },
+              {
+                  "userText": "holaaa",
+                  "botResponse": "¡Hola! ¿Qué tal?"
+              },
+              {
+                  "userText": "qué onda",
+                  "botResponse": "¡Hola! ¿Cómo te va?"
+              },
+              {
+                  "userText": "buenos días",
+                  "botResponse": "¡Buenos días! ¿Cómo puedo ayudarte?"
+              },
+              {
+                  "userText": "saludos",
+                  "botResponse": "¡Hola! ¿En qué puedo asistirte?"
+              },
+              {
+                  "userText": "¿cómo estás?",
+                  "botResponse": "¡Estoy bien! ¿Y tú?"
+              },
+              {
+                  "userText": "alo",
+                  "botResponse": "¡Hola! ¿Qué necesitas?"
+              },
+              {
+                  "userText": "holaaa que tal",
+                  "botResponse": "¡Hola! ¿Cómo te va?"
+              },
+              {
+                  "userText": "buen dia",
+                  "botResponse": "¡Buenos días! ¿En qué puedo ayudarte?"
+              },
+              {
+                  "userText": "salud2",
+                  "botResponse": "¡Hola! ¿En qué puedo asistirte? (con abreviación)"
+              },
+              {
+                  "userText": "ola como estas",
+                  "botResponse": "¡Hola! Estoy bien, gracias. ¿Y tú?"
+              },
+              {
+                  "userText": "holita",
+                  "botResponse": "¡Hola! ¿Cómo estás hoy?"
+              },
+              {
+                  "userText": "aloha",
+                  "botResponse": "¡Hola! ¿Cómo puedo ayudarte?"
+              },
+              {
+                  "userText": "helo",
+                  "botResponse": "¡Hola! ¿Cómo estás?"
+              },
+              {
+                  "userText": "que tal",
+                  "botResponse": "¡Hola! ¿Cómo te va?"
+              },
+              {
+                  "userText": "buenas tardes",
+                  "botResponse": "¡Buenas tardes! ¿Cómo puedo ayudarte?"
+              },
+              {
+                  "userText": "ola ke ase",
+                  "botResponse": "¡Hola! ¿En qué puedo asistirte hoy?"
+              },
+              {
+                  "userText": "helooo",
+                  "botResponse": "¡Hola! ¿Cómo estás?"
+              },
+              {
+                  "userText": "hiii",
+                  "botResponse": "¡Hola! ¿Qué tal?"
+              },
+              {
+                  "userText": "ke tal?",
+                  "botResponse": "¡Hola! ¿Cómo te va?"
+              },
+              {
+                  "userText": "wenas",
+                  "botResponse": "¡Buenos días! ¿Cómo puedo ayudarte?"
+              }
+          ]
+      },
+      {
+          "intent": "farewell",
+          "examples": [
+              {
+                "userText": "bai",
+                "botResponse": "¡Hasta luego!"
+              },
+              {
+                "userText": "adiosito",
+                "botResponse": "¡Nos vemos pronto!"
+              },
+              {
+                "userText": "te veo luego",
+                "botResponse": "¡Hasta la próxima! Cuídate."
+              },
+              {
+                "userText": "bye bye!!!",
+                "botResponse": "¡Adiós! Que tengas un gran día."
+              },
+              {
+                "userText": "a10z",
+                "botResponse": "¡Hasta luego! Cuídate mucho."
+              },            
+              {
+                  "userText": "adiós",
+                  "botResponse": "¡Hasta luego!"
+              },
+              {
+                  "userText": "chao",
+                  "botResponse": "¡Nos vemos!"
+              },
+              {
+                  "userText": "bye",
+                  "botResponse": "¡Adiós! Cuídate."
+              },
+              {
+                  "userText": "nos vemos",
+                  "botResponse": "¡Hasta pronto!"
+              },
+              {
+                  "userText": "me voy",
+                  "botResponse": "¡Hasta la próxima!"
+              },
+              {
+                  "userText": "cuidate",
+                  "botResponse": "¡Nos vemos pronto!"
+              },
+              {
+                  "userText": "hasta luego",
+                  "botResponse": "¡Adiós! Cuídate."
+              },
+              {
+                  "userText": "bye bye",
+                  "botResponse": "¡Hasta la próxima!"
+              },
+              {
+                  "userText": "me voy chau",
+                  "botResponse": "¡Nos vemos! Cuídate mucho."
+              },
+              {
+                  "userText": "adioz",
+                  "botResponse": "¡Hasta luego!"
+              },
+              {
+                  "userText": "ta luego",
+                  "botResponse": "¡Hasta luego! Cuídate."
+              },
+              {
+                  "userText": "chaito",
+                  "botResponse": "¡Nos vemos pronto!"
+              },
+              {
+                  "userText": "bye bye!",
+                  "botResponse": "¡Adiós! Que tengas un buen día."
+              },
+              {
+                  "userText": "a10",
+                  "botResponse": "¡Adiós! Cuídate mucho."
+              },
+              {
+                  "userText": "aios",
+                  "botResponse": "¡Hasta luego! Cuídate mucho."
+              },
+              {
+                  "userText": "nosvems",
+                  "botResponse": "¡Hasta pronto!"
+              },
+              {
+                  "userText": "talue",
+                  "botResponse": "¡Adiós! Cuídate."
+              }
+          ]
+      },
+      {
+          "intent": "emotions",
+          "examples": [
+              {
+                "userText": "toy trizte",
+                "botResponse": "Lamento escuchar eso. ¿Hay algo en lo que pueda ayudarte?"
+              },
+              {
+                "userText": "ando super feliz",
+                "botResponse": "¡Eso es genial! ¿Quieres compartir por qué?"
+              },
+              {
+                "userText": "estoy muy contento",
+                "botResponse": "¡Me alegra saberlo! Espero que sigas así."
+              },
+              {
+                "userText": "ando desanimado",
+                "botResponse": "Lo siento. Espero que te animes pronto. ¿En qué puedo ayudarte?"
+              },            
+              {
+                  "userText": "estoy triste",
+                  "botResponse": "Lamento escuchar eso. ¿Hay algo en lo que pueda ayudarte?"
+              },
+              {
+                  "userText": "estoy feliz",
+                  "botResponse": "¡Me alegra saberlo! ¿Quieres compartir por qué?"
+              },
+              {
+                  "userText": "me siento mal",
+                  "botResponse": "Lo siento. Espero que te sientas mejor pronto. ¿En qué te puedo ayudar?"
+              },
+              {
+                  "userText": "estoy emocionado",
+                  "botResponse": "¡Eso es genial! ¿Qué te tiene tan emocionado?"
+              },
+              {
+                  "userText": "estoy felizzz",
+                  "botResponse": "¡Eso es genial! ¿Quieres compartir por qué?"
+              },
+              {
+                  "userText": "me ciento cansado",
+                  "botResponse": "Lamento escuchar eso. Descansa un poco si puedes."
+              },
+              {
+                  "userText": "toy aburrido",
+                  "botResponse": "¿Quieres que te recomiende algo para hacer?"
+              },
+              {
+                  "userText": "ando de malas",
+                  "botResponse": "Lo siento, espero que tu día mejore. ¿Puedo ayudarte en algo?"
+              },
+              {
+                  "userText": "me siento super bien",
+                  "botResponse": "¡Eso me alegra mucho! Espero que tengas un excelente día."
+              },
+              {
+                "userText": "estoy frustrado",
+                "botResponse": "Lo siento. Tómate un momento para relajarte. ¿Qué puedo hacer por ti?"
+              },
+              {
+                "userText": "me siento incomprendido",
+                "botResponse": "Entiendo. A veces hablar sobre tus sentimientos puede aliviar la carga."
+              },
+              {
+                "userText": "ando feliz",
+                "botResponse": "¡Eso es fantástico! ¿Qué te hace sentir tan bien?"
+              },
+              {
+                "userText": "ando agüitado",
+                "botResponse": "Lo siento. Espero que las cosas mejoren pronto."
+              },
+              {
+                "userText": "toy estresado",
+                "botResponse": "Respira profundamente y trata de relajarte. Estoy aquí para ayudarte."
+              },
+              {
+                "userText": "me ciento triste",
+                "botResponse": "Lamento escuchar eso. ¿Puedo hacer algo para mejorar tu día?"
+              },
+              {
+                "userText": "estoy entusiasmado",
+                "botResponse": "¡Me alegra saberlo! Espero que todo salga como esperas."
+              },
+              {
+                "userText": "estoy aburridoooo",
+                "botResponse": "¿Qué tal si pruebas algo nuevo o haces una actividad que disfrutes?"
+              },
+              {
+                "userText": "me siento cansadisimo",
+                "botResponse": "Descansa un poco si puedes. Tu cuerpo necesita recargar energía."
+              },
+              {
+                "userText": "ando melancólico",
+                "botResponse": "Lo siento. A veces recordar buenos momentos puede ayudar."
+              },
+              {
+                "userText": "me siento genial",
+                "botResponse": "¡Me encanta escuchar eso! Que sigas teniendo un excelente día."
+              }
+          ]
+      },
+      {
+          "intent": "technical_questions",
+          "examples": [
+              {
+                "userText": "¿cómo se programa en python?",
+                "botResponse": "Primero instala Python y un editor como Visual Studio Code. ¿Quieres una guía detallada?"
+              },
+              {
+                "userText": "¿qué es la nube?",
+                "botResponse": "Es una red de servidores que almacenan y procesan datos de manera remota."
+              },
+              {
+                "userText": "¿qué es el big data?",
+                "botResponse": "Es el análisis de grandes volúmenes de datos para encontrar patrones y tendencias."
+              },
+              {
+                  "userText": "¿qué es un algoritmo?",
+                  "botResponse": "Un algoritmo es un conjunto de instrucciones definidas para realizar una tarea específica."
+              },
+              {
+                  "userText": "¿qué es la inteligencia artificial?",
+                  "botResponse": "Es un campo de la informática que se centra en la creación de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana."
+              },
+              {
+                  "userText": "¿cómo configuro un servidor?",
+                  "botResponse": "Configurar un servidor implica instalar un sistema operativo, configurar redes y servicios como bases de datos o servidores web."
+              },
+              {
+                  "userText": "¿qué es un microservicio?",
+                  "botResponse": "Es un enfoque arquitectónico en el que una aplicación se divide en servicios pequeños, independientes y especializados."
+              },
+              {
+                  "userText": "¿qué es un compilador?",
+                  "botResponse": "Es un programa que traduce código fuente a lenguaje máquina."
+              },
+              {
+                  "userText": "¿cómo programo en C++?",
+                  "botResponse": "Comienza instalando un compilador y un editor de texto. ¿Necesitas una guía paso a paso?"
+              },
+              {
+                  "userText": "¿qué es un sistema operativo?",
+                  "botResponse": "Es el software que gestiona el hardware y software de tu computadora."
+              },
+              {
+                  "userText": "¿cómo instalar linux?",
+                  "botResponse": "Descarga una distribución como Ubuntu y sigue los pasos del instalador."
+              },
+              {
+                "userText": "como se programa en piton",
+                "botResponse": "Primero instala Python y un editor como Visual Studio Code. ¿Quieres una guía detallada?"
+              },
+              {
+                "userText": "que es la cloude?",
+                "botResponse": "Es una red de servidores que almacenan y procesan datos de manera remota."
+              },
+              {
+                "userText": "como hago una app?",
+                "botResponse": "Define el proyecto, elige un lenguaje y usa un IDE adecuado. ¿Te interesa una guía específica?"
+              },
+              {
+                "userText": "que es programacion?",
+                "botResponse": "Es el proceso de crear software mediante la escritura de código en un lenguaje de programación."
+              },
+              {
+                "userText": "como instalar uindous?",
+                "botResponse": "Descarga la ISO de Windows, crea un USB de arranque e inicia la instalación desde él."
+              },
+              {
+                "userText": "como hago una pagina web?",
+                "botResponse": "Puedes usar HTML, CSS y JavaScript para crear sitios web básicos. ¿Quieres más detalles?"
+              },
+              {
+                "userText": "como se usa git?",
+                "botResponse": "Git es un sistema de control de versiones. Usa comandos como 'git init', 'git add' y 'git commit'."
+              }
+          ]
+      },
+      {
+          "intent": "regionalisms",
+          "examples": [
+              {
+                  "userText": "¿qué tranza?",
+                  "botResponse": "¡Hola! ¿En qué puedo ayudarte? (Expresión común en México)"
+              },
+              {
+                  "userText": "chévere",
+                  "botResponse": "¡Genial! ¿Cómo puedo asistirte? (Expresión común en Colombia)"
+              },
+              {
+                  "userText": "bacán",
+                  "botResponse": "¡Fantástico! ¿Cómo puedo ayudarte? (Expresión común en Perú o Chile)"
+              },
+              {
+                  "userText": "guay",
+                  "botResponse": "¡Perfecto! ¿En qué puedo ayudarte? (Expresión común en España)"
+              },
+              {
+                "userText": "qué onda, loco?",
+                "botResponse": "¡Hola! ¿En qué puedo ayudarte? (Expresión común en Argentina)"
+              },
+              {
+                "userText": "pana, ¿qué más?",
+                "botResponse": "¡Hola! ¿Cómo estás? (Expresión común en Venezuela)"
+              },
+              {
+                "userText": "qué pasa, tío?",
+                "botResponse": "¡Hola! ¿Qué tal? (Expresión común en España)"
+              },
+              {
+                "userText": "quiubo?",
+                "botResponse": "¡Hola! ¿Qué necesitas? (Expresión común en Colombia)"
+              },
+              {
+                "userText": "qué honda?",
+                "botResponse": "¡Hola! ¿Cómo te va? (Error ortográfico de 'qué onda')"
+              }
+          ]
+      },
+      {
+          "intent": "social_media_jargon",
+          "examples": [
+              {
+                  "userText": "XD",
+                  "botResponse": "¡Eso es divertido! ¿Puedo ayudarte en algo más?"
+              },
+              {
+                  "userText": "lol",
+                  "botResponse": "¡Qué gracioso! ¿Necesitas ayuda con algo más?"
+              },
+              {
+                  "userText": "omg",
+                  "botResponse": "¿Qué pasó? ¿En qué te puedo ayudar?"
+              },
+              {
+                  "userText": "tqm",
+                  "botResponse": "¡Qué lindo! ¿Puedo asistirte en algo más?"
+              },
+              {
+                "userText": "brb",
+                "botResponse": "Vuelve pronto. ¿En qué más puedo ayudarte?"
+              },
+              {
+                "userText": "gtg",
+                "botResponse": "¡Hasta luego! Cuídate."
+              },
+              {
+                "userText": "np",
+                "botResponse": "¡De nada! ¿Algo más en lo que pueda ayudarte?"
+              },
+              {
+                "userText": "idk",
+                "botResponse": "Está bien no saber. ¿Te gustaría aprender algo nuevo?"
+              },
+              {
+                "userText": "tysm",
+                "botResponse": "¡De nada! ¿En qué más puedo ayudarte?"
+              }
+          ]
+      },
+      {
+          "intent": "complex_requests",
+          "examples": [
+              {
+                  "userText": "¿Puedes explicarme cómo instalar PostgreSQL en Ubuntu paso a paso?",
+                  "botResponse": "Claro, aquí tienes los pasos: 1. Actualiza el sistema con 'sudo apt update'. 2. Instala PostgreSQL con 'sudo apt install postgresql'. 3. Verifica el estado del servicio con 'sudo systemctl status postgresql'. ¿Necesitas más detalles?"
+              },
+              {
+                  "userText": "Explícame cómo funcionan los agujeros negros en palabras simples",
+                  "botResponse": "Un agujero negro es una región del espacio con una gravedad tan fuerte que nada puede escapar de él, ni siquiera la luz. Se forman cuando una estrella muy grande colapsa al final de su vida."
+              },
+              {
+                  "userText": "¿Qué pasa si mezclo bicarbonato y vinagre?",
+                  "botResponse": "Se produce una reacción química que libera dióxido de carbono (CO2), creando burbujas y espuma. Es seguro si lo haces en pequeñas cantidades."
+              },
+              {
+                "userText": "¿cómo instalo Docker en Windows?",
+                "botResponse": "Descarga Docker Desktop desde su sitio oficial e instálalo siguiendo el asistente. ¿Necesitas más pasos?"
+              },
+              {
+                "userText": "¿cómo funciona el machine learning?",
+                "botResponse": "Es un campo de la inteligencia artificial que permite a las máquinas aprender a partir de datos. ¿Quieres ejemplos?"
+              },
+              {
+                "userText": "explicame que es la realidad virtual",
+                "botResponse": "Es una experiencia simulada creada por computadora que puede ser interactiva. ¿Quieres saber más?"
+              }
+          ]
+      },
+      {
+          "intent": "apology",
+          "examples": [
+              {
+                  "userText": "perdón",
+                  "botResponse": "¡No te preocupes! ¿En qué puedo ayudarte?"
+              },
+              {
+                  "userText": "disculpa",
+                  "botResponse": "No pasa nada. ¿Cómo puedo asistirte?"
+              },
+              {
+                  "userText": "lo siento mucho",
+                  "botResponse": "Todo está bien, no te preocupes."
+              },
+              {
+                  "userText": "perdón por molestarte",
+                  "botResponse": "¡No hay problema! Estoy aquí para ayudarte."
+              },
+              {
+                  "userText": "me equivoqué",
+                  "botResponse": "¡No pasa nada! ¿Cómo puedo ayudarte ahora?"
+              },
+              {
+                "userText": "sorry",
+                "botResponse": "¡No pasa nada! ¿En qué puedo ayudarte ahora?"
+              },
+              {
+                "userText": "me disculpo",
+                "botResponse": "Está bien, no te preocupes. Estoy aquí para ayudarte."
+              },
+              {
+                "userText": "lo siento por mi error",
+                "botResponse": "No pasa nada. Todos cometemos errores."
+              },
+              {
+                "userText": "no fue mi intencion",
+                "botResponse": "Entiendo. No te preocupes, sigue adelante."
+              }
+          ]
+      },
+      {
+          "intent": "recommendations",
+          "examples": [
+              {
+                  "userText": "¿qué película me recomiendas?",
+                  "botResponse": "Depende de tus gustos. ¿Qué género prefieres?"
+              },
+              {
+                  "userText": "recomiéndame un libro",
+                  "botResponse": "¿Te gustan las novelas, los libros de autoayuda o las historias de fantasía?"
+              },
+              {
+                  "userText": "¿dónde puedo comer bien?",
+                  "botResponse": "Busca restaurantes cercanos en tu zona. ¿Quieres recomendaciones específicas?"
+              },
+              {
+                  "userText": "¿algún lugar para visitar?",
+                  "botResponse": "Claro, depende de dónde estés. ¿Te interesan museos, parques o naturaleza?"
+              },
+              {
+                "userText": "¿qué ver en netflix?",
+                "botResponse": "Depende de tus gustos. ¿Te gustan las series de acción, drama o comedia?"
+              },
+              {
+                "userText": "¿algún buen restaurante?",
+                "botResponse": "¿Qué tipo de comida prefieres? Puedo recomendar algo general."
+              },
+              {
+                "userText": "¿qué serie está de moda?",
+                "botResponse": "Algunas series populares son 'Stranger Things', 'The Crown' y 'The Witcher'."
+              },
+              {
+                "userText": "¿qué anime me recomiendas?",
+                "botResponse": "Prueba 'Attack on Titan', 'Demon Slayer' o 'One Piece'."
+              },
+              {
+                "userText": "quiero un libro interesante",
+                "botResponse": "Intenta '1984' de George Orwell o 'El Alquimista' de Paulo Coelho."
+              },
+              {
+                "userText": "¿qué lugares turísticos son buenos?",
+                "botResponse": "Depende de tu ubicación. Las playas tropicales y las ciudades históricas son buenas opciones."
+              }              
+          ]
+      },
+      {
+          "intent": "learning",
+          "examples": [
+              {
+                  "userText": "enséñame algo nuevo",
+                  "botResponse": "¿Qué tema te interesa aprender? Podría ser ciencia, historia o incluso un dato curioso."
+              },
+              {
+                  "userText": "quiero aprender programación",
+                  "botResponse": "¡Genial! Te sugiero empezar con Python, que es fácil y poderoso para principiantes."
+              },
+              {
+                  "userText": "¿cómo aprendo inglés?",
+                  "botResponse": "Puedes practicar con aplicaciones como Duolingo, ver series en inglés y leer libros básicos."
+              },
+              {
+                  "userText": "¿puedes explicarme la tabla periódica?",
+                  "botResponse": "Claro, es una forma de organizar los elementos químicos por su número atómico, propiedades y estructura electrónica."
+              },
+              {
+                "userText": "¿qué puedo aprender hoy?",
+                "botResponse": "¿Te interesan temas como historia, ciencia o programación?"
+              },
+              {
+                "userText": "quiero aprender frances",
+                "botResponse": "Prueba aplicaciones como Duolingo o Babbel para practicar francés."
+              },
+              {
+                "userText": "¿cómo estudio matemáticas?",
+                "botResponse": "Practica ejercicios diariamente y busca videos educativos."
+              },
+              {
+                "userText": "quiero saber mas sobre historia",
+                "botResponse": "Hay muchos recursos en línea. ¿Te interesa algún período histórico en particular?"
+              }
+          ]
+      },
+      {
+          "intent": "time_management",
+          "examples": [
+              {
+                  "userText": "¿qué hora es?",
+                  "botResponse": "No tengo acceso a la hora actual, pero puedes verla en tu dispositivo."
+              },
+              {
+                  "userText": "ayúdame a organizar mi día",
+                  "botResponse": "Claro, divide tus tareas en prioritarias, importantes y opcionales. ¿Quieres ejemplos?"
+              },
+              {
+                  "userText": "¿cuál es el mejor momento para estudiar?",
+                  "botResponse": "Depende de ti. Por la mañana tienes más energía, pero algunos prefieren estudiar por la noche."
+              },
+              {
+                  "userText": "¿cómo administro mi tiempo?",
+                  "botResponse": "Usa técnicas como el método Pomodoro: trabaja 25 minutos y descansa 5. ¿Quieres más consejos?"
+              }
+          ]
+      },
+      {
+          "intent": "general_knowledge",
+          "examples": [
+              {
+                  "userText": "¿cuántos planetas hay en el sistema solar?",
+                  "botResponse": "Actualmente hay 8 planetas en el sistema solar."
+              },
+              {
+                  "userText": "¿quién pintó la Mona Lisa?",
+                  "botResponse": "La Mona Lisa fue pintada por Leonardo da Vinci."
+              },
+              {
+                  "userText": "¿qué es la gravedad?",
+                  "botResponse": "Es la fuerza que atrae los objetos hacia el centro de la Tierra o cualquier masa grande."
+              },
+              {
+                  "userText": "¿cuál es la capital de México?",
+                  "botResponse": "La capital de México es Ciudad de México."
+              },
+              {
+                  "userText": "¿qué es el agua?",
+                  "botResponse": "El agua es un compuesto químico formado por dos átomos de hidrógeno y uno de oxígeno (H2O)."
+              }
+          ]
+      },
+      {
+          "intent": "games",
+          "examples": [
+              {
+                  "userText": "juguemos algo",
+                  "botResponse": "¡Claro! ¿Qué tal un juego de adivinanzas? Dime 'empecemos' para comenzar."
+              },
+              {
+                  "userText": "adivina un número",
+                  "botResponse": "Ok, estoy pensando en un número del 1 al 10. ¿Cuál crees que es?"
+              },
+              {
+                  "userText": "¿sabes juegos?",
+                  "botResponse": "¡Sí! Puedo hacer adivinanzas, jugar piedra, papel o tijera, y más. ¿Cuál quieres probar?"
+              },
+              {
+                  "userText": "juguemos piedra, papel o tijera",
+                  "botResponse": "¡De acuerdo! Cuenta hasta tres y dime tu elección: piedra, papel o tijera."
+              }
+          ]
+      },
+      {
+          "intent": "problem_solving",
+          "examples": [
+              {
+                  "userText": "tengo un problema",
+                  "botResponse": "Dime más detalles, y trataré de ayudarte a resolverlo."
+              },
+              {
+                  "userText": "no sé cómo hacer esto",
+                  "botResponse": "Está bien, explícame qué necesitas y busquemos una solución juntos."
+              },
+              {
+                  "userText": "estoy atascado con una tarea",
+                  "botResponse": "¿Cuál es la tarea? Tal vez pueda ayudarte a encontrar un enfoque diferente."
+              },
+              {
+                  "userText": "¿cómo resuelvo esto?",
+                  "botResponse": "Primero analiza el problema. ¿Cuál es el resultado que buscas? Podemos dividirlo en pasos más pequeños."
+              }
+          ]
+      },
+      {
+          "intent": "language_support",
+          "examples": [
+              {
+                  "userText": "¿cómo se dice 'perro' en inglés?",
+                  "botResponse": "Se dice 'dog'."
+              },
+              {
+                  "userText": "¿puedes traducir algo?",
+                  "botResponse": "Sí, dime qué necesitas traducir y a qué idioma."
+              },
+              {
+                  "userText": "explícame gramática en español",
+                  "botResponse": "Claro, ¿qué parte de la gramática necesitas saber? ¿Verbos, tiempos, conjugaciones?"
+              },
+              {
+                  "userText": "¿cómo conjugo el verbo 'correr'?",
+                  "botResponse": "En presente: yo corro, tú corres, él/ella corre, nosotros corremos, vosotros corréis, ellos corren."
+              }
+          ]
+      },
+      {
+          "intent": "custom_requests",
+          "examples": [
+              {
+                  "userText": "¿puedes cantar?",
+                  "botResponse": "No puedo cantar, pero puedo compartir letras de canciones si quieres."
+              },
+              {
+                  "userText": "dime algo inspirador",
+                  "botResponse": "Claro: 'El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.'"
+              },
+              {
+                  "userText": "cuéntame algo interesante",
+                  "botResponse": "¿Sabías que el corazón humano late alrededor de 100,000 veces al día?"
+              },
+              {
+                  "userText": "haz algo divertido",
+                  "botResponse": "¿Qué tal un chiste? ¿Por qué no puedes confiar en un átomo? Porque lo inventan todo."
+              }
+          ]
+      },
+      {
+          "intent": "health_and_wellness",
+          "examples": [
+              {
+                  "userText": "me siento mal",
+                  "botResponse": "Lo siento. Si es algo grave, considera consultar con un médico."
+              },
+              {
+                  "userText": "¿cómo puedo estar saludable?",
+                  "botResponse": "Mantén una dieta equilibrada, haz ejercicio regularmente y duerme bien."
+              },
+              {
+                  "userText": "necesito motivación para hacer ejercicio",
+                  "botResponse": "Piensa en cómo te sentirás después. ¡Empieza con pequeños pasos hoy!"
+              },
+              {
+                  "userText": "¿qué alimentos son buenos para la salud?",
+                  "botResponse": "Frutas, verduras, granos enteros y proteínas magras son excelentes opciones."
+              },
+              {
+                  "userText": "tengo estrés",
+                  "botResponse": "Prueba técnicas de relajación como respirar profundamente o meditar."
+              }
+          ]
+      },
+      {
+          "intent": "relationship_advice",
+          "examples": [
+              {
+                  "userText": "tengo problemas con mi pareja",
+                  "botResponse": "Hablar y escuchar es clave. ¿Has intentado comunicar cómo te sientes?"
+              },
+              {
+                  "userText": "me siento solo",
+                  "botResponse": "Hablar con amigos o familiares puede ayudarte. También puedes buscar actividades que disfrutes."
+              },
+              {
+                  "userText": "¿cómo mejoro mis amistades?",
+                  "botResponse": "Dedica tiempo a escuchar y compartir momentos con ellos."
+              },
+              {
+                  "userText": "tengo un conflicto con un amigo",
+                  "botResponse": "Trata de hablar con calma y expresar cómo te sientes."
+              },
+              {
+                  "userText": "¿cómo puedo ser más sociable?",
+                  "botResponse": "Empieza con conversaciones simples y encuentra intereses comunes con los demás."
+              }
+          ]
+      },
+      {
+          "intent": "financial_advice",
+          "examples": [
+              {
+                  "userText": "quiero ahorrar dinero",
+                  "botResponse": "Haz un presupuesto mensual y evita gastos innecesarios."
+              },
+              {
+                  "userText": "¿cómo administro mi dinero?",
+                  "botResponse": "Divide tus ingresos en necesidades, ahorros y gastos personales."
+              },
+              {
+                  "userText": "¿debo invertir?",
+                  "botResponse": "Depende de tus metas financieras. Investiga bien antes de hacerlo."
+              },
+              {
+                  "userText": "¿cómo salgo de deudas?",
+                  "botResponse": "Prioriza pagar deudas con intereses altos y establece un plan de pagos."
+              },
+              {
+                  "userText": "necesito consejos financieros",
+                  "botResponse": "Empieza por llevar un control de tus ingresos y gastos. ¿Te gustaría un ejemplo?"
+              }
+          ]
+      },
+      {
+          "intent": "fun_facts",
+          "examples": [
+              {
+                "userText": "dime algo raro",
+                "botResponse": "¿Sabías que los flamencos se vuelven rosas por la comida que comen?"
+              },
+              {
+                "userText": "quiero saber algo curioso",
+                "botResponse": "El corazón de un camarón está en su cabeza."
+              },            
+              {
+                  "userText": "dime un dato curioso",
+                  "botResponse": "¿Sabías que las abejas tienen cinco ojos?"
+              },
+              {
+                  "userText": "cuéntame algo interesante",
+                  "botResponse": "Los tiburones existen desde antes que los árboles."
+              },
+              {
+                  "userText": "¿sabías algo raro?",
+                  "botResponse": "Las medusas no tienen cerebro, pero aún así pueden sobrevivir."
+              },
+              {
+                  "userText": "cuéntame algo que no sepa",
+                  "botResponse": "El Monte Everest crece aproximadamente 4 mm cada año."
+              },
+              {
+                  "userText": "dime algo divertido",
+                  "botResponse": "Un pulpo tiene tres corazones, pero solo uno funciona mientras nada."
+              }
+          ]
+      },
+      {
+          "intent": "travel_and_geography",
+          "examples": [
+              {
+                  "userText": "¿cuál es el país más grande del mundo?",
+                  "botResponse": "El país más grande por área es Rusia."
+              },
+              {
+                  "userText": "¿cuál es el río más largo?",
+                  "botResponse": "El río Amazonas es el más largo del mundo."
+              },
+              {
+                  "userText": "¿qué lugares turísticos puedo visitar?",
+                  "botResponse": "Depende de dónde estés. ¿Te gustan las playas, montañas o ciudades históricas?"
+              },
+              {
+                  "userText": "quiero viajar",
+                  "botResponse": "¡Genial! ¿Tienes algún destino en mente?"
+              },
+              {
+                  "userText": "¿cuántos países hay?",
+                  "botResponse": "Hay 195 países reconocidos en el mundo actualmente."
+              }
+          ]
+      },
+      {
+          "intent": "tech_support",
+          "examples": [
+              {
+                  "userText": "mi computadora no enciende",
+                  "botResponse": "¿Has revisado el cable de alimentación o intentado reiniciar?"
+              },
+              {
+                  "userText": "no puedo acceder a internet",
+                  "botResponse": "Intenta reiniciar tu router o verifica la conexión de tu dispositivo."
+              },
+              {
+                  "userText": "mi teléfono está lento",
+                  "botResponse": "Prueba cerrar aplicaciones en segundo plano o reiniciarlo."
+              },
+              {
+                  "userText": "¿cómo libero espacio en mi dispositivo?",
+                  "botResponse": "Elimina archivos innecesarios o aplicaciones que no usas."
+              },
+              {
+                  "userText": "necesito ayuda con mi correo",
+                  "botResponse": "¿Es un problema de acceso o configuración? Puedo darte pasos generales."
+              }
+          ]
+      },
+      {
+          "intent": "entertainment",
+          "examples": [
+              {
+                  "userText": "recomiéndame algo para ver",
+                  "botResponse": "¿Qué tal una serie o una película? ¿Qué género te gusta?"
+              },
+              {
+                  "userText": "¿qué música escucho?",
+                  "botResponse": "Prueba con algo nuevo, como jazz o música indie. ¿Tienes algún artista favorito?"
+              },
+              {
+                  "userText": "quiero ver algo gracioso",
+                  "botResponse": "Busca comedias como 'Friends' o películas de humor ligero."
+              },
+              {
+                  "userText": "¿qué series están de moda?",
+                  "botResponse": "Series como 'Stranger Things' o 'The Crown' suelen ser populares."
+              },
+              {
+                  "userText": "¿puedes cantar?",
+                  "botResponse": "No puedo cantar, pero puedo buscar letras de canciones si quieres."
+              }
+          ]
+      },
+      {
+          "intent": "personal_development",
+          "examples": [
+              {
+                  "userText": "quiero ser mejor persona",
+                  "botResponse": "Empieza por reflexionar sobre tus acciones y cómo impactan a otros."
+              },
+              {
+                  "userText": "¿cómo mejoro mis habilidades?",
+                  "botResponse": "Dedica tiempo a practicar y aprender algo nuevo cada día."
+              },
+              {
+                  "userText": "quiero ser más disciplinado",
+                  "botResponse": "Establece metas pequeñas y cúmplelas de forma constante."
+              },
+              {
+                  "userText": "¿cómo aumento mi confianza?",
+                  "botResponse": "Céntrate en tus fortalezas y celebra tus logros, por pequeños que sean."
+              },
+              {
+                  "userText": "¿cómo mantengo una mentalidad positiva?",
+                  "botResponse": "Piensa en lo que puedes controlar y busca algo bueno en cada situación."
+              }
+          ]
+      },
+      {
+          "intent": "food_and_cooking",
+          "examples": [
+              {
+                  "userText": "¿qué puedo cocinar con pollo?",
+                  "botResponse": "Puedes hacer pollo al horno, a la parrilla, en sopa o en ensalada."
+              },
+              {
+                  "userText": "¿cómo hago una pizza casera?",
+                  "botResponse": "Necesitas masa, salsa de tomate, queso y tus ingredientes favoritos. ¿Quieres la receta detallada?"
+              },
+              {
+                  "userText": "¿qué postre puedo preparar?",
+                  "botResponse": "Prueba con brownies, galletas o un pastel sencillo. ¿Tienes algún antojo en particular?"
+              },
+              {
+                  "userText": "¿cómo hago un smoothie saludable?",
+                  "botResponse": "Mezcla frutas, verduras, yogur y hielo en una licuadora. ¿Quieres una receta específica?"
+              },
+              {
+                  "userText": "¿qué desayuno es rápido y nutritivo?",
+                  "botResponse": "Puedes hacer avena, yogur con frutas o un batido de proteínas."
+              }
+          ]
+      },
+      {
+          "intent": "sports_and_fitness",
+          "examples": [
+              {
+                  "userText": "¿qué deporte me recomiendas?",
+                  "botResponse": "Depende de tus gustos. ¿Te gustan los deportes de equipo, individuales o al aire libre?"
+              },
+              {
+                  "userText": "¿cómo empiezo a hacer ejercicio?",
+                  "botResponse": "Empieza con actividades simples como caminar, correr o hacer ejercicios en casa."
+              },
+              {
+                  "userText": "¿qué rutina de ejercicios es buena para principiantes?",
+                  "botResponse": "Prueba con ejercicios básicos como sentadillas, flexiones y abdominales."
+              },
+              {
+                  "userText": "¿cómo mejoro mi resistencia?",
+                  "botResponse": "Haz ejercicio regularmente, come bien y descansa lo suficiente."
+              },
+              {
+                  "userText": "¿qué deporte es bueno para perder peso?",
+                  "botResponse": "Deportes como correr, nadar o ciclismo son excelentes para quemar calorías."
+              }
+          ]
+      },
+      {
+          "intent": "shopping_and_fashion",
+          "examples": [
+              {
+                  "userText": "¿dónde puedo comprar ropa?",
+                  "botResponse": "Puedes comprar en tiendas físicas o en línea. ¿Buscas algo en particular?"
+              },
+              {
+                  "userText": "¿qué ropa está de moda?",
+                  "botResponse": "Depende de la temporada y tu estilo. ¿Te gustan las tendencias actuales?"
+              },
+              {
+                  "userText": "¿cómo elijo la ropa adecuada?",
+                  "botResponse": "Elige prendas que te hagan sentir cómodo y reflejen tu personalidad."
+              },
+              {
+                  "userText": "¿cómo combino colores en mi ropa?",
+                  "botResponse": "Combina colores neutros con tonos más llamativos o usa la regla del color complementario."
+              },
+              {
+                  "userText": "¿cómo encuentro mi estilo?",
+                  "botResponse": "Prueba diferentes estilos y prendas hasta encontrar lo que te haga sentir bien."
+              }
+          ]
+      },
+      {
+          "intent": "motivation",
+          "examples": [
+              {
+                  "userText": "necesito motivación",
+                  "botResponse": "¡Tú puedes lograrlo! Nunca te rindas."
+              },
+              {
+                  "userText": "me siento desmotivado",
+                  "botResponse": "Todos tenemos días difíciles. ¡Sigue adelante!"
+              },
+              {
+                  "userText": "¿cómo me motivo?",
+                  "botResponse": "Establece metas claras y recompénsate por cada logro."
+              }
+          ]
+      },
+      {
+          "intent": "study_tips",
+          "examples": [
+              {
+                  "userText": "¿cómo estudio mejor?",
+                  "botResponse": "Establece un horario y elimina distracciones."
+              },
+              {
+                  "userText": "consejos para estudiar",
+                  "botResponse": "Haz pausas regulares y practica con ejercicios."
+              },
+              {
+                  "userText": "no sé cómo estudiar",
+                  "botResponse": "Divide el tema en partes pequeñas y estudia una a la vez."
+              }
+          ]
+      },
+      {
+          "intent": "career_advice",
+          "examples": [
+              {
+                  "userText": "¿cómo consigo un trabajo?",
+                  "botResponse": "Prepara un buen currículum y busca ofertas relacionadas a tus habilidades."
+              },
+              {
+                  "userText": "quiero cambiar de carrera",
+                  "botResponse": "Investiga nuevas áreas que te interesen y toma cursos para prepararte."
+              }
+          ]
+      },
+      {
+          "intent": "social_media_problems",
+          "examples": [
+              {
+                  "userText": "mi cuenta de facebook está bloqueada",
+                  "botResponse": "Intenta recuperar tu cuenta siguiendo los pasos de seguridad de Facebook."
+              },
+              {
+                  "userText": "no puedo acceder a mi instagram",
+                  "botResponse": "Verifica tu contraseña o intenta restablecerla desde la aplicación."
+              }
+          ]
+      },
+      {
+          "intent": "extra_entertainment",
+          "examples": [
+              {
+                  "userText": "recomiéndame un juego de mesa",
+                  "botResponse": "Prueba juegos como Catan, Monopoly o Carcassonne."
+              },
+              {
+                  "userText": "qué libros son populares ahora",
+                  "botResponse": "Algunos títulos actuales incluyen novelas de suspenso y ciencia ficción."
+              }
+          ]
+      },
+      {
+        "intent": "weather",
+        "examples": [
+          {
+            "userText": "¿cómo está el clima ahora?",
+            "botResponse": "No puedo verificar el clima actual, pero puedes consultar una aplicación de clima."
+          },
+          {
+            "userText": "¿cuándo será verano?",
+            "botResponse": "El verano comienza alrededor de junio en el hemisferio norte y diciembre en el sur."
+          },
+          {
+            "userText": "¿hará frío mañana?",
+            "botResponse": "Consulta una aplicación meteorológica para obtener información precisa."
+          },
+          {
+            "userText": "esta nublado?",
+            "botResponse": "No puedo ver el clima, pero revisa una aplicación meteorológica local."
+          },
+          {
+            "userText": "que tal el tiempo?",
+            "botResponse": "Verifica tu aplicación de clima favorita para obtener datos actualizados."
+          }
+        ]
+      },
+      {
+        "intent": "emergencies",
+        "examples": [
+          {
+            "userText": "¿qué hago en caso de terremoto?",
+            "botResponse": "Busca refugio bajo una mesa resistente y mantén la calma."
+          },
+          {
+            "userText": "alguien se desmayó",
+            "botResponse": "Llama a emergencias y proporciona primeros auxilios si sabes cómo hacerlo."
+          },
+          {
+            "userText": "hay un incendio",
+            "botResponse": "Llama a los bomberos y evacúa el área de inmediato."
+          },
+          {
+            "userText": "accidente de auto",
+            "botResponse": "Llama a emergencias y sigue los procedimientos legales en tu país."
+          },
+          {
+            "userText": "emergencia medica!",
+            "botResponse": "Llama a emergencias médicas de inmediato para obtener ayuda."
+          }
+        ]
+      },
+      {
+        "intent": "daily_tasks",
+        "examples": [
+          {
+            "userText": "¿cómo organizo mi día?",
+            "botResponse": "Haz una lista de tareas y establece prioridades."
+          },
+          {
+            "userText": "¿qué hago primero en la mañana?",
+            "botResponse": "Intenta comenzar con una rutina saludable como ejercicio o meditación."
+          },
+          {
+            "userText": "necesito ser más productivo",
+            "botResponse": "Divide tus tareas en bloques y evita distracciones."
+          }
+        ]
+      },
+      {
+        "intent": "travel_tips",
+        "examples": [
+          {
+            "userText": "¿qué empaco para la playa?",
+            "botResponse": "Lleva traje de baño, protector solar, toalla y gafas de sol."
+          },
+          {
+            "userText": "¿necesito pasaporte para viajar?",
+            "botResponse": "Depende del destino. Consulta los requisitos de viaje antes de partir."
+          },
+          {
+            "userText": "¿cómo preparo mi maleta?",
+            "botResponse": "Haz una lista de lo esencial y organiza la ropa por categorías."
+          }
+        ]
+      },
+      {
+        "intent": "home_maintenance",
+        "examples": [
+          {
+            "userText": "¿cómo arreglo una fuga de agua?",
+            "botResponse": "Cierra la llave de paso y llama a un plomero si es grave."
+          },
+          {
+            "userText": "¿cómo limpio ventanas?",
+            "botResponse": "Usa una mezcla de agua y vinagre para limpiar sin dejar manchas."
+          },
+          {
+            "userText": "¿cómo cambio una bombilla?",
+            "botResponse": "Asegúrate de apagar la luz y gira la bombilla en sentido contrario a las agujas del reloj."
+          }
+        ]
+      },
+      {
+        "intent": "pets_and_animals",
+        "examples": [
+          {
+            "userText": "¿qué comen los perros?",
+            "botResponse": "Los perros deben comer alimentos específicos para ellos o comida recomendada por su veterinario."
+          },
+          {
+            "userText": "¿puedo tener un gato en un apartamento?",
+            "botResponse": "Sí, los gatos son buenas mascotas para espacios pequeños."
+          },
+          {
+            "userText": "¿cuánto vive un pez dorado?",
+            "botResponse": "Con buen cuidado, pueden vivir de 5 a 10 años o más."
+          }
+        ]
+      },
+      {
+        "intent": "mental_health",
+        "examples": [
+          {
+            "userText": "me siento ansioso",
+            "botResponse": "Respira profundamente y trata de relajarte. Hablar con alguien puede ayudar."
+          },
+          {
+            "userText": "estoy estresado",
+            "botResponse": "Intenta tomar un descanso y practicar la meditación o el ejercicio."
+          },
+          {
+            "userText": "no puedo dormir",
+            "botResponse": "Evita la cafeína antes de dormir y crea una rutina relajante."
+          },
+          {
+            "userText": "tengo mucha ansiedad",
+            "botResponse": "Hablar con un profesional puede ayudarte a manejar la ansiedad."
+          }
+        ]
+      },
+      {
+        "intent": "technology_tips",
+        "examples": [
+          {
+            "userText": "¿cómo mejorar la velocidad de mi computadora?",
+            "botResponse": "Limpia archivos temporales, desactiva programas de inicio y actualiza tu sistema operativo."
+          },
+          {
+            "userText": "¿qué antivirus recomiendas?",
+            "botResponse": "Algunos buenos antivirus son Avast, Bitdefender y Kaspersky."
+          },
+          {
+            "userText": "mi teléfono está lento",
+            "botResponse": "Cierra aplicaciones en segundo plano y elimina archivos innecesarios."
+          },
+          {
+            "userText": "¿cómo hago una copia de seguridad?",
+            "botResponse": "Usa servicios en la nube como Google Drive o un disco duro externo."
+          }
+        ]
+      },
+      {
+        "intent": "social_skills",
+        "examples": [
+          {
+            "userText": "¿cómo puedo hacer nuevos amigos?",
+            "botResponse": "Únete a clubes, participa en eventos y sé amable con los demás."
+          },
+          {
+            "userText": "¿cómo puedo ser más seguro?",
+            "botResponse": "Confía en tus habilidades y practica ser asertivo en conversaciones."
+          },
+          {
+            "userText": "quiero mejorar mi comunicación",
+            "botResponse": "Escucha activamente y practica expresar tus ideas con claridad."
+          },
+          {
+            "userText": "¿cómo mantengo una buena conversación?",
+            "botResponse": "Haz preguntas abiertas y muestra interés genuino en lo que dicen los demás."
+          }
+        ]
+      },
+      {
+        "intent": "food_and_drinks",
+        "examples": [
+          {
+            "userText": "¿qué puedo cocinar fácil?",
+            "botResponse": "Intenta preparar una ensalada, una pasta simple o un sándwich."
+          },
+          {
+            "userText": "tengo hambre",
+            "botResponse": "¿Qué tal una merienda rápida como fruta o yogur?"
+          },
+          {
+            "userText": "¿cómo hago café?",
+            "botResponse": "Hierve agua, añade café molido y déjalo reposar antes de colarlo."
+          },
+          {
+            "userText": "¿qué postre es rápido?",
+            "botResponse": "Prueba hacer brownies o galletas fáciles en microondas."
+          },
+          {
+            "userText": "¿qué cena ligera me recomiendas?",
+            "botResponse": "Una ensalada o una sopa ligera puede ser una buena opción."
+          }
+        ]
+      },
+      {
+        "intent": "health_advice",
+        "examples": [
+          {
+            "userText": "¿cómo puedo mejorar mi salud?",
+            "botResponse": "Haz ejercicio regularmente, come balanceado y duerme bien."
+          },
+          {
+            "userText": "me siento enfermo",
+            "botResponse": "Consulta a un médico si te sientes muy mal."
+          },
+          {
+            "userText": "tengo dolor de cabeza",
+            "botResponse": "Descansa, hidrátate y evita el ruido si es posible."
+          },
+          {
+            "userText": "¿qué vitaminas debo tomar?",
+            "botResponse": "Consulta a un médico para saber qué vitaminas necesitas según tu salud."
+          },
+          {
+            "userText": "me siento débil",
+            "botResponse": "Come alimentos nutritivos y descansa para recuperar energías."
+          }
+        ]
+      },
+      {
+        "intent": "life_advice",
+        "examples": [
+          {
+            "userText": "¿cómo encuentro mi pasión?",
+            "botResponse": "Explora actividades nuevas y presta atención a lo que te hace feliz."
+          },
+          {
+            "userText": "necesito motivación",
+            "botResponse": "Piensa en tus metas y en lo que puedes lograr con dedicación."
+          },
+          {
+            "userText": "¿cómo puedo ahorrar dinero?",
+            "botResponse": "Haz un presupuesto mensual y evita compras innecesarias."
+          },
+          {
+            "userText": "quiero mejorar mi vida",
+            "botResponse": "Establece metas claras y trabaja en ellas un paso a la vez."
+          },
+          {
+            "userText": "quiero aprender algo nuevo",
+            "botResponse": "Prueba un curso en línea o aprende una nueva habilidad que te interese."
+          }
+        ]
+      },
+      {
+        "intent": "social_interactions",
+        "examples": [
+          {
+            "userText": "¿cómo hago amigos?",
+            "botResponse": "Sé abierto y muestra interés genuino en los demás."
+          },
+          {
+            "userText": "soy tímido",
+            "botResponse": "Intenta practicar conversaciones simples y ser amable con los demás."
+          },
+          {
+            "userText": "quiero conocer gente nueva",
+            "botResponse": "Participa en actividades comunitarias o únete a clubes locales."
+          },
+          {
+            "userText": "me cuesta socializar",
+            "botResponse": "Comienza con conversaciones breves y muestra interés en lo que dicen los demás."
+          }
+        ]
+      }
+      
+      
+      
+      
   ]
 }
