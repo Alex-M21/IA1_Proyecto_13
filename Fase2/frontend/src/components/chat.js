@@ -25,7 +25,7 @@ const Chatbot = () => {
   }, []);
 
   useEffect(() => {
-    const welcomeMessage = "Hola, soy BotIA1 y estaré aquí ayudándote con temas de alimentación.";
+    const welcomeMessage = "¡Hola! Soy tu chat virtual. Puedo ayudarte con temas de, cine, entretenimiento, gym, comida, tecnología, estaciones del año, clima, bromas. ¿De qué quieres hablar?";
     let currentText = "";
     let index = 0;
 

@@ -11,7 +11,7 @@ export const loadModelAndData = async () => {
 
   model = await use.load();
 
-  const trainingDataFromFile = await fetch(`/IA1_Proyecto_13/trainingData.json`)
+  const trainingDataFromFile = await fetch(`/IA1_Proyecto_13/experimento.json`)
     .then((response) => response.json());
 
   for (const intent of trainingDataFromFile.intents) {
