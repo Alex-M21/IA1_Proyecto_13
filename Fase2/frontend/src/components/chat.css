@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* Contenedor principal */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  background-color: #C0C2C9; /* Fondo principal más oscuro */
+  padding: 20px;
+}
+
+/* Título principal */
+.mainHeader h1 {
+  font-size: 36px;
+  color: #2C3E50; /* Azul oscuro */
+  margin: 10px 0 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+/* Contenedor del chat */
+.chatContainer {
+  width: 100%;
+  max-width: 600px;
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+}
+
+/* Cabecera del chat */
+.header {
+  text-align: center;
+  font-size: 20px;
+  padding: 10px 0;
+  background-color: #2C3E50; /* Azul oscuro */
+  color: white;
+  font-weight: 500;
+}
+
+/* Caja de chat */
+.chatBox {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  overflow-y: auto;
+  background-color: #F4F6F9; /* Fondo suave dentro del chat */
+}
+
+/* Mensajes */
+.userMessage, .botMessage {
+  display: flex;
+}
+
+.userMessage {
+  justify-content: flex-end;
+}
+
+.botMessage {
+  justify-content: flex-start;
+}
+
+/* Burbuja de mensajes */
+.userBubble, .botBubble {
+  padding: 12px 16px;
+  border-radius: 18px;
+  max-width: 80%;
+  font-size: 14px;
+  word-wrap: break-word;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.userBubble {
+  background-color: #3498DB; /* Azul brillante */
+  color: white;
+}
+
+.botBubble {
+  background-color: #ECF0F1; /* Gris claro */
+  color: #333333;
+  border: 1px solid #BDC3C7; /* Borde gris tenue */
+}
+
+/* Formulario de entrada */
+.form {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #FFFFFF;
+  border-top: 1px solid #BDC3C7;
+}
+
+.input {
+  flex-grow: 1;
+  padding: 10px 15px;
+  border: 1px solid #BDC3C7;
+  border-radius: 18px;
+  font-size: 14px;
+  outline: none;
+  transition: box-shadow 0.2s ease;
+}
+
+.input:focus {
+  box-shadow: 0 0 6px rgba(44, 62, 80, 0.4); /* Azul oscuro */
+}
+
+.sendButton {
+  padding: 10px 15px;
+  background-color: #2C3E50; /* Azul oscuro */
+  color: white;
+  border: none;
+  border-radius: 18px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.sendButton:hover {
+  background-color: #1A252F; /* Azul más oscuro al pasar el cursor */
+}
+
+.sendButton:active {
+  transform: scale(0.95);
+}
+
+/* Indicador de "escribiendo" */
+.typingIndicator {
+  color: #7F8C8D;
+  font-style: italic;
+}
+
+
+@keyframes typingDots {
+  0% { content: "."; }
+  33% { content: ".."; }
+  66% { content: "..."; }
+}
+
+.typingIndicator::after {
+  content: "...";
+  display: inline-block;
+  animation: typingDots 1.5s infinite steps(1);
+}
