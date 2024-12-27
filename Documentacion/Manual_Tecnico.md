@@ -213,3 +213,5 @@ Los estilos definidos en chat.css controlan la apariencia de los elementos:
 - Simulación de escritura mediante un retraso fijo.
 
 - Respuestas limitadas a las intenciones definidas en el archivo trainingData.json.
+
+Que
