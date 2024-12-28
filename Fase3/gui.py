@@ -26,12 +26,17 @@ def send_message(event=None):
     user_message = input_box.get("1.0", tk.END).strip()
     if user_message:
         chat_area.config(state=tk.NORMAL)
-        chat_area.insert(tk.END, f"Usuario: {user_message}\n")
+
+        chat_area.insert(tk.END, f"Usuario: {user_message}\n", "user_tag")
+
+
         input_box.delete("1.0", tk.END)
         
         # Obtener respuesta del modelo
         chatbot_response = generate_response(user_message)
-        chat_area.insert(tk.END, f"Chatbot: {chatbot_response}\n")
+
+        chat_area.insert(tk.END, "Chatbot: ", "bot_tag")
+        chat_area.insert(tk.END, f"{chatbot_response}\n")
         
         chat_area.config(state=tk.DISABLED)
         chat_area.see(tk.END)
@@ -47,6 +52,9 @@ title_label.pack(fill=tk.X, pady=10)
 chat_area = scrolledtext.ScrolledText(root, wrap=tk.WORD, font=("Arial", 12), bg="#555555", fg="#D3D3D3")
 chat_area.pack(padx=10, pady=10, fill=tk.BOTH, expand=True)
 chat_area.config(state=tk.DISABLED)
+
+chat_area.tag_config("user_tag", font=("Arial", 12, "bold"), foreground="#FFFFFF")
+chat_area.tag_config("bot_tag", font=("Arial", 12), foreground="#D3D3D3")
 
 input_box = tk.Text(root, height=3, font=("Arial", 12), bg="#444444", fg="#D3D3D3", insertbackground="#D3D3D3")
 input_box.pack(padx=10, pady=(0, 10), fill=tk.X)
