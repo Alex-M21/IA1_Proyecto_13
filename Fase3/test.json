@@ -1,0 +1,12 @@
+[
+    {
+        "language": "en",
+        "query": "Create a program to read a number from the user in JavaScript.",
+        "response": "let number = prompt('Enter a number:');\nconsole.log(`The number is ${number}`);"
+    },
+    {
+        "language": "en",
+        "query": "How to define a text variable in JavaScript?",
+        "response": "let myText = 'Hello World';\nconsole.log(myText);"
+    }
+]
