@@ -1,0 +1,5002 @@
+[
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 6 * 8;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 6 * 2\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_4535 = 57;\nconsole.log(var_4535);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7937 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7937(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_6482:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6482(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_3040(x):\n    return x * 2\n\nprint(function_3040(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_3471(x) {\n    return x * 2;\n}\n\nconsole.log(function_3471(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_9893';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_2911 = 80;\nconsole.log(var_2911);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_5050 = 5\nprint(var_5050)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_9150(x):\n    return x * 2\n\nprint(function_9150(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_8774:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_8774(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_3961(x) {\n    return x * 2;\n}\n\nconsole.log(function_3961(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 4 * 10;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 10;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7232'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_3449 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_3449(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_8533(x) {\n    return x * 2;\n}\n\nconsole.log(function_8533(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_8848(x):\n    return x * 2\n\nprint(function_8848(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_4171';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 2 * 6\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_569';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 5 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_5786 = 34\nprint(var_5786)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_3351 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_3351(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_1719 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1719(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_4515 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_4515(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_4882'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_9967 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_9967(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 1 * 7;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_5324:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_5324(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_4342:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4342(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_5045(x) {\n    return x * 2;\n}\n\nconsole.log(function_5045(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_3071';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_1255 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1255(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(9);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 3 * 10;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_7568 = 90\nprint(var_7568)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_8583 = 24;\nconsole.log(var_8583);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 10 * 4\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_654'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 10 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_9567(x) {\n    return x * 2;\n}\n\nconsole.log(function_9567(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_1766(x):\n    return x * 2\n\nprint(function_1766(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_9767 = 19;\nconsole.log(var_9767);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_7830 = 73\nprint(var_7830)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_6744:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6744(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 7 * 5\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 1 * 1\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_3313 = 84;\nconsole.log(var_3313);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_8750 = 60\nprint(var_8750)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_1021 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1021(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 5 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7499 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7499(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_6851';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(7)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(9);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_6203(x) {\n    return x * 2;\n}\n\nconsole.log(function_6203(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_612'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_2073 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_2073(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_6652(x):\n    return x * 2\n\nprint(function_6652(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_4930:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4930(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_3320:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_3320(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_3232'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_6164(x):\n    return x * 2\n\nprint(function_6164(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_4229 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_4229(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 2 * 1;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 1 * 3\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_1531';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_8871 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8871(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_725';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_1384:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_1384(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_9415 = 30;\nconsole.log(var_9415);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 9 * 2\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_1892 = 96\nprint(var_1892)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_4114(x):\n    return x * 2\n\nprint(function_4114(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_3835 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_3835(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_7883 = 26;\nconsole.log(var_7883);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 7 * 6;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_5341 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_5341(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 4 * 3\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 5 * 2;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_7655 = 84;\nconsole.log(var_7655);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_2359 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_2359(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_389 = 48;\nconsole.log(var_389);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_4624:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4624(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7827 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7827(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_3486 = 59\nprint(var_3486)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_2886 = 21\nprint(var_2886)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_1632'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_3239 = 86;\nconsole.log(var_3239);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_5215';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_8215(x) {\n    return x * 2;\n}\n\nconsole.log(function_8215(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_6350:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6350(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 10 * 2\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_7415(x) {\n    return x * 2;\n}\n\nconsole.log(function_7415(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 1 * 5\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_4958:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4958(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_223 = 31;\nconsole.log(var_223);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 5 * 10\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_497 = 68;\nconsole.log(var_497);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_1010'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7376'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_2778'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_5471 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_5471(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_8108'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_3034'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_9874(x):\n    return x * 2\n\nprint(function_9874(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_4182 = 37\nprint(var_4182)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_6728:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6728(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_7217(x) {\n    return x * 2;\n}\n\nconsole.log(function_7217(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_5923';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_4503 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_4503(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 3 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_8243';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_9418'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_8941(x) {\n    return x * 2;\n}\n\nconsole.log(function_8941(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(7)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 10 * 5\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_8675 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8675(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_2517 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_2517(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_2341 = 85;\nconsole.log(var_2341);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 6 * 9;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_4951(x) {\n    return x * 2;\n}\n\nconsole.log(function_4951(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_7933 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7933(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_6077';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_3647(x) {\n    return x * 2;\n}\n\nconsole.log(function_3647(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_7088:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_7088(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_4368 = 60\nprint(var_4368)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_1617 = 72;\nconsole.log(var_1617);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_9858'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_8279 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8279(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(7)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_5787(x) {\n    return x * 2;\n}\n\nconsole.log(function_5787(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_9054 = 75\nprint(var_9054)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_7935';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(9);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_7455(x) {\n    return x * 2;\n}\n\nconsole.log(function_7455(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_6872(x):\n    return x * 2\n\nprint(function_6872(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_9766'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_417(x) {\n    return x * 2;\n}\n\nconsole.log(function_417(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 6 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_2518'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_783(x) {\n    return x * 2;\n}\n\nconsole.log(function_783(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_6915 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_6915(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 2 * 9;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_8120:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_8120(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_2689 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_2689(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_428(x):\n    return x * 2\n\nprint(function_428(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_2955 = 14;\nconsole.log(var_2955);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 4 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 1 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_9089 = 9;\nconsole.log(var_9089);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 3 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_3412 = 19\nprint(var_3412)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_8732'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_264'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_2998:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2998(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_8192:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_8192(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_1262 = 67\nprint(var_1262)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 10 * 8\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_3685 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_3685(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 4 * 4\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_5492:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_5492(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 4 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_765';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_4817(x) {\n    return x * 2;\n}\n\nconsole.log(function_4817(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_7842'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_4230 = 64\nprint(var_4230)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_8135 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8135(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_268(x):\n    return x * 2\n\nprint(function_268(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_8205 = 93;\nconsole.log(var_8205);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_2317(x) {\n    return x * 2;\n}\n\nconsole.log(function_2317(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_2406'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 4 * 2\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_4050(x):\n    return x * 2\n\nprint(function_4050(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_9994:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_9994(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 4 * 10\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_5825(x) {\n    return x * 2;\n}\n\nconsole.log(function_5825(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 7 * 7\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_5636(x):\n    return x * 2\n\nprint(function_5636(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_4451(x) {\n    return x * 2;\n}\n\nconsole.log(function_4451(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_6330'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_3209';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_94(x):\n    return x * 2\n\nprint(function_94(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 2 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_3609 = 41;\nconsole.log(var_3609);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_2868:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2868(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_8576'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 10 * 10\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_4626 = 2\nprint(var_4626)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_4343 = 51;\nconsole.log(var_4343);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_5380:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_5380(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 8 * 9\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 6 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_1742(x):\n    return x * 2\n\nprint(function_1742(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_3525(x) {\n    return x * 2;\n}\n\nconsole.log(function_3525(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_7890(x):\n    return x * 2\n\nprint(function_7890(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_368:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_368(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 2 * 4\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_7773';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_6235';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_8991 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8991(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_5160 = 82\nprint(var_5160)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_2593 = 24;\nconsole.log(var_2593);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_1495(x) {\n    return x * 2;\n}\n\nconsole.log(function_1495(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_2895(x) {\n    return x * 2;\n}\n\nconsole.log(function_2895(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_7508:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_7508(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_8422'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_5227 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_5227(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_6991';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_6651 = 46;\nconsole.log(var_6651);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_4814'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 5 * 10\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_2486(x):\n    return x * 2\n\nprint(function_2486(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(9);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 7 * 6;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_3318(x):\n    return x * 2\n\nprint(function_3318(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_972 = 60\nprint(var_972)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 6 * 1\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_1769(x) {\n    return x * 2;\n}\n\nconsole.log(function_1769(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_322'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_829(x) {\n    return x * 2;\n}\n\nconsole.log(function_829(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_5712'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_7406 = 3\nprint(var_7406)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_4607 = 68;\nconsole.log(var_4607);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_5072(x):\n    return x * 2\n\nprint(function_5072(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(7)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_3401(x) {\n    return x * 2;\n}\n\nconsole.log(function_3401(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_9990'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 8 * 10;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_3617';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 6 * 2\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_1027(x) {\n    return x * 2;\n}\n\nconsole.log(function_1027(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7465 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7465(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_4983(x) {\n    return x * 2;\n}\n\nconsole.log(function_4983(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_7111(x) {\n    return x * 2;\n}\n\nconsole.log(function_7111(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_4732'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_5829(x) {\n    return x * 2;\n}\n\nconsole.log(function_5829(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_9101(x) {\n    return x * 2;\n}\n\nconsole.log(function_9101(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_7931(x) {\n    return x * 2;\n}\n\nconsole.log(function_7931(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_8263';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7094'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_4116'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_6002 = 18\nprint(var_6002)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_5083 = 12;\nconsole.log(var_5083);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_1145(x) {\n    return x * 2;\n}\n\nconsole.log(function_1145(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 2 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_305(x) {\n    return x * 2;\n}\n\nconsole.log(function_305(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_6805 = 50;\nconsole.log(var_6805);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_5971';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_5112 = 67\nprint(var_5112)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_2040:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2040(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_234'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_2448:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2448(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_6978'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_4141 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_4141(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_1517';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_8081 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8081(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 3 * 8\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 6 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_5941';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_8075';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_6158:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6158(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 1 * 7\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_9754'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_8608(x):\n    return x * 2\n\nprint(function_8608(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_5517 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_5517(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_2610'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 7 * 3\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_1023 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1023(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_2070:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2070(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 6 * 2\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_4191(x) {\n    return x * 2;\n}\n\nconsole.log(function_4191(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_8567';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_966'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_6919(x) {\n    return x * 2;\n}\n\nconsole.log(function_6919(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 7 * 6\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_3705(x) {\n    return x * 2;\n}\n\nconsole.log(function_3705(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_2192(x):\n    return x * 2\n\nprint(function_2192(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_3626(x):\n    return x * 2\n\nprint(function_3626(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_7912 = 10\nprint(var_7912)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_5677';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_7268:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_7268(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7229 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7229(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_9039';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_8898(x):\n    return x * 2\n\nprint(function_8898(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_1619';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 7 * 6\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 4 * 10\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_7400(x):\n    return x * 2\n\nprint(function_7400(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(7)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_240'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_4512:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4512(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_1331(x) {\n    return x * 2;\n}\n\nconsole.log(function_1331(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_8723(x) {\n    return x * 2;\n}\n\nconsole.log(function_8723(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_1656 = 86\nprint(var_1656)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_800 = 66\nprint(var_800)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_3022'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_8285(x) {\n    return x * 2;\n}\n\nconsole.log(function_8285(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_971 = 61;\nconsole.log(var_971);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_2693(x) {\n    return x * 2;\n}\n\nconsole.log(function_2693(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_317';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_1618 = 11\nprint(var_1618)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 5 * 8;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_9437 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_9437(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_6245(x) {\n    return x * 2;\n}\n\nconsole.log(function_6245(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_5640'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7333 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7333(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_8665(x) {\n    return x * 2;\n}\n\nconsole.log(function_8665(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_4788(x):\n    return x * 2\n\nprint(function_4788(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_1759';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 6 * 9;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_5729 = 29;\nconsole.log(var_5729);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_4270(x):\n    return x * 2\n\nprint(function_4270(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_1373 = 41;\nconsole.log(var_1373);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 8 * 7;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_9829';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 6 * 6\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_5191(x) {\n    return x * 2;\n}\n\nconsole.log(function_5191(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_7792 = 55\nprint(var_7792)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_5134(x):\n    return x * 2\n\nprint(function_5134(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_9020'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_1198'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 6 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_941(x) {\n    return x * 2;\n}\n\nconsole.log(function_941(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(7)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 2 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_5909';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_5441';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_4705 = 36;\nconsole.log(var_4705);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_1374'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_5332'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_5573';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 5 * 8;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 7 * 5\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_5886'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_8865 = 1;\nconsole.log(var_8865);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_2222:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2222(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_9549(x) {\n    return x * 2;\n}\n\nconsole.log(function_9549(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_7822(x):\n    return x * 2\n\nprint(function_7822(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 8 * 6\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_6007(x) {\n    return x * 2;\n}\n\nconsole.log(function_6007(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_348 = 71\nprint(var_348)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_7645(x) {\n    return x * 2;\n}\n\nconsole.log(function_7645(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 7 * 2;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 9 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_8311';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_1430:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_1430(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_1598:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_1598(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 2 * 9;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 6 * 7\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_9548:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_9548(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_697';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 3 * 3\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_7829';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_6309(x) {\n    return x * 2;\n}\n\nconsole.log(function_6309(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_6202(x):\n    return x * 2\n\nprint(function_6202(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_4101 = 98;\nconsole.log(var_4101);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_5704:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_5704(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_6224 = 34\nprint(var_6224)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 5 * 1\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_994:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_994(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_8337';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_7145';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_6513(x) {\n    return x * 2;\n}\n\nconsole.log(function_6513(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 4 * 5\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_6975(x) {\n    return x * 2;\n}\n\nconsole.log(function_6975(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_6609 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_6609(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_9276(x):\n    return x * 2\n\nprint(function_9276(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_5448 = 79\nprint(var_5448)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_7389 = 19;\nconsole.log(var_7389);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_9509(x) {\n    return x * 2;\n}\n\nconsole.log(function_9509(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_6968:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6968(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_2621(x) {\n    return x * 2;\n}\n\nconsole.log(function_2621(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_8518'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_8236(x):\n    return x * 2\n\nprint(function_8236(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_3095';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_2246 = 77\nprint(var_2246)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_2109(x) {\n    return x * 2;\n}\n\nconsole.log(function_2109(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_6034:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6034(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 2 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_3019(x) {\n    return x * 2;\n}\n\nconsole.log(function_3019(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 5 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_4699 = 86;\nconsole.log(var_4699);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_8149 = 20;\nconsole.log(var_8149);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_706(x):\n    return x * 2\n\nprint(function_706(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_5951(x) {\n    return x * 2;\n}\n\nconsole.log(function_5951(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_4152:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4152(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_6129 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_6129(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 7;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_5823';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_8931';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_5020(x):\n    return x * 2\n\nprint(function_5020(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_7586:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_7586(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_884:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_884(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7600'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_2523';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 10 * 7;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_2252:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2252(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_1414:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_1414(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 5 * 9;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_2456'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_218(x):\n    return x * 2\n\nprint(function_218(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_510(x):\n    return x * 2\n\nprint(function_510(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_4093';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_6290'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 9 * 4\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_534'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7737 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7737(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_8504:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_8504(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_6351(x) {\n    return x * 2;\n}\n\nconsole.log(function_6351(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_6109 = 11;\nconsole.log(var_6109);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_5560 = 1\nprint(var_5560)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_8001';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_7615';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_8521';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_2037 = 39;\nconsole.log(var_2037);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_4192 = 68\nprint(var_4192)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_1348:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_1348(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_3654:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_3654(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_4396(x):\n    return x * 2\n\nprint(function_4396(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_5522:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_5522(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(7)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_4395 = 58;\nconsole.log(var_4395);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_712'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_1663 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1663(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 4 * 6\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_2933';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_5577';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_1865(x) {\n    return x * 2;\n}\n\nconsole.log(function_1865(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 3 * 2;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_2983 = 18;\nconsole.log(var_2983);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_6249 = 58;\nconsole.log(var_6249);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_1370'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_3285 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_3285(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_3843';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 6 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_4976:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4976(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_7515(x) {\n    return x * 2;\n}\n\nconsole.log(function_7515(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_8459 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8459(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_514(x):\n    return x * 2\n\nprint(function_514(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_2883';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_8869 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8869(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(10)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_1113 = 79;\nconsole.log(var_1113);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_8356 = 64\nprint(var_8356)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_8880 = 33\nprint(var_8880)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 10 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 5 * 7\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_2546:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2546(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 4 * 1\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_3339(x) {\n    return x * 2;\n}\n\nconsole.log(function_3339(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_4231(x) {\n    return x * 2;\n}\n\nconsole.log(function_4231(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_7397 = 60;\nconsole.log(var_7397);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_4048:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4048(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 10 * 2;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_6197(x) {\n    return x * 2;\n}\n\nconsole.log(function_6197(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7466'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_5791(x) {\n    return x * 2;\n}\n\nconsole.log(function_5791(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_3398 = 52\nprint(var_3398)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 2 * 8;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_965 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_965(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 8 * 10;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_953 = 28;\nconsole.log(var_953);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_5129 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_5129(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_5333(x) {\n    return x * 2;\n}\n\nconsole.log(function_5333(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_5494:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_5494(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_1329';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_8467 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8467(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_577 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_577(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 10 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 3 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 5 * 9;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_6632 = 19\nprint(var_6632)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 9 * 7\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_669';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_4100'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_2234:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2234(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_7523(x) {\n    return x * 2;\n}\n\nconsole.log(function_7523(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_7847 = 99;\nconsole.log(var_7847);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_1011(x) {\n    return x * 2;\n}\n\nconsole.log(function_1011(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_1319 = 24;\nconsole.log(var_1319);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 7 * 10;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 10 * 8\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_9019 = 100;\nconsole.log(var_9019);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 1 * 3\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_409(x) {\n    return x * 2;\n}\n\nconsole.log(function_409(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_731 = 33;\nconsole.log(var_731);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 6 * 5\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 5 * 6\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_6455';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_9948:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_9948(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_222'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_8966(x):\n    return x * 2\n\nprint(function_8966(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_4541 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_4541(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 8 * 10\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_7202(x):\n    return x * 2\n\nprint(function_7202(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_7672(x):\n    return x * 2\n\nprint(function_7672(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 10 * 2;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_3430(x):\n    return x * 2\n\nprint(function_3430(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_3938'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_8139';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_7714'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_2755(x) {\n    return x * 2;\n}\n\nconsole.log(function_2755(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_7052:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_7052(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_7486(x):\n    return x * 2\n\nprint(function_7486(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 9 * 10\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_6754:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6754(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_2184(x):\n    return x * 2\n\nprint(function_2184(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 6 * 8\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 8 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 5 * 1\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 4 * 5\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_2679 = 25;\nconsole.log(var_2679);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_3870:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_3870(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_5719 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_5719(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_3102 = 54\nprint(var_3102)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_5184(x):\n    return x * 2\n\nprint(function_5184(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_9064'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_9973 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_9973(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_9460'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_6548:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6548(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_8479 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8479(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(7)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(5);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_2865 = 72;\nconsole.log(var_2865);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_3413';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 10 * 7\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 1 * 4\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_6898'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_1748 = 54\nprint(var_1748)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_5406(x):\n    return x * 2\n\nprint(function_5406(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_6497(x) {\n    return x * 2;\n}\n\nconsole.log(function_6497(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 5 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_5911';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7887 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7887(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_8653 = 53;\nconsole.log(var_8653);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 2 * 10\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_5747';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_331 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_331(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_4774:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4774(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_8073 = 4;\nconsole.log(var_8073);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_7626:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_7626(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_6218'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 1 * 7\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_6322(x):\n    return x * 2\n\nprint(function_6322(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_6907 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_6907(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_4614 = 93\nprint(var_4614)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_7538'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_7607';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_3536:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_3536(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_8664 = 33\nprint(var_8664)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_4631 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_4631(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 9 * 8\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_1577 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1577(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_1091 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1091(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_104 = 79\nprint(var_104)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_2616(x):\n    return x * 2\n\nprint(function_2616(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_2108(x):\n    return x * 2\n\nprint(function_2108(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_3101 = 23;\nconsole.log(var_3101);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_8804 = 56\nprint(var_8804)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_9477';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_1146:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_1146(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7794'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_5652(x):\n    return x * 2\n\nprint(function_5652(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(9);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_3709(x) {\n    return x * 2;\n}\n\nconsole.log(function_3709(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_7643 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7643(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_8630:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_8630(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_4373(x) {\n    return x * 2;\n}\n\nconsole.log(function_4373(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_3483 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_3483(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_851 = 92;\nconsole.log(var_851);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_7624'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_2166:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2166(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 9 * 9\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_8361(x) {\n    return x * 2;\n}\n\nconsole.log(function_8361(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_4920 = 36\nprint(var_4920)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_6487';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_6063 = 24;\nconsole.log(var_6063);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_2311 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_2311(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_1251';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_312:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_312(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_512'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_120'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_1741(x) {\n    return x * 2;\n}\n\nconsole.log(function_1741(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7064'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_2908:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2908(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(4):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_6833';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_961 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_961(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_1808 = 73\nprint(var_1808)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_8280:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_8280(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_6998 = 36\nprint(var_6998)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_2751(x) {\n    return x * 2;\n}\n\nconsole.log(function_2751(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 5 * 5\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_4780(x):\n    return x * 2\n\nprint(function_4780(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7372'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 10 * 8\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_3252 = 29\nprint(var_3252)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_3124:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_3124(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_1157 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1157(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 6 * 6;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_4798(x):\n    return x * 2\n\nprint(function_4798(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_6801(x) {\n    return x * 2;\n}\n\nconsole.log(function_6801(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_5610'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_1570'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 6 * 4\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_4240 = 29\nprint(var_4240)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_1627 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1627(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(10);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en JavaScript.",
+        "response": "let text = 'example_7167';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_3768 = 94\nprint(var_3768)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_7728:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_7728(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_9234'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_5054'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 7 * 1\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 1 * 6;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_1 = 91;\nconsole.log(var_1);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 10 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 3 * 6\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_3707';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 2; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_9190:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_9190(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_8500(x):\n    return x * 2\n\nprint(function_8500(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_5310(x):\n    return x * 2\n\nprint(function_5310(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 4 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 4 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 8 * 8;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_1088(x):\n    return x * 2\n\nprint(function_1088(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_4550 = 37\nprint(var_4550)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_8911 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8911(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7855 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7855(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_5157 = 91;\nconsole.log(var_5157);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_4514 = 91\nprint(var_4514)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_6622:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6622(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 3; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_3246(x):\n    return x * 2\n\nprint(function_3246(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_2520 = 18\nprint(var_2520)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 8 * 10;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_1747(x) {\n    return x * 2;\n}\n\nconsole.log(function_1747(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_475(x) {\n    return x * 2;\n}\n\nconsole.log(function_475(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_790'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_6424(x):\n    return x * 2\n\nprint(function_6424(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_8240'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_8923 = 99;\nconsole.log(var_8923);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_6518 = 82\nprint(var_6518)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_9875 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_9875(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_7877 = 99;\nconsole.log(var_7877);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_4880:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4880(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_1499 = 91;\nconsole.log(var_1499);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(5)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_336'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_1447(x) {\n    return x * 2;\n}\n\nconsole.log(function_1447(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 5 * 10;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_7969 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_7969(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 2 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_7692'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 1 * 8\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_36 = 56\nprint(var_36)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_8029 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_8029(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_4783 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_4783(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 2 * 2\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_9609 = 18;\nconsole.log(var_9609);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_4657 = 20;\nconsole.log(var_4657);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 1 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 9 * 10\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_9834'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_5663';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_3132 = 63\nprint(var_3132)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_6333 = 42;\nconsole.log(var_6333);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_4569(x) {\n    return x * 2;\n}\n\nconsole.log(function_4569(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_8715';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(9);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 10 * 5\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 5 * 4\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_2612:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_2612(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_618 = 54\nprint(var_618)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_3028 = 100\nprint(var_3028)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in Python.",
+        "response": "class Class_9580:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_9580(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_97(x) {\n    return x * 2;\n}\n\nconsole.log(function_97(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 4 * 9;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_6829';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_2030 = 3\nprint(var_2030)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_8282'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_3468(x):\n    return x * 2\n\nprint(function_3468(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_1278 = 59\nprint(var_1278)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(1):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_4023 = 63;\nconsole.log(var_4023);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in Python.",
+        "response": "for i in range(3):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_7736'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 3 * 4;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 1 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_7754'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_4563 = 57;\nconsole.log(var_4563);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_7530'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_4996(x):\n    return x * 2\n\nprint(function_4996(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(2):\n    print(i)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in JavaScript.",
+        "response": "function function_1439(x) {\n    return x * 2;\n}\n\nconsole.log(function_1439(5));"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en JavaScript.",
+        "response": "function function_5273(x) {\n    return x * 2;\n}\n\nconsole.log(function_5273(5));"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_6914 = 42\nprint(var_6914)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in JavaScript.",
+        "response": "let text = 'example_9413';\nlet reversedText = text.split('').reverse().join('');\nconsole.log(reversedText);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(7);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 6 * 3\nprint(result)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in Python.",
+        "response": "var_4752 = 26\nprint(var_4752)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of functions in Python.",
+        "response": "def function_9768(x):\n    return x * 2\n\nprint(function_9768(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en JavaScript.",
+        "response": "let var_1781 = 51;\nconsole.log(var_1781);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 7 * 6\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 6 * 1\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_4322:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_4322(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_8763 = 3;\nconsole.log(var_8763);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de strings en Python.",
+        "response": "text = 'example_8288'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en JavaScript.",
+        "response": "class Class_1513 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_1513(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_316:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_316(10)\nprint(obj.value)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 6 * 7;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en Python.",
+        "response": "for i in range(5):\n    print(i)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en Python.",
+        "response": "result = 1 * 9\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(9)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of variables in JavaScript.",
+        "response": "let var_9863 = 95;\nconsole.log(var_9863);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(8);\nconsole.log(arr);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in Python.",
+        "response": "result = 5 * 5\nprint(result)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 2 * 5;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de math en JavaScript.",
+        "response": "let result = 4 * 6;\nconsole.log(result);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(6)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_578'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of math in JavaScript.",
+        "response": "let result = 4 * 3;\nconsole.log(result);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_7950(x):\n    return x * 2\n\nprint(function_7950(5))"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of strings in Python.",
+        "response": "text = 'example_334'\nreversed_text = text[::-1]\nprint(reversed_text)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_6827 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_6827(10);\nconsole.log(obj.value);"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of arrays in JavaScript.",
+        "response": "let arr = [1, 2, 3, 4];\narr.push(6);\nconsole.log(arr);"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de functions en Python.",
+        "response": "def function_7696(x):\n    return x * 2\n\nprint(function_7696(5))"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de classes en Python.",
+        "response": "class Class_6718:\n    def __init__(self, value):\n        self.value = value\n\nobj = Class_6718(10)\nprint(obj.value)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de variables en Python.",
+        "response": "var_3044 = 98\nprint(var_3044)"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 1; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de arrays en Python.",
+        "response": "arr = [1, 2, 3, 4]\narr.append(8)\nprint(arr)"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of loops in JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "es",
+        "query": "Genera un ejemplo de loops en JavaScript.",
+        "response": "for (let i = 0; i < 4; i++) {\n    console.log(i);\n}"
+    },
+    {
+        "language": "en",
+        "query": "Generate an example of classes in JavaScript.",
+        "response": "class Class_2909 {\n    constructor(value) {\n        this.value = value;\n    }\n}\n\nlet obj = new Class_2909(10);\nconsole.log(obj.value);"
+    }
+]

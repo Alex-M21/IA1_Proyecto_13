@@ -1,0 +1,282 @@
+{
+    "202500001": {
+        "title": "202500001",
+        "messages": [
+            {
+                "sender": "Bot",
+                "text": "\u00a1Hola, 202500001! \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "como estas?",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "\u00a1Estoy bien! \u00bfC\u00f3mo te encuentras t\u00fa?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "genial",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Bye! Stay awesome and see you around!",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "que eres",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Un bucle es una estructura que repite un conjunto de instrucciones varias veces. Por ejemplo, con un `for` puedes imprimir n\u00fameros del 1 al 5.",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "sabes programar",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Aprender a programar es importante porque te permite automatizar tareas, resolver problemas y crear aplicaciones que mejoran nuestra vida diaria. Adem\u00e1s, es una habilidad muy demandada en el mercado laboral.",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "puedes programar en python",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "El condicional `if` en Python funciona de la siguiente manera:\n\n```python\nif condici\u00f3n:\n    # c\u00f3digo a ejecutar si la condici\u00f3n es verdadera\n```",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "como es un if en javascript",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Aqu\u00ed tienes un ejemplo de un ciclo `for` en JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "if en java",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "A variable in JavaScript can be declared with `let`, `const`, or `var`. Example: `let x = 5;`",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "hola",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "\u00a1Hola! \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "como estas?",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "\u00a1Estoy bien! \u00bfC\u00f3mo te encuentras t\u00fa?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "sobre que temas puedes hablar",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Hablemos de tecnolog\u00eda, estaciones del a\u00f1o, clima, verano o invierno. \u00bfQu\u00e9 prefieres?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "sobre tecnologia",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Con mucho gusto, \u00bfqu\u00e9 quieres saber sobre la tecnolog\u00eda?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "todo lo relacionado a la programacion",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "La programaci\u00f3n orientada a objetos (POO) es un paradigma donde los programas est\u00e1n estructurados alrededor de objetos que contienen datos y m\u00e9todos. Un ejemplo es un 'Coche' que tiene atributos como color y m\u00e9todos como arrancar.",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "quiero aprender a programar",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Aprender a programar es importante porque te permite automatizar tareas, resolver problemas y crear aplicaciones que mejoran nuestra vida diaria. Adem\u00e1s, es una habilidad muy demandada en el mercado laboral.",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "puedes ense\u00f1arme que es una variable",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Una variable es un espacio en la memoria de la computadora donde guardamos datos. Por ejemplo, un n\u00famero o un texto.",
+                "color": "blue"
+            }
+        ]
+    },
+    "201900576": {
+        "title": "201900576",
+        "messages": [
+            {
+                "sender": "Bot",
+                "text": "\u00a1Hola, 201900576! \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "hola",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "\u00a1Hola! \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "como estas?",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "\u00a1Estoy bien! \u00bfC\u00f3mo te encuentras t\u00fa?",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "puedes ayudarme a programar?",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Para empezar a programar, necesitas aprender un lenguaje de programaci\u00f3n. Un buen punto de partida es Python, que es f\u00e1cil de entender y usar.",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "necesito que empecemos con variables",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Para declarar una variable en Python, simplemente asigna un valor a un nombre:\n\nvariable = valor",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "que es una constante",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Una constante es un valor que no cambia durante la ejecuci\u00f3n de un programa. Por ejemplo, el valor de Pi (3.14).",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "que es una variable",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Una variable es un espacio en la memoria de la computadora donde guardamos datos. Por ejemplo, un n\u00famero o un texto.",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "puedes darme el ciclo for en javascritp",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "S\u00ed, en Python, una funci\u00f3n puede devolver varios valores como una tupla. Ejemplo: `return valor1, valor2`.",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "puedes darme un for en javascript",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Aqu\u00ed tienes un ejemplo de un ciclo `for` en JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "puedes darme un for en python",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "El condicional `if` en Python funciona de la siguiente manera:\n\n```python\nif condici\u00f3n:\n    # c\u00f3digo a ejecutar si la condici\u00f3n es verdadera\n```",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "un for en python",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "Una variable en Python se crea asignando un valor a un nombre. Ejemplo: `x = 5`.",
+                "color": "blue"
+            },
+            {
+                "sender": "T\u00fa",
+                "text": "puedes darme un cilco for en python?",
+                "color": "black"
+            },
+            {
+                "sender": "Bot",
+                "text": "En Python, un ciclo `for` se escribe as\u00ed:\n\n```python\nfor i in range(5):\n    print(i)\n```",
+                "color": "blue"
+            }
+        ]
+    },
+    "20240012": {
+        "title": "20240012",
+        "messages": [
+            {
+                "sender": "Bot",
+                "text": "\u00a1Hola, 20240012! \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+                "color": "blue"
+            }
+        ]
+    }
+}
