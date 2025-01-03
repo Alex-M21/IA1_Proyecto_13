@@ -358,34 +358,33 @@
             ]
         },
         {
-          "intent": "Short questions",
-          "examples": [
-            
-            {
-                "userText": "dame una rutina de cardio",
-                "botResponse": "Claro, puedo darte una rutina de cardio. ¿Te gustaría una rutina para principiantes, intermedios o avanzados?"
-            },
-            {
-                "userText": "quiero ir a entrenar",
-                "botResponse": "¡Genial! ¿Qué tipo de entrenamiento te gustaría hacer hoy?"
-            },
-            {
-                "userText": "quiero ir al gym",
-                "botResponse": "¡Perfecto! ¿Qué tipo de entrenamiento prefieres? ¿Cardio, fuerza o algo más?"
-            },
-            {
-                "userText": "give me a cardio routine",
-                "botResponse": "Sure, I can give you a cardio routine. Would you like a routine for beginners, intermediate, or advanced?"
-            },
-            {
-                "userText": "I want to go train",
-                "botResponse": "Great! What type of training would you like to do today?"
-            },
-            {
-                "userText": "I want to go to the gym",
-                "botResponse": "Perfect! What kind of workout do you prefer? Cardio, strength, or something else?"
-            }
-          ]
+            "intent": "Short questions",
+            "examples": [
+                {
+                    "userText": "dame una rutina de cardio",
+                    "botResponse": "Claro, puedo darte una rutina de cardio. ¿Te gustaría una rutina para principiantes, intermedios o avanzados?"
+                },
+                {
+                    "userText": "quiero ir a entrenar",
+                    "botResponse": "¡Genial! ¿Qué tipo de entrenamiento te gustaría hacer hoy?"
+                },
+                {
+                    "userText": "quiero ir al gym",
+                    "botResponse": "¡Perfecto! ¿Qué tipo de entrenamiento prefieres? ¿Cardio, fuerza o algo más?"
+                },
+                {
+                    "userText": "give me a cardio routine",
+                    "botResponse": "Sure, I can give you a cardio routine. Would you like a routine for beginners, intermediate, or advanced?"
+                },
+                {
+                    "userText": "I want to go train",
+                    "botResponse": "Great! What type of training would you like to do today?"
+                },
+                {
+                    "userText": "I want to go to the gym",
+                    "botResponse": "Perfect! What kind of workout do you prefer? Cardio, strength, or something else?"
+                }
+            ]
         },
         {
             "intent": "farewell",
@@ -2100,53 +2099,53 @@
         {
             "intent": "technology",
             "examples": [
-              {
-                "userText": "technology",
-                "botResponse": "Sure, what would you like to know about technology?"
-            },
-            {
-                "userText": "tell me about technology",
-                "botResponse": "Sure, what would you like to know about technology?"
-            },
-            {
-                "userText": "what is technology?",
-                "botResponse": "Technology is the collection of knowledge, skills, techniques, and processes used to create tools, systems, and products that solve problems or satisfy human needs."
-            },
-            {
-                "userText": "what is a phone?",
-                "botResponse": "A phone is a device that allows the transmission of voice and other data over long distances. There are fixed and mobile phones, and the latter also allow internet connectivity and many additional functions."
-            },
-            {
-                "userText": "what do you know about technology?",
-                "botResponse": "I know about Big Data, 5G, web development, artificial intelligence, what would you like to know?"
-            },
-              {
-                "userText": "tecnología",
-                "botResponse": "Con mucho gusto, ¿qué quieres saber sobre la tecnología?"
-            },
-            {
-                "userText": "hablame sobre tecnologia",
-                "botResponse": "Con mucho gusto, ¿qué quieres saber sobre la tecnología?"
-            },
-            {
-                "userText": "¿qué es la tecnología?",
-                "botResponse": "La tecnología es el conjunto de conocimientos, habilidades, técnicas y procesos que se utilizan para crear herramientas, sistemas y productos que resuelvan problemas o satisfagan necesidades humanas."
-            },
-            {
-                "userText": "¿qué es un teléfono?",
-                "botResponse": "Un teléfono es un dispositivo que permite la transmisión de voz y otros datos a larga distancia. Existen teléfonos fijos y móviles, y estos últimos permiten además la conexión a internet y la realización de múltiples funciones."
-            },
-            {
-                "userText": "¿qué sabes sobre tecnología?",
-                "botResponse": "Sé sobre Big Data, 5G, desarrollo web, inteligencia artificial, ¿qué deseas saber?"
-            },
+                {
+                    "userText": "technology",
+                    "botResponse": "Sure, what would you like to know about technology?"
+                },
+                {
+                    "userText": "tell me about technology",
+                    "botResponse": "Sure, what would you like to know about technology?"
+                },
+                {
+                    "userText": "what is technology?",
+                    "botResponse": "Technology is the collection of knowledge, skills, techniques, and processes used to create tools, systems, and products that solve problems or satisfy human needs."
+                },
+                {
+                    "userText": "what is a phone?",
+                    "botResponse": "A phone is a device that allows the transmission of voice and other data over long distances. There are fixed and mobile phones, and the latter also allow internet connectivity and many additional functions."
+                },
+                {
+                    "userText": "what do you know about technology?",
+                    "botResponse": "I know about Big Data, 5G, web development, artificial intelligence, what would you like to know?"
+                },
+                {
+                    "userText": "tecnología",
+                    "botResponse": "Con mucho gusto, ¿qué quieres saber sobre la tecnología?"
+                },
+                {
+                    "userText": "hablame sobre tecnologia",
+                    "botResponse": "Con mucho gusto, ¿qué quieres saber sobre la tecnología?"
+                },
+                {
+                    "userText": "¿qué es la tecnología?",
+                    "botResponse": "La tecnología es el conjunto de conocimientos, habilidades, técnicas y procesos que se utilizan para crear herramientas, sistemas y productos que resuelvan problemas o satisfagan necesidades humanas."
+                },
+                {
+                    "userText": "¿qué es un teléfono?",
+                    "botResponse": "Un teléfono es un dispositivo que permite la transmisión de voz y otros datos a larga distancia. Existen teléfonos fijos y móviles, y estos últimos permiten además la conexión a internet y la realización de múltiples funciones."
+                },
+                {
+                    "userText": "¿qué sabes sobre tecnología?",
+                    "botResponse": "Sé sobre Big Data, 5G, desarrollo web, inteligencia artificial, ¿qué deseas saber?"
+                },
                 {
                     "userText": "What is a neural network?",
                     "botResponse": "A neural network is a computational model inspired by the human brain, primarily used in artificial intelligence. It consists of units called artificial neurons, which are organized in layers. These networks are capable of learning patterns and performing tasks such as classification, prediction, and image recognition. Each neuron in a network receives input, processes it, and passes it through an activation function to generate output. Deep learning models use deep neural networks with many layers to solve complex problems."
                 },
                 {
-                  "userText": "¿Qué es una red neuronal?",
-                  "botResponse": "Una red neuronal es un modelo computacional inspirado en el cerebro humano, utilizado principalmente en inteligencia artificial. Está compuesta por unidades llamadas neuronas artificiales, que se organizan en capas. Estas redes son capaces de aprender patrones y realizar tareas como clasificación, predicción y reconocimiento de imágenes. Cada neurona en una red recibe entrada, la procesa y la pasa a través de una función de activación para generar una salida. Los modelos de aprendizaje profundo utilizan redes neuronales profundas con muchas capas para resolver problemas complejos."
+                    "userText": "¿Qué es una red neuronal?",
+                    "botResponse": "Una red neuronal es un modelo computacional inspirado en el cerebro humano, utilizado principalmente en inteligencia artificial. Está compuesta por unidades llamadas neuronas artificiales, que se organizan en capas. Estas redes son capaces de aprender patrones y realizar tareas como clasificación, predicción y reconocimiento de imágenes. Cada neurona en una red recibe entrada, la procesa y la pasa a través de una función de activación para generar una salida. Los modelos de aprendizaje profundo utilizan redes neuronales profundas con muchas capas para resolver problemas complejos."
                 },
                 {
                     "userText": "What is Git?",
@@ -2413,52 +2412,52 @@
                     "botResponse": "Los automóviles autónomos, también conocidos como autos sin conductor, son vehículos que pueden operar sin intervención humana. Utilizan una combinación de sensores, cámaras, algoritmos de aprendizaje automático e inteligencia artificial para navegar y responder a su entorno. Los autos autónomos tienen el potencial de reducir accidentes, mejorar el flujo del tráfico y transformar el transporte."
                 },
                 {
-                  "userText": "What is Continuous Integration (CI)?",
-                  "botResponse": "Continuous Integration (CI) is a software development practice where code changes are automatically built, tested, and integrated into the main codebase regularly. This helps developers identify issues early, improve code quality, and ensure that new features do not break existing functionality. CI tools like Jenkins, GitLab CI, and Travis CI are commonly used to automate these processes."
+                    "userText": "What is Continuous Integration (CI)?",
+                    "botResponse": "Continuous Integration (CI) is a software development practice where code changes are automatically built, tested, and integrated into the main codebase regularly. This helps developers identify issues early, improve code quality, and ensure that new features do not break existing functionality. CI tools like Jenkins, GitLab CI, and Travis CI are commonly used to automate these processes."
                 },
                 {
-                  "userText": "¿Qué es la Integración Continua (CI)?",
-                  "botResponse": "La Integración Continua (CI) es una práctica de desarrollo de software en la que los cambios en el código se construyen, prueban e integran automáticamente en la base de código principal de manera regular. Esto ayuda a los desarrolladores a identificar problemas de manera temprana, mejorar la calidad del código y asegurar que las nuevas características no rompan la funcionalidad existente. Herramientas de CI como Jenkins, GitLab CI y Travis CI se utilizan comúnmente para automatizar estos procesos."
+                    "userText": "¿Qué es la Integración Continua (CI)?",
+                    "botResponse": "La Integración Continua (CI) es una práctica de desarrollo de software en la que los cambios en el código se construyen, prueban e integran automáticamente en la base de código principal de manera regular. Esto ayuda a los desarrolladores a identificar problemas de manera temprana, mejorar la calidad del código y asegurar que las nuevas características no rompan la funcionalidad existente. Herramientas de CI como Jenkins, GitLab CI y Travis CI se utilizan comúnmente para automatizar estos procesos."
                 },
                 {
-                  "userText": "What is DevOps?",
-                  "botResponse": "DevOps is a set of practices and cultural philosophies that aim to improve collaboration and productivity between software development (Dev) and IT operations (Ops) teams. It emphasizes automation, continuous delivery, and a feedback loop to increase the efficiency of the development lifecycle, enabling faster delivery of features and fixes."
+                    "userText": "What is DevOps?",
+                    "botResponse": "DevOps is a set of practices and cultural philosophies that aim to improve collaboration and productivity between software development (Dev) and IT operations (Ops) teams. It emphasizes automation, continuous delivery, and a feedback loop to increase the efficiency of the development lifecycle, enabling faster delivery of features and fixes."
                 },
                 {
-                  "userText": "¿Qué es DevOps?",
-                  "botResponse": "DevOps es un conjunto de prácticas y filosofías culturales que buscan mejorar la colaboración y productividad entre los equipos de desarrollo de software (Dev) y operaciones de TI (Ops). Se enfoca en la automatización, la entrega continua y un ciclo de retroalimentación para aumentar la eficiencia del ciclo de vida del desarrollo, lo que permite una entrega más rápida de características y correcciones."
+                    "userText": "¿Qué es DevOps?",
+                    "botResponse": "DevOps es un conjunto de prácticas y filosofías culturales que buscan mejorar la colaboración y productividad entre los equipos de desarrollo de software (Dev) y operaciones de TI (Ops). Se enfoca en la automatización, la entrega continua y un ciclo de retroalimentación para aumentar la eficiencia del ciclo de vida del desarrollo, lo que permite una entrega más rápida de características y correcciones."
                 },
                 {
-                  "userText": "What is containerization?",
-                  "botResponse": "Containerization is a lightweight form of virtualization that involves packaging software and its dependencies into containers. These containers can run consistently across different environments, such as development, testing, and production, without compatibility issues. Docker and Kubernetes are popular tools for managing containerized applications."
+                    "userText": "What is containerization?",
+                    "botResponse": "Containerization is a lightweight form of virtualization that involves packaging software and its dependencies into containers. These containers can run consistently across different environments, such as development, testing, and production, without compatibility issues. Docker and Kubernetes are popular tools for managing containerized applications."
                 },
                 {
-                  "userText": "¿Qué es la contenedorización?",
-                  "botResponse": "La contenedorización es una forma liviana de virtualización que implica empaquetar software y sus dependencias en contenedores. Estos contenedores pueden ejecutarse de manera consistente en diferentes entornos, como desarrollo, pruebas y producción, sin problemas de compatibilidad. Docker y Kubernetes son herramientas populares para gestionar aplicaciones contenedorizadas."
+                    "userText": "¿Qué es la contenedorización?",
+                    "botResponse": "La contenedorización es una forma liviana de virtualización que implica empaquetar software y sus dependencias en contenedores. Estos contenedores pueden ejecutarse de manera consistente en diferentes entornos, como desarrollo, pruebas y producción, sin problemas de compatibilidad. Docker y Kubernetes son herramientas populares para gestionar aplicaciones contenedorizadas."
                 },
                 {
-                  "userText": "What is serverless computing?",
-                  "botResponse": "Serverless computing is a cloud computing model where cloud providers manage the infrastructure for you. Developers can focus on writing code and deploying it without worrying about managing servers or scaling. The cloud provider automatically allocates resources as needed, and users are only billed for actual usage. AWS Lambda and Azure Functions are examples of serverless platforms."
+                    "userText": "What is serverless computing?",
+                    "botResponse": "Serverless computing is a cloud computing model where cloud providers manage the infrastructure for you. Developers can focus on writing code and deploying it without worrying about managing servers or scaling. The cloud provider automatically allocates resources as needed, and users are only billed for actual usage. AWS Lambda and Azure Functions are examples of serverless platforms."
                 },
                 {
-                  "userText": "¿Qué es la computación sin servidor?",
-                  "botResponse": "La computación sin servidor es un modelo de computación en la nube en el que los proveedores de la nube gestionan la infraestructura por ti. Los desarrolladores pueden centrarse en escribir el código y desplegarlo sin preocuparse por gestionar servidores o escalar. El proveedor de la nube asigna automáticamente los recursos según sea necesario, y los usuarios solo pagan por el uso real. AWS Lambda y Azure Functions son ejemplos de plataformas sin servidor."
+                    "userText": "¿Qué es la computación sin servidor?",
+                    "botResponse": "La computación sin servidor es un modelo de computación en la nube en el que los proveedores de la nube gestionan la infraestructura por ti. Los desarrolladores pueden centrarse en escribir el código y desplegarlo sin preocuparse por gestionar servidores o escalar. El proveedor de la nube asigna automáticamente los recursos según sea necesario, y los usuarios solo pagan por el uso real. AWS Lambda y Azure Functions son ejemplos de plataformas sin servidor."
                 },
                 {
-                  "userText": "What is a microservice?",
-                  "botResponse": "A microservice is an architectural style that structures an application as a collection of small, independent services, each responsible for a specific business functionality. Microservices communicate with each other via APIs and can be deployed and scaled independently, allowing for greater flexibility and resilience in large applications."
+                    "userText": "What is a microservice?",
+                    "botResponse": "A microservice is an architectural style that structures an application as a collection of small, independent services, each responsible for a specific business functionality. Microservices communicate with each other via APIs and can be deployed and scaled independently, allowing for greater flexibility and resilience in large applications."
                 },
                 {
-                  "userText": "¿Qué es un microservicio?",
-                  "botResponse": "Un microservicio es un estilo arquitectónico que estructura una aplicación como una colección de pequeños servicios independientes, cada uno responsable de una funcionalidad específica del negocio. Los microservicios se comunican entre sí mediante APIs y pueden desplegarse y escalarse de manera independiente, lo que permite una mayor flexibilidad y resiliencia en aplicaciones grandes."
+                    "userText": "¿Qué es un microservicio?",
+                    "botResponse": "Un microservicio es un estilo arquitectónico que estructura una aplicación como una colección de pequeños servicios independientes, cada uno responsable de una funcionalidad específica del negocio. Los microservicios se comunican entre sí mediante APIs y pueden desplegarse y escalarse de manera independiente, lo que permite una mayor flexibilidad y resiliencia en aplicaciones grandes."
                 },
                 {
-                  "userText": "What is a data lake?",
-                  "botResponse": "A data lake is a centralized repository that stores large amounts of raw data in its native format, including structured, semi-structured, and unstructured data. It allows organizations to store vast amounts of data without needing to organize it beforehand. Data lakes are used for big data analysis, machine learning, and data exploration."
+                    "userText": "What is a data lake?",
+                    "botResponse": "A data lake is a centralized repository that stores large amounts of raw data in its native format, including structured, semi-structured, and unstructured data. It allows organizations to store vast amounts of data without needing to organize it beforehand. Data lakes are used for big data analysis, machine learning, and data exploration."
                 },
                 {
-                  "userText": "¿Qué es un data lake?",
-                  "botResponse": "Un data lake es un repositorio centralizado que almacena grandes cantidades de datos en su formato nativo, incluyendo datos estructurados, semi-estructurados y no estructurados. Permite a las organizaciones almacenar grandes volúmenes de datos sin necesidad de organizarlos previamente. Los data lakes se utilizan para análisis de big data, aprendizaje automático y exploración de datos."
+                    "userText": "¿Qué es un data lake?",
+                    "botResponse": "Un data lake es un repositorio centralizado que almacena grandes cantidades de datos en su formato nativo, incluyendo datos estructurados, semi-estructurados y no estructurados. Permite a las organizaciones almacenar grandes volúmenes de datos sin necesidad de organizarlos previamente. Los data lakes se utilizan para análisis de big data, aprendizaje automático y exploración de datos."
                 }
             ]
         },
@@ -2739,7 +2738,6 @@
                     "userText": "Do you prefer comfy or elegant clothes?",
                     "botResponse": "I prefer comfort, but I like dressing elegantly when needed. How about you?"
                 },
-
                 {
                     "userText": "¿Qué cosas sabes?",
                     "botResponse": "Hablemos de tecnología, estaciones del año, clima, verano o invierno. ¿Cuál prefieres?"
@@ -2846,8 +2844,8 @@
                 },
                 {
                     "userText": "¿Qué temas puedes tratar?",
-                    "botResponse": "Hablemos de tecnología, estaciones del año, clima, verano o invierno. ¿Cuál prefieres?"}
-                    
+                    "botResponse": "Hablemos de tecnología, estaciones del año, clima, verano o invierno. ¿Cuál prefieres?"
+                }
             ]
         },
         {
@@ -4442,169 +4440,1719 @@
             ]
         },
         {
-          "intent": "curiosity",
-          "examples": [
-            {
-              "userText": "¿Cuál es el animal más rápido del mundo?",
-              "botResponse": "El animal más rápido del mundo es el halcón peregrino, que puede alcanzar velocidades de hasta 380 km/h durante su vuelo en picada."
-            },
-            {
-              "userText": "¿Por qué el cielo es azul?",
-              "botResponse": "El cielo es azul debido a un fenómeno llamado dispersión de Rayleigh. La atmósfera dispersa más la luz azul del sol, lo que hace que el cielo aparezca de ese color durante el día."
-            },
-            {
-              "userText": "¿Cuál es el continente más grande?",
-              "botResponse": "El continente más grande es Asia, con un área de aproximadamente 44.58 millones de kilómetros cuadrados, que representa alrededor del 30% de la superficie terrestre del planeta."
-            },
-            {
-              "userText": "¿Sabías que los pulpos tienen tres corazones?",
-              "botResponse": "Sí, los pulpos tienen tres corazones. Dos de ellos bombean sangre a las branquias, mientras que el tercero lo hace al resto del cuerpo. Cuando nadan, el corazón que alimenta el cuerpo deja de latir."
-            },
-            {
-              "userText": "¿Cómo se forman los arcoíris?",
-              "botResponse": "Los arcoíris se forman cuando la luz del sol se refracta, se refleja y se dispersa a través de las gotas de agua en el aire, creando un espectro de colores."
-            },
-            {
-              "userText": "¿Por qué los gatos siempre caen de pie?",
-              "botResponse": "Los gatos tienen un reflejo de enderezamiento, lo que les permite girar su cuerpo en el aire para aterrizar sobre sus patas. Esto se debe a la flexibilidad de su columna vertebral y su sentido del equilibrio."
-            },
-            {
-              "userText": "¿Cuál es el planeta más grande del sistema solar?",
-              "botResponse": "El planeta más grande del sistema solar es Júpiter, con un diámetro de más de 139,000 kilómetros, que es 11 veces mayor que el de la Tierra."
-            },
-            {
-              "userText": "¿Por qué las cebras tienen rayas?",
-              "botResponse": "Las rayas de las cebras probablemente sirven como camuflaje. Ayudan a confundir a los depredadores, especialmente en las áreas de pastizales donde las sombras y las luces crean patrones similares."
-            },
-            {
-              "userText": "¿El sol siempre está en el mismo lugar?",
-              "botResponse": "No, el sol no siempre está en el mismo lugar. Debido al movimiento de la Tierra alrededor del sol, su posición cambia a lo largo del día y de las estaciones del año."
-            },
-            {
-              "userText": "¿Qué es un agujero negro?",
-              "botResponse": "Un agujero negro es una región del espacio donde la gravedad es tan fuerte que nada, ni siquiera la luz, puede escapar de él. Se forman cuando una estrella masiva colapsa al final de su vida."
-            },
-            {
-              "userText": "What is the fastest animal in the world?",
-              "botResponse": "The fastest animal in the world is the peregrine falcon, which can reach speeds of up to 380 km/h during its dive."
-            },
-            {
-              "userText": "Why is the sky blue?",
-              "botResponse": "The sky appears blue due to a phenomenon called Rayleigh scattering. The atmosphere scatters blue sunlight more, making the sky look blue during the day."
-            },
-            {
-              "userText": "What is the largest continent?",
-              "botResponse": "The largest continent is Asia, with an area of about 44.58 million square kilometers, which represents around 30% of the Earth's land surface."
-            },
-            {
-              "userText": "Did you know octopuses have three hearts?",
-              "botResponse": "Yes, octopuses have three hearts. Two of them pump blood to the gills, while the third pumps it to the rest of the body. When they swim, the heart that supplies the body stops beating."
-            },
-            {
-              "userText": "How do rainbows form?",
-              "botResponse": "Rainbows form when sunlight is refracted, reflected, and scattered by water droplets in the air, creating a spectrum of colors."
-            },
-            {
-              "userText": "Why do cats always land on their feet?",
-              "botResponse": "Cats have a righting reflex, which allows them to rotate their bodies in the air to land on their feet. This is due to the flexibility of their spine and their sense of balance."
-            },
-            {
-              "userText": "What is the largest planet in the solar system?",
-              "botResponse": "The largest planet in the solar system is Jupiter, with a diameter of over 139,000 kilometers, which is 11 times greater than Earth's."
-            },
-            {
-              "userText": "Why do zebras have stripes?",
-              "botResponse": "Zebra stripes likely serve as camouflage. They help confuse predators, especially in grasslands where shadows and light create similar patterns."
-            },
-            {
-              "userText": "Is the sun always in the same place?",
-              "botResponse": "No, the sun is not always in the same place. Due to Earth's movement around the sun, its position changes throughout the day and across the seasons."
-            },
-            {
-              "userText": "What is a black hole?",
-              "botResponse": "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape from it. They form when a massive star collapses at the end of its life."
-            },
-            {
-              "userText": "¿Por qué migran las aves?",
-              "botResponse": "Las aves migran para encontrar mejores condiciones para alimentarse y reproducirse. Este comportamiento les ayuda a sobrevivir a los climas duros durante los meses de invierno."
-            },
-            {
-              "userText": "How do birds migrate?",
-              "botResponse": "Birds migrate to find better conditions for feeding and breeding. This behavior helps them survive harsh climates during the winter months."
-            },
-            {
-              "userText": "¿Qué tan profundo es el océano?",
-              "botResponse": "La parte más profunda del océano es la Fosa de las Marianas, que alcanza una profundidad de aproximadamente 36,000 pies (10,973 metros), más profunda que la altura del Monte Everest."
-            },
-            {
-              "userText": "How deep is the ocean?",
-              "botResponse": "The deepest part of the ocean is the Mariana Trench, which reaches a depth of about 36,000 feet (10,973 meters), deeper than Mount Everest is tall."
-            },
-            {
-              "userText": "¿Por qué tenemos huellas dactilares?",
-              "botResponse": "Las huellas dactilares son únicas para cada persona y ayudan a mejorar nuestro sentido del tacto. También proporcionan un medio de identificación, ya que no hay dos personas con las mismas huellas dactilares."
-            },
-            {
-              "userText": "Why do we have fingerprints?",
-              "botResponse": "Fingerprints are unique to each person and help improve our sense of touch. They also provide a means of identification, as no two people have the same fingerprints."
-            },
-            {
-              "userText": "¿Cuál es el hueso más pequeño del cuerpo humano?",
-              "botResponse": "El hueso más pequeño del cuerpo humano es el estribo, ubicado en el oído medio. Mide aproximadamente 2.5 mm de largo."
-            },
-            {
-              "userText": "What is the smallest bone in the human body?",
-              "botResponse": "The smallest bone in the human body is the stapes, located in the middle ear. It measures about 0.1 inches (2.5 mm) long."
-            },
-            {
-              "userText": "¿Cuántos huesos tiene el cuerpo humano?",
-              "botResponse": "El cuerpo humano adulto tiene 206 huesos. Los bebés nacen con alrededor de 270 huesos, pero algunos se fusionan a medida que crecen."
-            },
-            {
-              "userText": "How many bones are in the human body?",
-              "botResponse": "There are 206 bones in the adult human body. Babies are born with around 270 bones, but some fuse together as they grow."
-            },
-            {
-              "userText": "¿Por qué tenemos hipo?",
-              "botResponse": "El hipo ocurre cuando el diafragma se contrae involuntariamente. Esto puede ser causado por diversos factores, como comer demasiado rápido, beber bebidas carbonatadas o cambios repentinos de temperatura."
-            },
-            {
-              "userText": "Why do we get hiccups?",
-              "botResponse": "Hiccups occur when the diaphragm contracts involuntarily. This can be caused by various factors such as eating too quickly, drinking carbonated beverages, or sudden changes in temperature."
-            },
-            {
-              "userText": "¿Cuál es el río más largo del mundo?",
-              "botResponse": "El río más largo del mundo es el río Nilo, que fluye a lo largo de unos 6,650 kilómetros (4,130 millas) a través del noreste de África."
-            },
-            {
-              "userText": "What is the longest river in the world?",
-              "botResponse": "The longest river in the world is the Nile River, which flows for about 6,650 kilometers (4,130 miles) through northeastern Africa."
-            },
-            {
-              "userText": "¿Por qué tenemos estaciones del año?",
-              "botResponse": "Las estaciones ocurren porque el eje de la Tierra está inclinado en relación con su órbita alrededor del sol. Esto hace que diferentes partes de la Tierra reciban cantidades variables de luz solar a lo largo del año."
-            },
-            {
-              "userText": "Why do we have seasons?",
-              "botResponse": "Seasons occur because Earth's axis is tilted relative to its orbit around the sun. This causes different parts of the Earth to receive varying amounts of sunlight throughout the year."
-            },
-            {
-              "userText": "¿Cuál es el animal más pesado de la Tierra?",
-              "botResponse": "El animal más pesado de la Tierra es la ballena azul. Puede pesar hasta 200 toneladas (aproximadamente 400,000 libras)."
-            },
-            {
-              "userText": "What is the heaviest animal on Earth?",
-              "botResponse": "The heaviest animal on Earth is the blue whale. It can weigh as much as 200 tons (approximately 400,000 pounds)."
-            },
-            {
-              "userText": "¿Por qué necesitamos dormir?",
-              "botResponse": "El sueño es esencial para restaurar y mantener la salud física y mental del cuerpo. Ayuda al cerebro a consolidar recuerdos, reparar células y regular procesos importantes como el metabolismo."
-            },
-            {
-              "userText": "Why do we need sleep?",
-              "botResponse": "Sleep is essential for restoring and maintaining the body's physical and mental health. It helps the brain consolidate memories, repair cells, and regulate important processes like metabolism."
-            }
-          ]
+            "intent": "curiosity",
+            "examples": [
+                {
+                    "userText": "¿Cuál es el animal más rápido del mundo?",
+                    "botResponse": "El animal más rápido del mundo es el halcón peregrino, que puede alcanzar velocidades de hasta 380 km/h durante su vuelo en picada."
+                },
+                {
+                    "userText": "¿Por qué el cielo es azul?",
+                    "botResponse": "El cielo es azul debido a un fenómeno llamado dispersión de Rayleigh. La atmósfera dispersa más la luz azul del sol, lo que hace que el cielo aparezca de ese color durante el día."
+                },
+                {
+                    "userText": "¿Cuál es el continente más grande?",
+                    "botResponse": "El continente más grande es Asia, con un área de aproximadamente 44.58 millones de kilómetros cuadrados, que representa alrededor del 30% de la superficie terrestre del planeta."
+                },
+                {
+                    "userText": "¿Sabías que los pulpos tienen tres corazones?",
+                    "botResponse": "Sí, los pulpos tienen tres corazones. Dos de ellos bombean sangre a las branquias, mientras que el tercero lo hace al resto del cuerpo. Cuando nadan, el corazón que alimenta el cuerpo deja de latir."
+                },
+                {
+                    "userText": "¿Cómo se forman los arcoíris?",
+                    "botResponse": "Los arcoíris se forman cuando la luz del sol se refracta, se refleja y se dispersa a través de las gotas de agua en el aire, creando un espectro de colores."
+                },
+                {
+                    "userText": "¿Por qué los gatos siempre caen de pie?",
+                    "botResponse": "Los gatos tienen un reflejo de enderezamiento, lo que les permite girar su cuerpo en el aire para aterrizar sobre sus patas. Esto se debe a la flexibilidad de su columna vertebral y su sentido del equilibrio."
+                },
+                {
+                    "userText": "¿Cuál es el planeta más grande del sistema solar?",
+                    "botResponse": "El planeta más grande del sistema solar es Júpiter, con un diámetro de más de 139,000 kilómetros, que es 11 veces mayor que el de la Tierra."
+                },
+                {
+                    "userText": "¿Por qué las cebras tienen rayas?",
+                    "botResponse": "Las rayas de las cebras probablemente sirven como camuflaje. Ayudan a confundir a los depredadores, especialmente en las áreas de pastizales donde las sombras y las luces crean patrones similares."
+                },
+                {
+                    "userText": "¿El sol siempre está en el mismo lugar?",
+                    "botResponse": "No, el sol no siempre está en el mismo lugar. Debido al movimiento de la Tierra alrededor del sol, su posición cambia a lo largo del día y de las estaciones del año."
+                },
+                {
+                    "userText": "¿Qué es un agujero negro?",
+                    "botResponse": "Un agujero negro es una región del espacio donde la gravedad es tan fuerte que nada, ni siquiera la luz, puede escapar de él. Se forman cuando una estrella masiva colapsa al final de su vida."
+                },
+                {
+                    "userText": "What is the fastest animal in the world?",
+                    "botResponse": "The fastest animal in the world is the peregrine falcon, which can reach speeds of up to 380 km/h during its dive."
+                },
+                {
+                    "userText": "Why is the sky blue?",
+                    "botResponse": "The sky appears blue due to a phenomenon called Rayleigh scattering. The atmosphere scatters blue sunlight more, making the sky look blue during the day."
+                },
+                {
+                    "userText": "What is the largest continent?",
+                    "botResponse": "The largest continent is Asia, with an area of about 44.58 million square kilometers, which represents around 30% of the Earth's land surface."
+                },
+                {
+                    "userText": "Did you know octopuses have three hearts?",
+                    "botResponse": "Yes, octopuses have three hearts. Two of them pump blood to the gills, while the third pumps it to the rest of the body. When they swim, the heart that supplies the body stops beating."
+                },
+                {
+                    "userText": "How do rainbows form?",
+                    "botResponse": "Rainbows form when sunlight is refracted, reflected, and scattered by water droplets in the air, creating a spectrum of colors."
+                },
+                {
+                    "userText": "Why do cats always land on their feet?",
+                    "botResponse": "Cats have a righting reflex, which allows them to rotate their bodies in the air to land on their feet. This is due to the flexibility of their spine and their sense of balance."
+                },
+                {
+                    "userText": "What is the largest planet in the solar system?",
+                    "botResponse": "The largest planet in the solar system is Jupiter, with a diameter of over 139,000 kilometers, which is 11 times greater than Earth's."
+                },
+                {
+                    "userText": "Why do zebras have stripes?",
+                    "botResponse": "Zebra stripes likely serve as camouflage. They help confuse predators, especially in grasslands where shadows and light create similar patterns."
+                },
+                {
+                    "userText": "Is the sun always in the same place?",
+                    "botResponse": "No, the sun is not always in the same place. Due to Earth's movement around the sun, its position changes throughout the day and across the seasons."
+                },
+                {
+                    "userText": "What is a black hole?",
+                    "botResponse": "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape from it. They form when a massive star collapses at the end of its life."
+                },
+                {
+                    "userText": "¿Por qué migran las aves?",
+                    "botResponse": "Las aves migran para encontrar mejores condiciones para alimentarse y reproducirse. Este comportamiento les ayuda a sobrevivir a los climas duros durante los meses de invierno."
+                },
+                {
+                    "userText": "How do birds migrate?",
+                    "botResponse": "Birds migrate to find better conditions for feeding and breeding. This behavior helps them survive harsh climates during the winter months."
+                },
+                {
+                    "userText": "¿Qué tan profundo es el océano?",
+                    "botResponse": "La parte más profunda del océano es la Fosa de las Marianas, que alcanza una profundidad de aproximadamente 36,000 pies (10,973 metros), más profunda que la altura del Monte Everest."
+                },
+                {
+                    "userText": "How deep is the ocean?",
+                    "botResponse": "The deepest part of the ocean is the Mariana Trench, which reaches a depth of about 36,000 feet (10,973 meters), deeper than Mount Everest is tall."
+                },
+                {
+                    "userText": "¿Por qué tenemos huellas dactilares?",
+                    "botResponse": "Las huellas dactilares son únicas para cada persona y ayudan a mejorar nuestro sentido del tacto. También proporcionan un medio de identificación, ya que no hay dos personas con las mismas huellas dactilares."
+                },
+                {
+                    "userText": "Why do we have fingerprints?",
+                    "botResponse": "Fingerprints are unique to each person and help improve our sense of touch. They also provide a means of identification, as no two people have the same fingerprints."
+                },
+                {
+                    "userText": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+                    "botResponse": "El hueso más pequeño del cuerpo humano es el estribo, ubicado en el oído medio. Mide aproximadamente 2.5 mm de largo."
+                },
+                {
+                    "userText": "What is the smallest bone in the human body?",
+                    "botResponse": "The smallest bone in the human body is the stapes, located in the middle ear. It measures about 0.1 inches (2.5 mm) long."
+                },
+                {
+                    "userText": "¿Cuántos huesos tiene el cuerpo humano?",
+                    "botResponse": "El cuerpo humano adulto tiene 206 huesos. Los bebés nacen con alrededor de 270 huesos, pero algunos se fusionan a medida que crecen."
+                },
+                {
+                    "userText": "How many bones are in the human body?",
+                    "botResponse": "There are 206 bones in the adult human body. Babies are born with around 270 bones, but some fuse together as they grow."
+                },
+                {
+                    "userText": "¿Por qué tenemos hipo?",
+                    "botResponse": "El hipo ocurre cuando el diafragma se contrae involuntariamente. Esto puede ser causado por diversos factores, como comer demasiado rápido, beber bebidas carbonatadas o cambios repentinos de temperatura."
+                },
+                {
+                    "userText": "Why do we get hiccups?",
+                    "botResponse": "Hiccups occur when the diaphragm contracts involuntarily. This can be caused by various factors such as eating too quickly, drinking carbonated beverages, or sudden changes in temperature."
+                },
+                {
+                    "userText": "¿Cuál es el río más largo del mundo?",
+                    "botResponse": "El río más largo del mundo es el río Nilo, que fluye a lo largo de unos 6,650 kilómetros (4,130 millas) a través del noreste de África."
+                },
+                {
+                    "userText": "What is the longest river in the world?",
+                    "botResponse": "The longest river in the world is the Nile River, which flows for about 6,650 kilometers (4,130 miles) through northeastern Africa."
+                },
+                {
+                    "userText": "¿Por qué tenemos estaciones del año?",
+                    "botResponse": "Las estaciones ocurren porque el eje de la Tierra está inclinado en relación con su órbita alrededor del sol. Esto hace que diferentes partes de la Tierra reciban cantidades variables de luz solar a lo largo del año."
+                },
+                {
+                    "userText": "Why do we have seasons?",
+                    "botResponse": "Seasons occur because Earth's axis is tilted relative to its orbit around the sun. This causes different parts of the Earth to receive varying amounts of sunlight throughout the year."
+                },
+                {
+                    "userText": "¿Cuál es el animal más pesado de la Tierra?",
+                    "botResponse": "El animal más pesado de la Tierra es la ballena azul. Puede pesar hasta 200 toneladas (aproximadamente 400,000 libras)."
+                },
+                {
+                    "userText": "What is the heaviest animal on Earth?",
+                    "botResponse": "The heaviest animal on Earth is the blue whale. It can weigh as much as 200 tons (approximately 400,000 pounds)."
+                },
+                {
+                    "userText": "¿Por qué necesitamos dormir?",
+                    "botResponse": "El sueño es esencial para restaurar y mantener la salud física y mental del cuerpo. Ayuda al cerebro a consolidar recuerdos, reparar células y regular procesos importantes como el metabolismo."
+                },
+                {
+                    "userText": "Why do we need sleep?",
+                    "botResponse": "Sleep is essential for restoring and maintaining the body's physical and mental health. It helps the brain consolidate memories, repair cells, and regulate important processes like metabolism."
+                }
+            ]
+        },
+        {
+            "intent": "introduccion_programacion",
+            "examples": [
+                {
+                    "userText": "What is programming?",
+                    "botResponse": "Programming is the process of creating instructions for a computer to perform specific tasks. We use programming languages to write these instructions."
+                },
+                {
+                    "userText": "What is programming",
+                    "botResponse": "Programming is the process of creating instructions for a computer to perform specific tasks. We use programming languages to write these instructions."
+                },
+                {
+                    "userText": "¿Qué es programación?",
+                    "botResponse": "Programación es el proceso de crear instrucciones para que una computadora realice tareas específicas. Usamos lenguajes de programación para escribir estas instrucciones."
+                },
+                {
+                    "userText": "Qué es programación",
+                    "botResponse": "Programación es el proceso de crear instrucciones para que una computadora realice tareas específicas. Usamos lenguajes de programación para escribir estas instrucciones."
+                },
+                {
+                    "userText": "How do I start programming?",
+                    "botResponse": "To start programming, you need to learn a programming language. A good starting point is Python, which is easy to understand and use."
+                },
+                {
+                    "userText": "How do I start programming",
+                    "botResponse": "To start programming, you need to learn a programming language. A good starting point is Python, which is easy to understand and use."
+                },
+                {
+                    "userText": "¿Cómo empiezo a programar?",
+                    "botResponse": "Para empezar a programar, necesitas aprender un lenguaje de programación. Un buen punto de partida es Python, que es fácil de entender y usar."
+                },
+                {
+                    "userText": "Cómo empiezo a programar",
+                    "botResponse": "Para empezar a programar, necesitas aprender un lenguaje de programación. Un buen punto de partida es Python, que es fácil de entender y usar."
+                },
+                {
+                    "userText": "What is a programming language?",
+                    "botResponse": "A programming language is a tool we use to write instructions that a computer can understand. Some examples are Python, JavaScript, and C++."
+                },
+                {
+                    "userText": "What is a programming language",
+                    "botResponse": "A programming language is a tool we use to write instructions that a computer can understand. Some examples are Python, JavaScript, and C++."
+                },
+                {
+                    "userText": "¿Qué es un lenguaje de programación?",
+                    "botResponse": "Un lenguaje de programación es una herramienta que usamos para escribir instrucciones que la computadora puede entender. Algunos ejemplos son Python, JavaScript y C++."
+                },
+                {
+                    "userText": "Qué es un lenguaje de programación",
+                    "botResponse": "Un lenguaje de programación es una herramienta que usamos para escribir instrucciones que la computadora puede entender. Algunos ejemplos son Python, JavaScript y C++."
+                },
+                {
+                    "userText": "What is an algorithm?",
+                    "botResponse": "An algorithm is a set of defined steps or instructions that a computer follows to perform a specific task. Algorithms are the foundation of programming."
+                },
+                {
+                    "userText": "What is an algorithm",
+                    "botResponse": "An algorithm is a set of defined steps or instructions that a computer follows to perform a specific task. Algorithms are the foundation of programming."
+                },
+                {
+                    "userText": "¿Qué es un algoritmo?",
+                    "botResponse": "Un algoritmo es un conjunto de pasos o instrucciones definidas que una computadora sigue para realizar una tarea específica. Los algoritmos son la base de la programación."
+                },
+                {
+                    "userText": "Qué es un algoritmo",
+                    "botResponse": "Un algoritmo es un conjunto de pasos o instrucciones definidas que una computadora sigue para realizar una tarea específica. Los algoritmos son la base de la programación."
+                },
+                {
+                    "userText": "Why is learning programming important?",
+                    "botResponse": "Learning programming is important because it allows you to automate tasks, solve problems, and create applications that improve our daily lives. Additionally, it is a highly demanded skill in the job market."
+                },
+                {
+                    "userText": "Why is learning programming important",
+                    "botResponse": "Learning programming is important because it allows you to automate tasks, solve problems, and create applications that improve our daily lives. Additionally, it is a highly demanded skill in the job market."
+                },
+                {
+                    "userText": "¿Por qué es importante aprender a programar?",
+                    "botResponse": "Aprender a programar es importante porque te permite automatizar tareas, resolver problemas y crear aplicaciones que mejoran nuestra vida diaria. Además, es una habilidad muy demandada en el mercado laboral."
+                },
+                {
+                    "userText": "Por qué es importante aprender a programar",
+                    "botResponse": "Aprender a programar es importante porque te permite automatizar tareas, resolver problemas y crear aplicaciones que mejoran nuestra vida diaria. Además, es una habilidad muy demandada en el mercado laboral."
+                }
+            ]
+        },
+        {
+            "intent": "conceptos_basicos",
+            "examples": [
+                {
+                    "userText": "What is a variable?",
+                    "botResponse": "A variable is a placeholder in the computer's memory where we store data, such as a number or a text string."
+                },
+                {
+                    "userText": "What is a variable",
+                    "botResponse": "A variable is a placeholder in the computer's memory where we store data, such as a number or a text string."
+                },
+                {
+                    "userText": "¿Qué es una variable?",
+                    "botResponse": "Una variable es un espacio en la memoria de la computadora donde guardamos datos. Por ejemplo, un número o un texto."
+                },
+                {
+                    "userText": "Qué es una variable",
+                    "botResponse": "Una variable es un espacio en la memoria de la computadora donde guardamos datos. Por ejemplo, un número o un texto."
+                },
+                {
+                    "userText": "What is a constant?",
+                    "botResponse": "A constant is a value that does not change throughout the execution of a program. For example, the value of Pi (3.14)."
+                },
+                {
+                    "userText": "What is a constant",
+                    "botResponse": "A constant is a value that does not change throughout the execution of a program. For example, the value of Pi (3.14)."
+                },
+                {
+                    "userText": "¿Qué es una constante?",
+                    "botResponse": "Una constante es un valor que no cambia durante la ejecución de un programa. Por ejemplo, el valor de Pi (3.14)."
+                },
+                {
+                    "userText": "Qué es una constante",
+                    "botResponse": "Una constante es un valor que no cambia durante la ejecución de un programa. Por ejemplo, el valor de Pi (3.14)."
+                },
+                {
+                    "userText": "What is a data type?",
+                    "botResponse": "A data type defines the kind of value a variable can hold, such as integer, string, or boolean."
+                },
+                {
+                    "userText": "What is a data type",
+                    "botResponse": "A data type defines the kind of value a variable can hold, such as integer, string, or boolean."
+                },
+                {
+                    "userText": "¿Qué es un tipo de dato?",
+                    "botResponse": "Un tipo de dato define el tipo de valor que puede contener una variable, como entero, texto o booleano."
+                },
+                {
+                    "userText": "Qué es un tipo de dato",
+                    "botResponse": "Un tipo de dato define el tipo de valor que puede contener una variable, como entero, texto o booleano."
+                },
+                {
+                    "userText": "What is an operator?",
+                    "botResponse": "An operator is a symbol used to perform operations on variables or values, like addition (+) or comparison (==)."
+                },
+                {
+                    "userText": "What is an operator",
+                    "botResponse": "An operator is a symbol used to perform operations on variables or values, like addition (+) or comparison (==)."
+                },
+                {
+                    "userText": "¿Qué es un operador?",
+                    "botResponse": "Un operador es un símbolo que se utiliza para realizar operaciones sobre variables o valores, como suma (+) o comparación (==)."
+                },
+                {
+                    "userText": "Qué es un operador",
+                    "botResponse": "Un operador es un símbolo que se utiliza para realizar operaciones sobre variables o valores, como suma (+) o comparación (==)."
+                },
+                {
+                    "userText": "What is a function?",
+                    "botResponse": "A function is a block of reusable code that performs a specific task and can be called multiple times in a program."
+                },
+                {
+                    "userText": "What is a function",
+                    "botResponse": "A function is a block of reusable code that performs a specific task and can be called multiple times in a program."
+                },
+                {
+                    "userText": "¿Qué es una función?",
+                    "botResponse": "Una función es un bloque de código reutilizable que realiza una tarea específica y se puede llamar varias veces en un programa."
+                },
+                {
+                    "userText": "Qué es una función",
+                    "botResponse": "Una función es un bloque de código reutilizable que realiza una tarea específica y se puede llamar varias veces en un programa."
+                },
+                {
+                    "userText": "What is debugging?",
+                    "botResponse": "Debugging is the process of finding and fixing errors or bugs in a program to ensure it runs as expected."
+                },
+                {
+                    "userText": "What is debugging",
+                    "botResponse": "Debugging is the process of finding and fixing errors or bugs in a program to ensure it runs as expected."
+                },
+                {
+                    "userText": "¿Qué es depurar?",
+                    "botResponse": "Depurar es el proceso de encontrar y corregir errores o bugs en un programa para asegurarse de que funcione como se espera."
+                },
+                {
+                    "userText": "Qué es depurar",
+                    "botResponse": "Depurar es el proceso de encontrar y corregir errores o bugs en un programa para asegurarse de que funcione como se espera."
+                }
+            ]
+        },
+        {
+            "intent": "funciones_y_metodos",
+            "examples": [
+                {
+                    "userText": "What is a function?",
+                    "botResponse": "A function is a block of code designed to perform a specific task. You can call it when needed, and it can return a result."
+                },
+                {
+                    "userText": "What is a function",
+                    "botResponse": "A function is a block of code designed to perform a specific task. You can call it when needed, and it can return a result."
+                },
+                {
+                    "userText": "¿Qué es una función?",
+                    "botResponse": "Una función es un bloque de código que realiza una tarea específica. Puedes llamarla cuando la necesites y puede devolver un resultado."
+                },
+                {
+                    "userText": "Qué es una función",
+                    "botResponse": "Una función es un bloque de código que realiza una tarea específica. Puedes llamarla cuando la necesites y puede devolver un resultado."
+                },
+                {
+                    "userText": "How do I create a function?",
+                    "botResponse": "To create a function in Python, use the `def` keyword, followed by the function name and parameters, if any. Example: `def greet():`."
+                },
+                {
+                    "userText": "How do I create a function",
+                    "botResponse": "To create a function in Python, use the `def` keyword, followed by the function name and parameters, if any. Example: `def greet():`."
+                },
+                {
+                    "userText": "¿Cómo hago una función?",
+                    "botResponse": "Para crear una función en Python, se usa la palabra clave `def`, seguida del nombre de la función y sus parámetros, si tiene. Ejemplo: `def saludar():`."
+                },
+                {
+                    "userText": "Cómo hago una función",
+                    "botResponse": "Para crear una función en Python, se usa la palabra clave `def`, seguida del nombre de la función y sus parámetros, si tiene. Ejemplo: `def saludar():`."
+                },
+                {
+                    "userText": "What is a method?",
+                    "botResponse": "A method is a function associated with an object or class. For instance, in Python, strings have a method called `upper()` that converts the text to uppercase."
+                },
+                {
+                    "userText": "What is a method",
+                    "botResponse": "A method is a function associated with an object or class. For instance, in Python, strings have a method called `upper()` that converts the text to uppercase."
+                },
+                {
+                    "userText": "¿Qué es un método?",
+                    "botResponse": "Un método es una función que está asociada a un objeto o clase. Por ejemplo, en Python, las cadenas de texto tienen un método llamado `upper()` que convierte el texto a mayúsculas."
+                },
+                {
+                    "userText": "Qué es un método",
+                    "botResponse": "Un método es una función que está asociada a un objeto o clase. Por ejemplo, en Python, las cadenas de texto tienen un método llamado `upper()` que convierte el texto a mayúsculas."
+                },
+                {
+                    "userText": "How do I use a method?",
+                    "botResponse": "To use a method, call it on an object using a dot. For example, `my_string.upper()` converts the string to uppercase."
+                },
+                {
+                    "userText": "How do I use a method",
+                    "botResponse": "To use a method, call it on an object using a dot. For example, `my_string.upper()` converts the string to uppercase."
+                },
+                {
+                    "userText": "¿Cómo uso un método?",
+                    "botResponse": "Para usar un método, lo llamas en un objeto usando un punto. Por ejemplo, `mi_cadena.upper()` convierte la cadena de texto a mayúsculas."
+                },
+                {
+                    "userText": "Cómo uso un método",
+                    "botResponse": "Para usar un método, lo llamas en un objeto usando un punto. Por ejemplo, `mi_cadena.upper()` convierte la cadena de texto a mayúsculas."
+                },
+                {
+                    "userText": "What is the difference between a function and a method?",
+                    "botResponse": "A function is a standalone block of code, while a method is a function that is part of an object or class."
+                },
+                {
+                    "userText": "What is the difference between a function and a method",
+                    "botResponse": "A function is a standalone block of code, while a method is a function that is part of an object or class."
+                },
+                {
+                    "userText": "¿Cuál es la diferencia entre una función y un método?",
+                    "botResponse": "Una función es un bloque de código independiente, mientras que un método es una función que forma parte de un objeto o clase."
+                },
+                {
+                    "userText": "Cuál es la diferencia entre una función y un método",
+                    "botResponse": "Una función es un bloque de código independiente, mientras que un método es una función que forma parte de un objeto o clase."
+                },
+                {
+                    "userText": "Can a function return multiple values?",
+                    "botResponse": "Yes, in Python, a function can return multiple values as a tuple. Example: `return value1, value2`."
+                },
+                {
+                    "userText": "Can a function return multiple values",
+                    "botResponse": "Yes, in Python, a function can return multiple values as a tuple. Example: `return value1, value2`."
+                },
+                {
+                    "userText": "¿Puede una función devolver varios valores?",
+                    "botResponse": "Sí, en Python, una función puede devolver varios valores como una tupla. Ejemplo: `return valor1, valor2`."
+                },
+                {
+                    "userText": "Puede una función devolver varios valores",
+                    "botResponse": "Sí, en Python, una función puede devolver varios valores como una tupla. Ejemplo: `return valor1, valor2`."
+                }
+            ]
+        },
+        {
+            "intent": "estructuras_control",
+            "examples": [
+                {
+                    "userText": "What is a conditional?",
+                    "botResponse": "A conditional is an instruction that allows decisions based on whether a condition is true or false. It is often used with `if`."
+                },
+                {
+                    "userText": "What is a conditional",
+                    "botResponse": "A conditional is an instruction that allows decisions based on whether a condition is true or false. It is often used with `if`."
+                },
+                {
+                    "userText": "¿Qué es un condicional?",
+                    "botResponse": "Un condicional es una instrucción que permite tomar decisiones en función de si una condición es verdadera o falsa. Se usa mucho con `if`."
+                },
+                {
+                    "userText": "Qué es un condicional",
+                    "botResponse": "Un condicional es una instrucción que permite tomar decisiones en función de si una condición es verdadera o falsa. Se usa mucho con `if`."
+                },
+                {
+                    "userText": "How do I use an `if` statement?",
+                    "botResponse": "In an `if` statement, you tell the computer to do something only if a condition is met. Example: `if age >= 18: print('You are an adult')`."
+                },
+                {
+                    "userText": "How do I use an `if` statement",
+                    "botResponse": "In an `if` statement, you tell the computer to do something only if a condition is met. Example: `if age >= 18: print('You are an adult')`."
+                },
+                {
+                    "userText": "¿Cómo uso un `if`?",
+                    "botResponse": "En un `if`, puedes decirle a la computadora que haga algo solo si se cumple una condición. Ejemplo: `if edad >= 18: print('Eres mayor de edad')`."
+                },
+                {
+                    "userText": "Cómo uso un `if`",
+                    "botResponse": "En un `if`, puedes decirle a la computadora que haga algo solo si se cumple una condición. Ejemplo: `if edad >= 18: print('Eres mayor de edad')`."
+                },
+                {
+                    "userText": "What is a loop?",
+                    "botResponse": "A loop is a structure that repeats a set of instructions multiple times. For example, a `for` loop can print numbers from 1 to 5."
+                },
+                {
+                    "userText": "What is a loop",
+                    "botResponse": "A loop is a structure that repeats a set of instructions multiple times. For example, a `for` loop can print numbers from 1 to 5."
+                },
+                {
+                    "userText": "¿Qué es un bucle?",
+                    "botResponse": "Un bucle es una estructura que repite un conjunto de instrucciones varias veces. Por ejemplo, con un `for` puedes imprimir números del 1 al 5."
+                },
+                {
+                    "userText": "Qué es un bucle",
+                    "botResponse": "Un bucle es una estructura que repite un conjunto de instrucciones varias veces. Por ejemplo, con un `for` puedes imprimir números del 1 al 5."
+                },
+                {
+                    "userText": "How do I use a `for` loop?",
+                    "botResponse": "A `for` loop is used to iterate over a set of data. Example in Python: `for i in range(5): print(i)` will print numbers from 0 to 4."
+                },
+                {
+                    "userText": "How do I use a `for` loop",
+                    "botResponse": "A `for` loop is used to iterate over a set of data. Example in Python: `for i in range(5): print(i)` will print numbers from 0 to 4."
+                },
+                {
+                    "userText": "¿Cómo uso un `for`?",
+                    "botResponse": "Un `for` se usa para iterar sobre un conjunto de datos. Ejemplo en Python: `for i in range(5): print(i)` imprimirá los números del 0 al 4."
+                },
+                {
+                    "userText": "Cómo uso un `for`",
+                    "botResponse": "Un `for` se usa para iterar sobre un conjunto de datos. Ejemplo en Python: `for i in range(5): print(i)` imprimirá los números del 0 al 4."
+                },
+                {
+                    "userText": "What is a `while` loop?",
+                    "botResponse": "A `while` loop repeats a set of instructions as long as a condition remains true. Example: `while x < 5: print(x)`."
+                },
+                {
+                    "userText": "What is a `while` loop",
+                    "botResponse": "A `while` loop repeats a set of instructions as long as a condition remains true. Example: `while x < 5: print(x)`."
+                },
+                {
+                    "userText": "¿Qué es un bucle `while`?",
+                    "botResponse": "Un bucle `while` repite un conjunto de instrucciones mientras una condición sea verdadera. Ejemplo: `while x < 5: print(x)`."
+                },
+                {
+                    "userText": "Qué es un bucle `while`",
+                    "botResponse": "Un bucle `while` repite un conjunto de instrucciones mientras una condición sea verdadera. Ejemplo: `while x < 5: print(x)`."
+                },
+                {
+                    "userText": "How do I stop a loop?",
+                    "botResponse": "To stop a loop, you can use the `break` statement, which immediately exits the loop. Example: `if x == 3: break`."
+                },
+                {
+                    "userText": "How do I stop a loop",
+                    "botResponse": "To stop a loop, you can use the `break` statement, which immediately exits the loop. Example: `if x == 3: break`."
+                },
+                {
+                    "userText": "¿Cómo detengo un bucle?",
+                    "botResponse": "Para detener un bucle, puedes usar la instrucción `break`, que sale del bucle inmediatamente. Ejemplo: `if x == 3: break`."
+                },
+                {
+                    "userText": "Cómo detengo un bucle",
+                    "botResponse": "Para detener un bucle, puedes usar la instrucción `break`, que sale del bucle inmediatamente. Ejemplo: `if x == 3: break`."
+                }
+            ]
+        },
+        {
+            "intent": "conceptos_avanzados",
+            "examples": [
+                {
+                    "userText": "What is an algorithm?",
+                    "botResponse": "An algorithm is a series of steps we follow to solve a problem or perform a task. For example, an algorithm for making coffee might be: add water to the coffee maker, add coffee grounds, and turn it on."
+                },
+                {
+                    "userText": "What is an algorithm",
+                    "botResponse": "An algorithm is a series of steps we follow to solve a problem or perform a task. For example, an algorithm for making coffee might be: add water to the coffee maker, add coffee grounds, and turn it on."
+                },
+                {
+                    "userText": "¿Qué es un algoritmo?",
+                    "botResponse": "Un algoritmo es una serie de pasos que seguimos para resolver un problema o realizar una tarea. Por ejemplo, un algoritmo para hacer café podría ser: poner agua en la cafetera, agregar café, encender la cafetera."
+                },
+                {
+                    "userText": "Qué es un algoritmo",
+                    "botResponse": "Un algoritmo es una serie de pasos que seguimos para resolver un problema o realizar una tarea. Por ejemplo, un algoritmo para hacer café podría ser: poner agua en la cafetera, agregar café, encender la cafetera."
+                },
+                {
+                    "userText": "What is object-oriented programming?",
+                    "botResponse": "Object-oriented programming (OOP) is a paradigm where programs are structured around objects containing data and methods. For example, a 'Car' object might have attributes like color and methods like start."
+                },
+                {
+                    "userText": "What is object-oriented programming",
+                    "botResponse": "Object-oriented programming (OOP) is a paradigm where programs are structured around objects containing data and methods. For example, a 'Car' object might have attributes like color and methods like start."
+                },
+                {
+                    "userText": "¿Qué es la programación orientada a objetos?",
+                    "botResponse": "La programación orientada a objetos (POO) es un paradigma donde los programas están estructurados alrededor de objetos que contienen datos y métodos. Un ejemplo es un 'Coche' que tiene atributos como color y métodos como arrancar."
+                },
+                {
+                    "userText": "Qué es la programación orientada a objetos",
+                    "botResponse": "La programación orientada a objetos (POO) es un paradigma donde los programas están estructurados alrededor de objetos que contienen datos y métodos. Un ejemplo es un 'Coche' que tiene atributos como color y métodos como arrancar."
+                },
+                {
+                    "userText": "What is a class?",
+                    "botResponse": "A class is a blueprint or template for creating objects in object-oriented programming. It defines properties and behaviors that objects of that class will have."
+                },
+                {
+                    "userText": "What is a class",
+                    "botResponse": "A class is a blueprint or template for creating objects in object-oriented programming. It defines properties and behaviors that objects of that class will have."
+                },
+                {
+                    "userText": "¿Qué es una clase?",
+                    "botResponse": "Una clase es un modelo o plantilla para crear objetos en programación orientada a objetos. Define propiedades y comportamientos que los objetos de esa clase tendrán."
+                },
+                {
+                    "userText": "Qué es una clase",
+                    "botResponse": "Una clase es un modelo o plantilla para crear objetos en programación orientada a objetos. Define propiedades y comportamientos que los objetos de esa clase tendrán."
+                },
+                {
+                    "userText": "What is inheritance?",
+                    "botResponse": "Inheritance is an object-oriented programming concept where one class can inherit features (attributes and methods) from another class."
+                },
+                {
+                    "userText": "What is inheritance",
+                    "botResponse": "Inheritance is an object-oriented programming concept where one class can inherit features (attributes and methods) from another class."
+                },
+                {
+                    "userText": "¿Qué es la herencia?",
+                    "botResponse": "La herencia es un concepto de la programación orientada a objetos donde una clase puede heredar características (atributos y métodos) de otra clase."
+                },
+                {
+                    "userText": "Qué es la herencia",
+                    "botResponse": "La herencia es un concepto de la programación orientada a objetos donde una clase puede heredar características (atributos y métodos) de otra clase."
+                },
+                {
+                    "userText": "What is encapsulation?",
+                    "botResponse": "Encapsulation is the practice of bundling data and methods that operate on that data into a single unit, like a class, and restricting access to some components."
+                },
+                {
+                    "userText": "What is encapsulation",
+                    "botResponse": "Encapsulation is the practice of bundling data and methods that operate on that data into a single unit, like a class, and restricting access to some components."
+                },
+                {
+                    "userText": "¿Qué es la encapsulación?",
+                    "botResponse": "La encapsulación es la práctica de agrupar datos y los métodos que operan sobre esos datos en una sola unidad, como una clase, y restringir el acceso a algunos componentes."
+                },
+                {
+                    "userText": "Qué es la encapsulación",
+                    "botResponse": "La encapsulación es la práctica de agrupar datos y los métodos que operan sobre esos datos en una sola unidad, como una clase, y restringir el acceso a algunos componentes."
+                },
+                {
+                    "userText": "What is polymorphism?",
+                    "botResponse": "Polymorphism is an OOP concept where a single function, method, or operator can behave differently based on the context, such as method overriding in derived classes."
+                },
+                {
+                    "userText": "What is polymorphism",
+                    "botResponse": "Polymorphism is an OOP concept where a single function, method, or operator can behave differently based on the context, such as method overriding in derived classes."
+                },
+                {
+                    "userText": "¿Qué es el polimorfismo?",
+                    "botResponse": "El polimorfismo es un concepto de la programación orientada a objetos donde una función, método u operador puede comportarse de manera diferente según el contexto, como la sobrescritura de métodos en clases derivadas."
+                },
+                {
+                    "userText": "Qué es el polimorfismo",
+                    "botResponse": "El polimorfismo es un concepto de la programación orientada a objetos donde una función, método u operador puede comportarse de manera diferente según el contexto, como la sobrescritura de métodos en clases derivadas."
+                }
+            ]
+        },
+        {
+            "intent": "debugging_y_problemas",
+            "examples": [
+                {
+                    "userText": "¿Qué hago si mi código no funciona?",
+                    "botResponse": "Si tu código no funciona, es importante revisar los errores. Puedes usar herramientas como los mensajes de error que te da el programa o probar con pequeñas partes del código para encontrar el problema."
+                },
+                {
+                    "userText": "Qué hago si mi código no funciona",
+                    "botResponse": "Si tu código no funciona, es importante revisar los errores. Puedes usar herramientas como los mensajes de error que te da el programa o probar con pequeñas partes del código para encontrar el problema."
+                },
+                {
+                    "userText": "What do I do if my code doesn't work?",
+                    "botResponse": "If your code doesn't work, it's important to review the errors. Use tools like the error messages provided by the program or test small parts of the code to locate the issue."
+                },
+                {
+                    "userText": "What do I do if my code doesnt work",
+                    "botResponse": "If your code doesn't work, it's important to review the errors. Use tools like the error messages provided by the program or test small parts of the code to locate the issue."
+                },
+                {
+                    "userText": "¿Cómo arreglo un error en mi código?",
+                    "botResponse": "Los errores más comunes son de sintaxis, tipo de datos o lógica. Lee el mensaje de error, verifica que las variables tengan los valores correctos y asegúrate de que la estructura de tu código sea correcta."
+                },
+                {
+                    "userText": "Cómo arreglo un error en mi código",
+                    "botResponse": "Los errores más comunes son de sintaxis, tipo de datos o lógica. Lee el mensaje de error, verifica que las variables tengan los valores correctos y asegúrate de que la estructura de tu código sea correcta."
+                },
+                {
+                    "userText": "How do I fix an error in my code?",
+                    "botResponse": "The most common errors are syntax, data type, or logic errors. Read the error message, check if variables have correct values, and ensure your code structure is correct."
+                },
+                {
+                    "userText": "How do I fix an error in my code",
+                    "botResponse": "The most common errors are syntax, data type, or logic errors. Read the error message, check if variables have correct values, and ensure your code structure is correct."
+                },
+                {
+                    "userText": "¿Qué es un error de sintaxis?",
+                    "botResponse": "Un error de sintaxis ocurre cuando el código no sigue las reglas del lenguaje de programación. Puede ser un punto y coma faltante, paréntesis no cerrados o comillas desbalanceadas."
+                },
+                {
+                    "userText": "Qué es un error de sintaxis",
+                    "botResponse": "Un error de sintaxis ocurre cuando el código no sigue las reglas del lenguaje de programación. Puede ser un punto y coma faltante, paréntesis no cerrados o comillas desbalanceadas."
+                },
+                {
+                    "userText": "What is a syntax error?",
+                    "botResponse": "A syntax error occurs when the code doesn't follow the rules of the programming language. Examples include missing semicolons, unclosed parentheses, or unmatched quotes."
+                },
+                {
+                    "userText": "What is a syntax error",
+                    "botResponse": "A syntax error occurs when the code doesn't follow the rules of the programming language. Examples include missing semicolons, unclosed parentheses, or unmatched quotes."
+                },
+                {
+                    "userText": "¿Qué es un error lógico?",
+                    "botResponse": "Un error lógico ocurre cuando el programa se ejecuta, pero no hace lo que esperas debido a una falla en el razonamiento. Por ejemplo, usar un operador incorrecto en un cálculo."
+                },
+                {
+                    "userText": "Qué es un error lógico",
+                    "botResponse": "Un error lógico ocurre cuando el programa se ejecuta, pero no hace lo que esperas debido a una falla en el razonamiento. Por ejemplo, usar un operador incorrecto en un cálculo."
+                },
+                {
+                    "userText": "What is a logical error?",
+                    "botResponse": "A logical error occurs when the program runs but doesn't do what you expect due to a flaw in reasoning. For example, using an incorrect operator in a calculation."
+                },
+                {
+                    "userText": "What is a logical error",
+                    "botResponse": "A logical error occurs when the program runs but doesn't do what you expect due to a flaw in reasoning. For example, using an incorrect operator in a calculation."
+                },
+                {
+                    "userText": "¿Cómo uso un depurador (debugger)?",
+                    "botResponse": "Un depurador es una herramienta que te permite ejecutar tu código paso a paso para identificar errores. Puedes establecer puntos de interrupción para inspeccionar variables y flujos de ejecución."
+                },
+                {
+                    "userText": "Cómo uso un depurador (debugger)",
+                    "botResponse": "Un depurador es una herramienta que te permite ejecutar tu código paso a paso para identificar errores. Puedes establecer puntos de interrupción para inspeccionar variables y flujos de ejecución."
+                },
+                {
+                    "userText": "How do I use a debugger?",
+                    "botResponse": "A debugger is a tool that lets you run your code step by step to identify errors. You can set breakpoints to inspect variables and execution flows."
+                },
+                {
+                    "userText": "How do I use a debugger",
+                    "botResponse": "A debugger is a tool that lets you run your code step by step to identify errors. You can set breakpoints to inspect variables and execution flows."
+                }
+            ]
+        },
+        {
+            "intent": "terminologia_terminos",
+            "examples": [
+                {
+                    "userText": "¿Qué es un compilador?",
+                    "botResponse": "Un compilador es un programa que traduce el código fuente que escribes en un lenguaje de alto nivel a un lenguaje de bajo nivel que la computadora pueda entender y ejecutar."
+                },
+                {
+                    "userText": "Qué es un compilador",
+                    "botResponse": "Un compilador es un programa que traduce el código fuente que escribes en un lenguaje de alto nivel a un lenguaje de bajo nivel que la computadora pueda entender y ejecutar."
+                },
+                {
+                    "userText": "What is a compiler?",
+                    "botResponse": "A compiler is a program that translates the source code you write in a high-level language into a low-level language that the computer can understand and execute."
+                },
+                {
+                    "userText": "What is a compiler",
+                    "botResponse": "A compiler is a program that translates the source code you write in a high-level language into a low-level language that the computer can understand and execute."
+                },
+                {
+                    "userText": "¿Qué es un IDE?",
+                    "botResponse": "Un IDE (Entorno de Desarrollo Integrado) es una herramienta que facilita la programación, ya que incluye editores de código, compiladores y otras herramientas útiles en un solo lugar. Ejemplos son Visual Studio Code o PyCharm."
+                },
+                {
+                    "userText": "Qué es un IDE",
+                    "botResponse": "Un IDE (Entorno de Desarrollo Integrado) es una herramienta que facilita la programación, ya que incluye editores de código, compiladores y otras herramientas útiles en un solo lugar. Ejemplos son Visual Studio Code o PyCharm."
+                },
+                {
+                    "userText": "What is an IDE?",
+                    "botResponse": "An IDE (Integrated Development Environment) is a tool that makes programming easier by combining code editors, compilers, and other useful tools in one place. Examples include Visual Studio Code or PyCharm."
+                },
+                {
+                    "userText": "What is an IDE",
+                    "botResponse": "An IDE (Integrated Development Environment) is a tool that makes programming easier by combining code editors, compilers, and other useful tools in one place. Examples include Visual Studio Code or PyCharm."
+                },
+                {
+                    "userText": "¿Qué es un error de ejecución?",
+                    "botResponse": "Un error de ejecución ocurre cuando el código se ejecuta, pero algo no sale como se espera. Puede ser causado por cosas como dividir por cero o intentar acceder a un archivo que no existe."
+                },
+                {
+                    "userText": "Qué es un error de ejecución",
+                    "botResponse": "Un error de ejecución ocurre cuando el código se ejecuta, pero algo no sale como se espera. Puede ser causado por cosas como dividir por cero o intentar acceder a un archivo que no existe."
+                },
+                {
+                    "userText": "What is a runtime error?",
+                    "botResponse": "A runtime error occurs when the code runs, but something doesn't work as expected. It can be caused by issues like dividing by zero or trying to access a file that doesn't exist."
+                },
+                {
+                    "userText": "What is a runtime error",
+                    "botResponse": "A runtime error occurs when the code runs, but something doesn't work as expected. It can be caused by issues like dividing by zero or trying to access a file that doesn't exist."
+                },
+                {
+                    "userText": "¿Qué es un lenguaje de programación?",
+                    "botResponse": "Un lenguaje de programación es un conjunto de instrucciones que le dicen a la computadora cómo realizar tareas. Ejemplos populares son Python, Java y C++."
+                },
+                {
+                    "userText": "Qué es un lenguaje de programación",
+                    "botResponse": "Un lenguaje de programación es un conjunto de instrucciones que le dicen a la computadora cómo realizar tareas. Ejemplos populares son Python, Java y C++."
+                },
+                {
+                    "userText": "What is a programming language?",
+                    "botResponse": "A programming language is a set of instructions that tell the computer how to perform tasks. Popular examples include Python, Java, and C++."
+                },
+                {
+                    "userText": "What is a programming language",
+                    "botResponse": "A programming language is a set of instructions that tell the computer how to perform tasks. Popular examples include Python, Java, and C++."
+                }
+            ]
+        },
+        {
+            "intent": "variable_python",
+            "examples": [
+                {
+                    "userText": "¿Cómo se declara una variable en Python?",
+                    "botResponse": "En Python, puedes declarar una variable de la siguiente manera:\n\nx = 5\n# No es necesario especificar el tipo de la variable, Python lo detecta automáticamente."
+                },
+                {
+                    "userText": "¿Qué es una variable en Python?",
+                    "botResponse": "Una variable en Python se crea asignando un valor a un nombre. Ejemplo: `x = 5`."
+                },
+                {
+                    "userText": "How do you declare a variable in Python",
+                    "botResponse": "In Python, you can declare a variable like this:\n\nx = 5\n# Python automatically detects the variable type."
+                },
+                {
+                    "userText": "What is a variable in Python?",
+                    "botResponse": "A variable in Python is created by assigning a value to a name. Example: `x = 5`."
+                },
+                {
+                    "userText": "Cómo se declara una variable en Python",
+                    "botResponse": "En Python, puedes declarar una variable de la siguiente manera:\n\nx = 5\n# No es necesario especificar el tipo de la variable, Python lo detecta automáticamente."
+                },
+                {
+                    "userText": "Qué es una variable en Python",
+                    "botResponse": "Una variable en Python se crea asignando un valor a un nombre. Ejemplo: `x = 5`."
+                }
+            ]
+        },
+        {
+            "intent": "variable_javascript",
+            "examples": [
+                {
+                    "userText": "¿Cómo se declara una variable en JavaScript?",
+                    "botResponse": "En JavaScript, puedes declarar una variable usando `let`, `const` o `var`.\nEjemplo: `let x = 5;`"
+                },
+                {
+                    "userText": "¿Qué es una variable en JavaScript?",
+                    "botResponse": "Una variable en JavaScript puede declararse con `let`, `const` o `var`. Ejemplo: `let x = 5;`"
+                },
+                {
+                    "userText": "How do you declare a variable in JavaScript",
+                    "botResponse": "In JavaScript, you can declare a variable using `let`, `const`, or `var`.\nExample: `let x = 5;`"
+                },
+                {
+                    "userText": "What is a variable in JavaScript",
+                    "botResponse": "A variable in JavaScript can be declared with `let`, `const`, or `var`. Example: `let x = 5;`"
+                },
+                {
+                    "userText": "Cómo se declara una variable en JavaScript",
+                    "botResponse": "En JavaScript, puedes declarar una variable usando `let`, `const` o `var`.\nEjemplo: `let x = 5;`"
+                },
+                {
+                    "userText": "Qué es una variable en JavaScript",
+                    "botResponse": "Una variable en JavaScript puede declararse con `let`, `const` o `var`. Ejemplo: `let x = 5;`"
+                }
+            ]
+        },
+        {
+            "intent": "bubble_sort_python",
+            "examples": [
+                {
+                    "userText": "¿Puedes darme el código de Bubble Sort en Python?",
+                    "botResponse": "Aquí tienes el código de Bubble Sort en Python:\n\n```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n-i-1):\n            if arr[j] > arr[j+1]:\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(bubble_sort(arr))\n```"
+                },
+                {
+                    "userText": "Muéstrame cómo hacer Bubble Sort en Python",
+                    "botResponse": "Aquí tienes un ejemplo de cómo implementar Bubble Sort en Python:\n\n```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n-i-1):\n            if arr[j] > arr[j+1]:\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(bubble_sort(arr))\n```"
+                },
+                {
+                    "userText": "How do I implement Bubble Sort in Python?",
+                    "botResponse": "Here is the Bubble Sort implementation in Python:\n\n```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n-i-1):\n            if arr[j] > arr[j+1]:\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(bubble_sort(arr))\n```"
+                },
+                {
+                    "userText": "Cómo implemento el algoritmo de Bubble Sort en Python?",
+                    "botResponse": "Aquí tienes el código de Bubble Sort en Python:\n\n```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n-i-1):\n            if arr[j] > arr[j+1]:\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(bubble_sort(arr))\n```"
+                },
+                {
+                    "userText": "Puedes darme el código de Bubble Sort en Python",
+                    "botResponse": "Aquí tienes el código de Bubble Sort en Python:\n\n```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n-i-1):\n            if arr[j] > arr[j+1]:\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(bubble_sort(arr))\n```"
+                }
+            ]
+        },
+        {
+            "intent": "bubble_sort_javascript",
+            "examples": [
+                {
+                    "userText": "¿Puedes darme el código de Bubble Sort en JavaScript?",
+                    "botResponse": "Aquí tienes el código de Bubble Sort en JavaScript:\n\n```javascript\nfunction bubbleSort(arr) {\n    let n = arr.length;\n    for (let i = 0; i < n; i++) {\n        for (let j = 0; j < n-i-1; j++) {\n            if (arr[j] > arr[j+1]) {\n                [arr[j], arr[j+1]] = [arr[j+1], arr[j]];\n            }\n        }\n    }\n    return arr;\n}\n\nlet arr = [64, 34, 25, 12, 22, 11, 90];\nconsole.log(bubbleSort(arr));\n```"
+                },
+                {
+                    "userText": "Muéstrame cómo hacer Bubble Sort en JavaScript",
+                    "botResponse": "Aquí tienes un ejemplo de cómo implementar Bubble Sort en JavaScript:\n\n```javascript\nfunction bubbleSort(arr) {\n    let n = arr.length;\n    for (let i = 0; i < n; i++) {\n        for (let j = 0; j < n-i-1; j++) {\n            if (arr[j] > arr[j+1]) {\n                [arr[j], arr[j+1]] = [arr[j+1], arr[j]];\n            }\n        }\n    }\n    return arr;\n}\n\nlet arr = [64, 34, 25, 12, 22, 11, 90];\nconsole.log(bubbleSort(arr));\n```"
+                },
+                {
+                    "userText": "How do I implement Bubble Sort in JavaScript?",
+                    "botResponse": "Here is the Bubble Sort implementation in JavaScript:\n\n```javascript\nfunction bubbleSort(arr) {\n    let n = arr.length;\n    for (let i = 0; i < n; i++) {\n        for (let j = 0; j < n-i-1; j++) {\n            if (arr[j] > arr[j+1]) {\n                [arr[j], arr[j+1]] = [arr[j+1], arr[j]];\n            }\n        }\n    }\n    return arr;\n}\n\nlet arr = [64, 34, 25, 12, 22, 11, 90];\nconsole.log(bubbleSort(arr));\n```"
+                },
+                {
+                    "userText": "Cómo implemento el algoritmo de Bubble Sort en JavaScript?",
+                    "botResponse": "Aquí tienes un ejemplo de cómo implementar Bubble Sort en JavaScript:\n\n```javascript\nfunction bubbleSort(arr) {\n    let n = arr.length;\n    for (let i = 0; i < n; i++) {\n        for (let j = 0; j < n-i-1; j++) {\n            if (arr[j] > arr[j+1]) {\n                [arr[j], arr[j+1]] = [arr[j+1], arr[j]];\n            }\n        }\n    }\n    return arr;\n}\n\nlet arr = [64, 34, 25, 12, 22, 11, 90];\nconsole.log(bubbleSort(arr));\n```"
+                },
+                {
+                    "userText": "Can you give me the Bubble Sort code in JavaScript?",
+                    "botResponse": "Here is the Bubble Sort code in JavaScript:\n\n```javascript\nfunction bubbleSort(arr) {\n    let n = arr.length;\n    for (let i = 0; i < n; i++) {\n        for (let j = 0; j < n-i-1; j++) {\n            if (arr[j] > arr[j+1]) {\n                [arr[j], arr[j+1]] = [arr[j+1], arr[j]];\n            }\n        }\n    }\n    return arr;\n}\n\nlet arr = [64, 34, 25, 12, 22, 11, 90];\nconsole.log(bubbleSort(arr));\n```"
+                }
+            ]
+        },
+        {
+            "intent": "for_loop_python",
+            "examples": [
+                {
+                    "userText": "¿Cómo es un ciclo for en Python?",
+                    "botResponse": "Aquí tienes un ejemplo de un ciclo `for` en Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Como es un ciclo for en Python",
+                    "botResponse": "Aquí tienes un ejemplo de un ciclo `for` en Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "¿Muestrame un ejemplo de ciclo for en Python?",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Muestrame un ejemplo de ciclo for en Python",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "How do I use a for loop in Python?",
+                    "botResponse": "Here is an example of a `for` loop in Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "How do I use a for loop in Python",
+                    "botResponse": "Here is an example of a `for` loop in Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "How does a for loop work in Python?",
+                    "botResponse": "Here is an example of a `for` loop in Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "How does a for loop work in Python",
+                    "botResponse": "Here is an example of a `for` loop in Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                }
+            ]
+        },
+        {
+            "intent": "for_loop_javascript",
+            "examples": [
+                {
+                    "userText": "¿Cómo es un ciclo for en JavaScript?",
+                    "botResponse": "Aquí tienes un ejemplo de un ciclo `for` en JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```"
+                },
+                {
+                    "userText": "Como es un ciclo for en JavaScript",
+                    "botResponse": "Aquí tienes un ejemplo de un ciclo `for` en JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```"
+                },
+                {
+                    "userText": "¿Muéstrame un ejemplo de ciclo for en JavaScript?",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```"
+                },
+                {
+                    "userText": "Muestrame un ejemplo de ciclo for en JavaScript",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```"
+                },
+                {
+                    "userText": "How do I use a for loop in JavaScript?",
+                    "botResponse": "Here is an example of a `for` loop in JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```"
+                },
+                {
+                    "userText": "How do I use a for loop in JavaScript",
+                    "botResponse": "Here is an example of a `for` loop in JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```"
+                },
+                {
+                    "userText": "How does a for loop work in JavaScript?",
+                    "botResponse": "Here is an example of a `for` loop in JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```"
+                },
+                {
+                    "userText": "How does a for loop work in JavaScript",
+                    "botResponse": "Here is an example of a `for` loop in JavaScript:\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n    console.log(i);\n}\n```"
+                }
+            ]
+        },
+        {
+            "intent": "tipos_de_datos_primitivos",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los tipos de datos primitivos en Python?",
+                    "botResponse": "Los tipos de datos primitivos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                },
+                {
+                    "userText": "Cuales son los tipos de datos primitivos en Python",
+                    "botResponse": "Los tipos de datos primitivos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                },
+                {
+                    "userText": "Menciona los tipos de datos básicos en Python",
+                    "botResponse": "Los tipos de datos básicos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                },
+                {
+                    "userText": "Menciona los tipos de datos básicos en Python",
+                    "botResponse": "Los tipos de datos básicos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                },
+                {
+                    "userText": "¿Qué tipos de datos primitivos existen en Python?",
+                    "botResponse": "Los tipos de datos primitivos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                },
+                {
+                    "userText": "Qué tipos de datos primitivos existen en Python",
+                    "botResponse": "Los tipos de datos primitivos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                },
+                {
+                    "userText": "¿Qué tipos de datos básicos hay en Python?",
+                    "botResponse": "Los tipos de datos básicos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                },
+                {
+                    "userText": "Qué tipos de datos básicos hay en Python",
+                    "botResponse": "Los tipos de datos básicos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                },
+                {
+                    "userText": "What are the primitive data types in Python?",
+                    "botResponse": "The primitive data types in Python are:\n1. Integers (int)\n2. Floats (float)\n3. Strings (str)\n4. Booleans (bool)"
+                },
+                {
+                    "userText": "Mention the basic data types in Python",
+                    "botResponse": "The basic data types in Python are:\n1. Integers (int)\n2. Floats (float)\n3. Strings (str)\n4. Booleans (bool)"
+                },
+                {
+                    "userText": "What are the primitive data types in Python?",
+                    "botResponse": "The primitive data types in Python are:\n1. Integers (int)\n2. Floats (float)\n3. Strings (str)\n4. Booleans (bool)"
+                },
+                {
+                    "userText": "¿Cuáles son los tipos básicos de datos en Python?",
+                    "botResponse": "Los tipos básicos de datos en Python son:\n1. Enteros (int)\n2. Flotantes (float)\n3. Cadenas (str)\n4. Booleanos (bool)"
+                }
+            ]
+        },
+        {
+            "intent": "tipos_de_datos_compuestos",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los tipos de datos compuestos en Python?",
+                    "botResponse": "Los tipos de datos compuestos en Python son:\n1. Listas (list)\n2. Tuplas (tuple)\n3. Diccionarios (dict)"
+                },
+                {
+                    "userText": "Cuales son los tipos de datos compuestos en Python",
+                    "botResponse": "Los tipos de datos compuestos en Python son:\n1. Listas (list)\n2. Tuplas (tuple)\n3. Diccionarios (dict)"
+                },
+                {
+                    "userText": "¿Qué tipos de datos compuestos existen en Python?",
+                    "botResponse": "En Python, los tipos de datos compuestos incluyen:\n1. Listas (list)\n2. Tuplas (tuple)\n3. Diccionarios (dict)"
+                },
+                {
+                    "userText": "Qué tipos de datos compuestos existen en Python",
+                    "botResponse": "En Python, los tipos de datos compuestos incluyen:\n1. Listas (list)\n2. Tuplas (tuple)\n3. Diccionarios (dict)"
+                },
+                {
+                    "userText": "Menciona los tipos de datos compuestos de Python",
+                    "botResponse": "Los tipos de datos compuestos en Python son:\n1. Listas (list)\n2. Tuplas (tuple)\n3. Diccionarios (dict)"
+                },
+                {
+                    "userText": "Menciona los tipos de datos compuestos de Python",
+                    "botResponse": "Los tipos de datos compuestos en Python son:\n1. Listas (list)\n2. Tuplas (tuple)\n3. Diccionarios (dict)"
+                },
+                {
+                    "userText": "What are the compound data types in Python?",
+                    "botResponse": "The compound data types in Python are:\n1. Lists (list)\n2. Tuples (tuple)\n3. Dictionaries (dict)"
+                },
+                {
+                    "userText": "What are the composite data types in Python?",
+                    "botResponse": "The composite data types in Python are:\n1. Lists (list)\n2. Tuples (tuple)\n3. Dictionaries (dict)"
+                }
+            ]
+        },
+        {
+            "intent": "declaracion_de_variables",
+            "examples": [
+                {
+                    "userText": "¿Cómo se declara una variable en Python?",
+                    "botResponse": "En Python, no necesitas especificar un tipo para declarar una variable. Solo asignas un valor a un nombre:\n\nx = 5"
+                },
+                {
+                    "userText": "¿Cómo defino una variable en Python?",
+                    "botResponse": "Para definir una variable en Python, asigna un valor a un nombre de la siguiente manera:\n\nvariable = valor"
+                },
+                {
+                    "userText": "¿Cómo declaro una variable?",
+                    "botResponse": "Para declarar una variable en Python, simplemente asigna un valor a un nombre:\n\nvariable = valor"
+                },
+                {
+                    "userText": "How do I declare a variable in Python?",
+                    "botResponse": "In Python, you don't need to specify a type to declare a variable. Just assign a value to a name:\n\nx = 5"
+                },
+                {
+                    "userText": "How do I define a variable in Python?",
+                    "botResponse": "To define a variable in Python, assign a value to a name like this:\n\nvariable = value"
+                },
+                {
+                    "userText": "Cómo se declara una variable en Python",
+                    "botResponse": "En Python, no necesitas especificar un tipo para declarar una variable. Solo asignas un valor a un nombre:\n\nx = 5"
+                },
+                {
+                    "userText": "Cómo defino una variable en Python",
+                    "botResponse": "Para definir una variable en Python, asigna un valor a un nombre de la siguiente manera:\n\nvariable = valor"
+                },
+                {
+                    "userText": "Cómo declaro una variable",
+                    "botResponse": "Para declarar una variable en Python, simplemente asigna un valor a un nombre:\n\nvariable = valor"
+                },
+                {
+                    "userText": "How do I declare a variable in Python",
+                    "botResponse": "In Python, you don't need to specify a type to declare a variable. Just assign a value to a name:\n\nx = 5"
+                },
+                {
+                    "userText": "How do I define a variable in Python",
+                    "botResponse": "To define a variable in Python, assign a value to a name like this:\n\nvariable = value"
+                }
+            ]
+        },
+        {
+            "intent": "operadores_aritmeticos",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los operadores aritméticos en Python?",
+                    "botResponse": "Los operadores aritméticos en Python son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "Menciona los operadores aritméticos en Python",
+                    "botResponse": "En Python, los operadores aritméticos son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "What are the arithmetic operators in Python?",
+                    "botResponse": "The arithmetic operators in Python are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulus)\n6. ** (exponentiation)"
+                },
+                {
+                    "userText": "List the arithmetic operators in Python",
+                    "botResponse": "In Python, the arithmetic operators are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulus)\n6. ** (exponentiation)"
+                },
+                {
+                    "userText": "Cuáles son los operadores aritméticos en Python",
+                    "botResponse": "Los operadores aritméticos en Python son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "Menciona los operadores aritméticos en Python",
+                    "botResponse": "En Python, los operadores aritméticos son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "What are the arithmetic operators in Python",
+                    "botResponse": "The arithmetic operators in Python are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulus)\n6. ** (exponentiation)"
+                },
+                {
+                    "userText": "List the arithmetic operators in Python",
+                    "botResponse": "In Python, the arithmetic operators are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulus)\n6. ** (exponentiation)"
+                }
+            ]
+        },
+        {
+            "intent": "operadores_relacionales",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los operadores relacionales en Python?",
+                    "botResponse": "Los operadores relacionales en Python son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "Menciona los operadores de comparación en Python",
+                    "botResponse": "En Python, los operadores de comparación son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "What are the relational operators in Python?",
+                    "botResponse": "The relational operators in Python are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                },
+                {
+                    "userText": "List the comparison operators in Python",
+                    "botResponse": "In Python, the comparison operators are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                },
+                {
+                    "userText": "Cuáles son los operadores relacionales en Python",
+                    "botResponse": "Los operadores relacionales en Python son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "Menciona los operadores de comparación en Python",
+                    "botResponse": "En Python, los operadores de comparación son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "What are the relational operators in Python",
+                    "botResponse": "The relational operators in Python are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                },
+                {
+                    "userText": "List the comparison operators in Python",
+                    "botResponse": "In Python, the comparison operators are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                }
+            ]
+        },
+        {
+            "intent": "condicionales_python",
+            "examples": [
+                {
+                    "userText": "¿Cómo funciona el condicional if en Python?",
+                    "botResponse": "El condicional `if` en Python funciona de la siguiente manera:\n\n```python\nif condición:\n    # código a ejecutar si la condición es verdadera\n```"
+                },
+                {
+                    "userText": "¿Cómo usar if, elif y else en Python?",
+                    "botResponse": "Puedes usar `if`, `elif` y `else` de la siguiente manera:\n\n```python\nif condición1:\n    # código si la condición1 es verdadera\nelif condición2:\n    # código si la condición2 es verdadera\nelse:\n    # código si ninguna condición es verdadera\n```"
+                },
+                {
+                    "userText": "How does the if conditional work in Python?",
+                    "botResponse": "The `if` conditional in Python works like this:\n\n```python\nif condition:\n    # code to execute if the condition is true\n```"
+                },
+                {
+                    "userText": "How do I use if, elif, and else in Python?",
+                    "botResponse": "You can use `if`, `elif`, and `else` like this:\n\n```python\nif condition1:\n    # code if condition1 is true\nelif condition2:\n    # code if condition2 is true\nelse:\n    # code if neither condition is true\n```"
+                },
+                {
+                    "userText": "Cómo funciona el condicional if en Python",
+                    "botResponse": "El condicional `if` en Python funciona de la siguiente manera:\n\n```python\nif condición:\n    # código a ejecutar si la condición es verdadera\n```"
+                },
+                {
+                    "userText": "Cómo usar if, elif y else en Python",
+                    "botResponse": "Puedes usar `if`, `elif` y `else` de la siguiente manera:\n\n```python\nif condición1:\n    # código si la condición1 es verdadera\nelif condición2:\n    # código si la condición2 es verdadera\nelse:\n    # código si ninguna condición es verdadera\n```"
+                },
+                {
+                    "userText": "How does the if conditional work in Python",
+                    "botResponse": "The `if` conditional in Python works like this:\n\n```python\nif condition:\n    # code to execute if the condition is true\n```"
+                },
+                {
+                    "userText": "How do I use if, elif, and else in Python",
+                    "botResponse": "You can use `if`, `elif`, and `else` like this:\n\n```python\nif condition1:\n    # code if condition1 is true\nelif condition2:\n    # code if condition2 is true\nelse:\n    # code if neither condition is true\n```"
+                }
+            ]
+        },
+        {
+            "intent": "bucles_for_python",
+            "examples": [
+                {
+                    "userText": "¿Cómo hacer un ciclo for en Python?",
+                    "botResponse": "En Python, un ciclo `for` se escribe así:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Muéstrame un ejemplo de ciclo for en Python",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "How do I write a for loop in Python?",
+                    "botResponse": "In Python, a `for` loop is written like this:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Show me an example of a for loop in Python",
+                    "botResponse": "Here is an example of a `for` loop in Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Cómo hacer un ciclo for en Python",
+                    "botResponse": "En Python, un ciclo `for` se escribe así:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Muéstrame un ejemplo de ciclo for en Python",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "How do I write a for loop in Python",
+                    "botResponse": "In Python, a `for` loop is written like this:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Show me an example of a for loop in Python",
+                    "botResponse": "Here is an example of a `for` loop in Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                }
+            ]
+        },
+        {
+            "intent": "operadores_aritmeticos",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los operadores aritméticos en Python?",
+                    "botResponse": "Los operadores aritméticos en Python son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "Menciona los operadores aritméticos en Python",
+                    "botResponse": "En Python, los operadores aritméticos son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "What are the arithmetic operators in Python?",
+                    "botResponse": "The arithmetic operators in Python are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulus)\n6. ** (exponentiation)"
+                },
+                {
+                    "userText": "List the arithmetic operators in Python",
+                    "botResponse": "In Python, the arithmetic operators are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulus)\n6. ** (exponentiation)"
+                },
+                {
+                    "userText": "Cuáles son los operadores aritméticos en Python",
+                    "botResponse": "Los operadores aritméticos en Python son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "Menciona los operadores aritméticos en Python",
+                    "botResponse": "En Python, los operadores aritméticos son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "What are the arithmetic operators in Python",
+                    "botResponse": "The arithmetic operators in Python are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulus)\n6. ** (exponentiation)"
+                },
+                {
+                    "userText": "List the arithmetic operators in Python",
+                    "botResponse": "In Python, the arithmetic operators are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulus)\n6. ** (exponentiation)"
+                }
+            ]
+        },
+        {
+            "intent": "operadores_relacionales",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los operadores relacionales en Python?",
+                    "botResponse": "Los operadores relacionales en Python son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "Menciona los operadores de comparación en Python",
+                    "botResponse": "En Python, los operadores de comparación son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "What are the relational operators in Python?",
+                    "botResponse": "The relational operators in Python are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                },
+                {
+                    "userText": "List the comparison operators in Python",
+                    "botResponse": "In Python, the comparison operators are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                },
+                {
+                    "userText": "Cuáles son los operadores relacionales en Python",
+                    "botResponse": "Los operadores relacionales en Python son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "Menciona los operadores de comparación en Python",
+                    "botResponse": "En Python, los operadores de comparación son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "What are the relational operators in Python",
+                    "botResponse": "The relational operators in Python are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                },
+                {
+                    "userText": "List the comparison operators in Python",
+                    "botResponse": "In Python, the comparison operators are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                }
+            ]
+        },
+        {
+            "intent": "bucles_for_python",
+            "examples": [
+                {
+                    "userText": "¿Cómo hacer un ciclo for en Python?",
+                    "botResponse": "En Python, un ciclo `for` se escribe así:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Muéstrame un ejemplo de ciclo for en Python",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "How do I write a for loop in Python?",
+                    "botResponse": "In Python, a `for` loop is written like this:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                },
+                {
+                    "userText": "Show me an examp of a for loop in Python",
+                    "botResponse": "Here is an example of a `for` loop in Python:\n\n```python\nfor i in range(5):\n    print(i)\n```"
+                }
+            ]
+        },
+        {
+            "intent": "tipos_de_datos_primitivos_js",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los tipos de datos primitivos en JavaScript?",
+                    "botResponse": "Los tipos de datos primitivos en JavaScript son:\n1. Números (Number)\n2. Cadenas de texto (String)\n3. Booleanos (Boolean)\n4. Null\n5. Undefined\n6. Símbolos (Symbol)"
+                },
+                {
+                    "userText": "Menciona los tipos de datos básicos en JavaScript",
+                    "botResponse": "Los tipos de datos básicos en JavaScript son:\n1. Números (Number)\n2. Cadenas de texto (String)\n3. Booleanos (Boolean)\n4. Null\n5. Undefined\n6. Símbolos (Symbol)"
+                },
+                {
+                    "userText": "What are the primitive data types in JavaScript?",
+                    "botResponse": "The primitive data types in JavaScript are:\n1. Numbers (Number)\n2. Strings (String)\n3. Booleans (Boolean)\n4. Null\n5. Undefined\n6. Symbols (Symbol)"
+                },
+                {
+                    "userText": "Mention the basic data types in JavaScript",
+                    "botResponse": "The basic data types in JavaScript are:\n1. Numbers (Number)\n2. Strings (String)\n3. Booleans (Boolean)\n4. Null\n5. Undefined\n6. Symbols (Symbol)"
+                }
+            ]
+        },
+        {
+            "intent": "tipos_de_datos_compuestos_js",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los tipos de datos compuestos en JavaScript?",
+                    "botResponse": "En JavaScript, los tipos de datos compuestos son:\n1. Arreglos (Array)\n2. Objetos (Object)"
+                },
+                {
+                    "userText": "¿Qué tipos de datos complejos existen en JavaScript?",
+                    "botResponse": "En JavaScript, los tipos de datos compuestos son:\n1. Arreglos (Array)\n2. Objetos (Object)"
+                },
+                {
+                    "userText": "What are the composite data types in JavaScript?",
+                    "botResponse": "In JavaScript, the composite data types are:\n1. Arrays (Array)\n2. Objects (Object)"
+                },
+                {
+                    "userText": "What are the complex data types in JavaScript?",
+                    "botResponse": "In JavaScript, the complex data types are:\n1. Arrays (Array)\n2. Objects (Object)"
+                }
+            ]
+        },
+        {
+            "intent": "declaracion_de_variables_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo se declara una variable en JavaScript?",
+                    "botResponse": "En JavaScript, puedes declarar una variable utilizando `var`, `let` o `const`:\n\nlet x = 5;"
+                },
+                {
+                    "userText": "¿Cómo defino una variable en JavaScript?",
+                    "botResponse": "Para definir una variable en JavaScript, puedes usar:\n\nlet miVariable = valor;\nvar miVariable = valor;\nconst miVariable = valor;"
+                },
+                {
+                    "userText": "How do I declare a variable in JavaScript?",
+                    "botResponse": "In JavaScript, you can declare a variable using `var`, `let`, or `const`:\n\nlet x = 5;"
+                },
+                {
+                    "userText": "How do I define a variable in JavaScript?",
+                    "botResponse": "To define a variable in JavaScript, you can use:\n\nlet myVariable = value;\nvar myVariable = value;\nconst myVariable = value;"
+                }
+            ]
+        },
+        {
+            "intent": "operadores_aritmeticos_js",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los operadores aritméticos en JavaScript?",
+                    "botResponse": "Los operadores aritméticos en JavaScript son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "Menciona los operadores aritméticos en JavaScript",
+                    "botResponse": "En JavaScript, los operadores aritméticos son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "What are the arithmetic operators in JavaScript?",
+                    "botResponse": "The arithmetic operators in JavaScript are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulo)\n6. ** (exponentiation)"
+                },
+                {
+                    "userText": "Mention the arithmetic operators in JavaScript",
+                    "botResponse": "In JavaScript, the arithmetic operators are:\n1. + (addition)\n2. - (subtraction)\n3. * (multiplication)\n4. / (division)\n5. % (modulo)\n6. ** (exponentiation)"
+                }
+            ]
+        },
+        {
+            "intent": "operadores_relacionales_js",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los operadores relacionales en JavaScript?",
+                    "botResponse": "Los operadores relacionales en JavaScript son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "Menciona los operadores de comparación en JavaScript",
+                    "botResponse": "En JavaScript, los operadores de comparación son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "What are the relational operators in JavaScript?",
+                    "botResponse": "The relational operators in JavaScript are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                },
+                {
+                    "userText": "Mention the comparison operators in JavaScript",
+                    "botResponse": "In JavaScript, the comparison operators are:\n1. == (equal to)\n2. != (not equal to)\n3. < (less than)\n4. > (greater than)\n5. <= (less than or equal to)\n6. >= (greater than or equal to)"
+                }
+            ]
+        },
+        {
+            "intent": "condicionales_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo funciona el condicional if en JavaScript?",
+                    "botResponse": "En JavaScript, el condicional `if` se escribe de la siguiente manera:\n\nif (condición) {\n  // código a ejecutar si la condición es verdadera\n}"
+                },
+                {
+                    "userText": "¿Cómo usar if, else y else if en JavaScript?",
+                    "botResponse": "En JavaScript, puedes usar `if`, `else if` y `else` así:\n\nif (condición1) {\n  // código si la condición1 es verdadera\n} else if (condición2) {\n  // código si la condición2 es verdadera\n} else {\n  // código si ninguna condición es verdadera\n}"
+                },
+                {
+                    "userText": "How does the if statement work in JavaScript?",
+                    "botResponse": "In JavaScript, the `if` statement is written as follows:\n\nif (condition) {\n  // code to execute if the condition is true\n}"
+                },
+                {
+                    "userText": "How do I use if, else, and else if in JavaScript?",
+                    "botResponse": "In JavaScript, you can use `if`, `else if`, and `else` like this:\n\nif (condition1) {\n  // code if condition1 is true\n} else if (condition2) {\n  // code if condition2 is true\n} else {\n  // code if no condition is true\n}"
+                }
+            ]
+        },
+        {
+            "intent": "bucles_for_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo hago un ciclo for en JavaScript?",
+                    "botResponse": "En JavaScript, un ciclo `for` se usa así:\n\nfor (let i = 0; i < 5; i++) {\n  console.log(i);\n}"
+                },
+                {
+                    "userText": "Muéstrame un ejemplo de ciclo for en JavaScript",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en JavaScript:\n\nfor (let i = 0; i < 5; i++) {\n  console.log(i);\n}"
+                },
+                {
+                    "userText": "How do I write a for loop in JavaScript?",
+                    "botResponse": "In JavaScript, a `for` loop is used like this:\n\nfor (let i = 0; i < 5; i++) {\n  console.log(i);\n}"
+                },
+                {
+                    "userText": "Show me an example of a for loop in JavaScript",
+                    "botResponse": "Here is an example of a `for` loop in JavaScript:\n\nfor (let i = 0; i < 5; i++) {\n  console.log(i);\n}"
+                }
+            ]
+        },
+        {
+            "intent": "tipos_de_datos_primitivos_js",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los tipos de datos primitivos en JavaScript?",
+                    "botResponse": "Los tipos de datos primitivos en JavaScript son:\n1. Números (Number)\n2. Cadenas de texto (String)\n3. Booleanos (Boolean)\n4. Null\n5. Undefined\n6. Símbolos (Symbol)"
+                },
+                {
+                    "userText": "Menciona los tipos de datos básicos en JavaScript",
+                    "botResponse": "Los tipos de datos básicos en JavaScript son:\n1. Números (Number)\n2. Cadenas de texto (String)\n3. Booleanos (Boolean)\n4. Null\n5. Undefined\n6. Símbolos (Symbol)"
+                }
+            ]
+        },
+        {
+            "intent": "tipos_de_datos_compuestos_js",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los tipos de datos compuestos en JavaScript?",
+                    "botResponse": "En JavaScript, los tipos de datos compuestos son:\n1. Arreglos (Array)\n2. Objetos (Object)"
+                },
+                {
+                    "userText": "¿Qué tipos de datos complejos existen en JavaScript?",
+                    "botResponse": "En JavaScript, los tipos de datos compuestos son:\n1. Arreglos (Array)\n2. Objetos (Object)"
+                }
+            ]
+        },
+        {
+            "intent": "declaracion_de_variables_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo se declara una variable en JavaScript?",
+                    "botResponse": "En JavaScript, puedes declarar una variable utilizando `var`, `let` o `const`:\n\nlet x = 5;"
+                },
+                {
+                    "userText": "¿Cómo defino una variable en JavaScript?",
+                    "botResponse": "Para definir una variable en JavaScript, puedes usar:\n\nlet miVariable = valor;\nvar miVariable = valor;\nconst miVariable = valor;"
+                }
+            ]
+        },
+        {
+            "intent": "operadores_aritmeticos_js",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los operadores aritméticos en JavaScript?",
+                    "botResponse": "Los operadores aritméticos en JavaScript son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                },
+                {
+                    "userText": "Menciona los operadores aritméticos en JavaScript",
+                    "botResponse": "En JavaScript, los operadores aritméticos son:\n1. + (suma)\n2. - (resta)\n3. * (multiplicación)\n4. / (división)\n5. % (módulo)\n6. ** (potencia)"
+                }
+            ]
+        },
+        {
+            "intent": "operadores_relacionales_js",
+            "examples": [
+                {
+                    "userText": "¿Cuáles son los operadores relacionales en JavaScript?",
+                    "botResponse": "Los operadores relacionales en JavaScript son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                },
+                {
+                    "userText": "Menciona los operadores de comparación en JavaScript",
+                    "botResponse": "En JavaScript, los operadores de comparación son:\n1. == (igual a)\n2. != (diferente de)\n3. < (menor que)\n4. > (mayor que)\n5. <= (menor o igual que)\n6. >= (mayor o igual que)"
+                }
+            ]
+        },
+        {
+            "intent": "condicionales_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo funciona el condicional if en JavaScript?",
+                    "botResponse": "En JavaScript, el condicional `if` se escribe de la siguiente manera:\n\nif (condición) {\n  // código a ejecutar si la condición es verdadera\n}"
+                },
+                {
+                    "userText": "¿Cómo usar if, else y else if en JavaScript?",
+                    "botResponse": "En JavaScript, puedes usar `if`, `else if` y `else` así:\n\nif (condición1) {\n  // código si la condición1 es verdadera\n} else if (condición2) {\n  // código si la condición2 es verdadera\n} else {\n  // código si ninguna condición es verdadera\n}"
+                }
+            ]
+        },
+        {
+            "intent": "bucles_for_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo hago un ciclo for en JavaScript?",
+                    "botResponse": "En JavaScript, un ciclo `for` se usa así:\n\nfor (let i = 0; i < 5; i++) {\n  console.log(i);\n}"
+                },
+                {
+                    "userText": "Muéstrame un ejemplo de ciclo for en JavaScript",
+                    "botResponse": "Aquí tienes un ejemplo de ciclo `for` en JavaScript:\n\nfor (let i = 0; i < 5; i++) {\n  console.log(i);\n}"
+                }
+            ]
+        },
+        {
+            "intent": "funciones_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo declaro una función en JavaScript?",
+                    "botResponse": "Para declarar una función en JavaScript, usas la palabra clave `function`:\n\nfunction miFuncion() {\n  // código de la función\n}"
+                },
+                {
+                    "userText": "¿Cómo paso parámetros a una función en JavaScript?",
+                    "botResponse": "Puedes pasar parámetros a una función de esta manera:\n\nfunction miFuncion(param1, param2) {\n  // código\n}"
+                }
+            ]
+        },
+        {
+            "intent": "arreglos_listas_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo creo un arreglo en JavaScript?",
+                    "botResponse": "En JavaScript, un arreglo se crea de esta manera:\n\nlet miArreglo = [1, 2, 3, 4];"
+                },
+                {
+                    "userText": "¿Cómo acceder a los elementos de un arreglo en JavaScript?",
+                    "botResponse": "Puedes acceder a los elementos de un arreglo en JavaScript usando índices:\n\nlet elemento = miArreglo[0];  // Accede al primer elemento"
+                }
+            ]
+        },
+        {
+            "intent": "ordenamiento_burbuja_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo implemento el algoritmo de Bubble Sort en JavaScript?",
+                    "botResponse": "Aquí tienes el código de Bubble Sort en JavaScript:\n\nfunction bubbleSort(arr) {\n  let n = arr.length;\n  for (let i = 0; i < n; i++) {\n    for (let j = 0; j < n - i - 1; j++) {\n      if (arr[j] > arr[j + 1]) {\n        let temp = arr[j];\n        arr[j] = arr[j + 1];\n        arr[j + 1] = temp;\n      }\n    }\n  }\n  return arr;\n}\n\nlet arr = [64, 34, 25, 12, 22, 11, 90];\nconsole.log(bubbleSort(arr));"
+                }
+            ]
+        },
+        {
+            "intent": "bases_de_datos_js",
+            "examples": [
+                {
+                    "userText": "¿Cómo puedo hacer una consulta SELECT en JavaScript usando MySQL?",
+                    "botResponse": "Para hacer una consulta SELECT en JavaScript usando MySQL:\n\nconst mysql = require('mysql');\n\nlet connection = mysql.createConnection({\n  host: 'localhost',\n  user: 'root',\n  password: '',\n  database: 'mi_base_de_datos'\n});\n\nconnection.connect();\n\nconnection.query('SELECT * FROM mi_tabla', (err, results, fields) => {\n  if (err) throw err;\n  console.log(results);\n});\n\nconnection.end();"
+                }
+            ]
+        },
+        {
+            "intent": "presentacion",
+            "examples": [
+                {
+                    "userText": "Quien eres",
+                    "botResponse": "Soy un asistente virtual creado para ayudarte con todo lo relacionado con programación, desarrollo de software y tecnología. ¿Hay algo específico sobre lo que te gustaría aprender o resolver hoy?"
+                },
+                {
+                    "userText": "Que sabes hacer",
+                    "botResponse": "Puedo ayudarte con diversos temas como programación en diferentes lenguajes, resolución de problemas técnicos, explicación de conceptos de software, y más. ¿Te gustaría comenzar con algo específico?"
+                },
+                {
+                    "userText": "Que eres capaz de hacer",
+                    "botResponse": "Soy capaz de ofrecerte soluciones a problemas de programación, explicarte diversos conceptos tecnológicos, proporcionarte ejemplos de código, y apoyarte en proyectos de desarrollo de software. ¿Cómo puedo asistirte mejor?"
+                },
+                {
+                    "userText": "Que haces",
+                    "botResponse": "Mi función principal es asistirte con cualquier pregunta sobre programación, tecnología y desarrollo de software. Si necesitas ejemplos prácticos, explicaciones o ayuda para resolver problemas, estoy aquí para eso. ¿Cómo te gustaría comenzar?"
+                },
+                {
+                    "userText": "Cuales son tus habilidades",
+                    "botResponse": "Mis habilidades incluyen ayudarte con programación en lenguajes como Python, JavaScript, y más. Además, puedo explicarte conceptos complejos de manera simple, proporcionarte ejemplos prácticos y ayudarte con tus proyectos de software. ¿En qué te gustaría profundizar?"
+                },
+                {
+                    "userText": "¿Quién eres?",
+                    "botResponse": "Soy un asistente virtual creado para ayudarte con todo lo relacionado con programación, desarrollo de software y tecnología. ¿Hay algo específico sobre lo que te gustaría aprender o resolver hoy?"
+                },
+                {
+                    "userText": "¿Qué sabes hacer?",
+                    "botResponse": "Puedo ayudarte con diversos temas como programación en diferentes lenguajes, resolución de problemas técnicos, explicación de conceptos de software, y más. ¿Te gustaría comenzar con algo específico?"
+                },
+                {
+                    "userText": "¿Qué eres capaz de hacer?",
+                    "botResponse": "Soy capaz de ofrecerte soluciones a problemas de programación, explicarte diversos conceptos tecnológicos, proporcionarte ejemplos de código, y apoyarte en proyectos de desarrollo de software. ¿Cómo puedo asistirte mejor?"
+                },
+                {
+                    "userText": "¿Qué haces?",
+                    "botResponse": "Mi función principal es asistirte con cualquier pregunta sobre programación, tecnología y desarrollo de software. Si necesitas ejemplos prácticos, explicaciones o ayuda para resolver problemas, estoy aquí para eso. ¿Cómo te gustaría comenzar?"
+                },
+                {
+                    "userText": "¿Cuáles son tus habilidades?",
+                    "botResponse": "Mis habilidades incluyen ayudarte con programación en lenguajes como Python, JavaScript, y más. Además, puedo explicarte conceptos complejos de manera simple, proporcionarte ejemplos prácticos y ayudarte con tus proyectos de software. ¿En qué te gustaría profundizar?"
+                },
+                {
+                    "userText": "Who are you",
+                    "botResponse": "I am a virtual assistant created to help you with everything related to programming, software development, and technology. Is there something specific you'd like to learn or solve today?"
+                },
+                {
+                    "userText": "What can you do",
+                    "botResponse": "I can help you with various topics like programming in different languages, troubleshooting technical problems, explaining software concepts, and more. Would you like to start with something specific?"
+                },
+                {
+                    "userText": "What are you capable of doing",
+                    "botResponse": "I am capable of offering solutions to programming problems, explaining various technological concepts, providing code examples, and assisting with software development projects. How can I assist you better?"
+                },
+                {
+                    "userText": "What do you do",
+                    "botResponse": "My main function is to assist you with any questions about programming, technology, and software development. If you need practical examples, explanations, or help with solving problems, I am here for that. How would you like to get started?"
+                },
+                {
+                    "userText": "What are your skills",
+                    "botResponse": "My skills include helping with programming in languages like Python, JavaScript, and more. I can also explain complex concepts simply, provide practical examples, and assist with your software projects. What would you like to dive deeper into?"
+                }
+            ]
         }
     ]
 }
