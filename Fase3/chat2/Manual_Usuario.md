@@ -15,6 +15,7 @@ Este chatbot ha sido diseñado para interactuar con los usuarios en temas de tec
 - Archivo `conversations.json` para almacenar conversaciones.
 
 ## Instrucciones de Uso
+![Interfaz completa](../Fase3/chat2/Imagenes/completo.png)
 
 ### 1. Inicio de sesión
 1. Introduce tu **carnet** y **clave** en los campos correspondientes del sidebar.
@@ -74,5 +75,3 @@ Haz clic en el botón **Instrucciones** para ver una guía rápida dentro de la 
 - Respuestas más personalizadas y con IA avanzada.
 - Soporte multilenguaje.
 
-## Contacto y Soporte
-Para consultas técnicas o sugerencias, contáctanos en: **soporte@chatbot-ia1.com**.
